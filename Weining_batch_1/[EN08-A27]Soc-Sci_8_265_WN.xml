@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="discourse.v4_cn.css"?><html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wkwsci.ntu.edu.sg/discourse# discourse.v4_cn.xsd">
+ <head><title>
+  Direct and Indirect Effects of Grandparent Education on Grandchildren’s Cognitive Development: The Role of Parental Cognitive Ability</title>
+ </head>
+ <body>
+   <l1>Direct and Indirect Effects of Grandparent Education on Grandchildren’s Cognitive Development: The Role of Parental Cognitive Ability</l1>
+  <l2>Abstract</l2>
+<abstract>
+  <p id="d1e36">
+   <s id="d1e46"><arg argID="001" type="claim" claimType="literature-evaluate/critique" comments_Ivanka="Or Research gap.">The social stratification literature is inconclusive about whether there is a direct effect of grandparent resources on grandchildren’s educational outcomes net of parental characteristics.</arg></s>
+   <s id="d1e116">
+    <arg argID="002" type="support" supportType="motivation/justification">Some of this heterogeneity may be due to differences in omitted variable bias at the parental level.</arg></s>
+   <s id="d1e121">
+    <arg argID="002" type="claim" claimType="research_objective">Our article accounts for a more extensive set of parent characteristics and explores the mediating role of parental cognitive ability in more detail.</arg></s>
+   <s id="d1e126">
+    <arg argID="003" type="claim" claimType="research_objective">It further tackles methodological challenges (treatment-induced mediator–outcome confounders, treatment–mediator interaction) in assessing any direct influences of grandparents</arg> <arg argID="003" type="support" supportType="method">by using a regression-with-residuals approach.</arg></s>
+   <s id="d1e131">
+    <arg argID="004" type="support" supportType="method">Using the 1970 British Cohort Study,</arg> <arg argID="004" type="claim" claimType="result">our results show that the direct effect of grandparent education on grandchildren’s verbal and numerical ability is small and statistically nonsignificant.</arg></s>
+   <s id="d1e136">
+    <arg argID="005" type="claim" claimType="result">Parental cognitive ability alone can account for more than two-thirds (numerical ability) or half (verbal ability) of the overall grandparent effect.</arg></s>
+   <s id="d1e141">
+    <arg argID="006" type="claim" claimType="general_result">These findings stress the importance of cognitive ability for intergenerational social mobility processes.</arg></s>
+  </p>
+</abstract>
+<intro>
+<l2>Introduction</l2>
+  <p id="d1e146">
+   <s id="d1e148">
+    <arg argID="001" type="claim" claimType="research_issue">MULTIGENERATIONAL mobility processes have increasingly become of interest to social stratification researchers,</arg> <arg argID="001" type="support" supportType="motivation/justification">partly as a reaction to Mare’s (2011) call to overcome the “two-generation paradigm” that dominated the literature for decades.</arg></s>
+   <s id="d1e166">
+    <arg argID="002" type="claim" claimType="literature-highlight_claim">In this literature, the main interest is whether grandparents’ (G1) education or class has a direct impact on grandchildren’s (G3) outcomes (e.g., cognitive development, educational attainment) net of parental (G2) characteristics.</arg></s>
+   <s id="d1e171">
+    <arg argID="002" type="support" supportType="example">A recent systematic review on grandparent effects on educational outcomes included 69 analyses from 40 publications (Anderson, Sheppard, and Monden 2018).</arg></s>
+   <s id="d1e176">
+    <arg argID="003" type="claim" claimType="literature-summarize/generalize">Although the literature has expanded recently (Daw, Gaddis, and Morse 2020; Engzell, Mood, and Jonsson 2020; Erola et al. 2018; Fiel 2019; Jæger and Blaabæk 2021; Lehti, Erola, and Tan- skanen 2018; Liu 2018; Lundberg 2020; Neidhöfer and Stockhausen 2019; Pfeffer and Killewald 2018; Sheppard and Monden 2018; Song and Mare 2019; Xie and Zhang 2019; Zhang and Li 2018),</arg> <arg argID="004" type="claim" claimType="research_gap">findings are inconclusive whether there is a direct effect of grandparent socioeconomic characteristics on grandchildren’s educational outcomes.</arg></s>
+   <s id="d1e180">
+    <arg argID="004" type="support" supportType="cited_authors_claim/opinion">In their review, Anderson et al. (2018) concluded that 58 percent of studies found a statistically significant association between G1 socioeconomic characteristics and G3 educational outcomes net of G2 characteristics.</arg></s>
+   <s id="d1e188"><arg argID="004" type="support" supportType="cited_authors_claim/opinion">They estimated that, on average, 30 percent of the G1–G3 association remains once G2 information is included in the modeling.</arg></s>
+  </p>
+  <p id="d1e206">
+   <s id="d1e221">
+    <arg argID="010" type="claim" claimType="research_issue">A primary concern when estimating the direct effect of G1 socioeconomic characteristics on G3 outcomes is omitted variable bias on the G2 level (Mare 2014; Pfeffer 2014).</arg></s>
+   <s id="d1e226">
+    <arg argID="011" type="claim" claimType="general_statement">Various pathways through which grandparent resources may influence grandchildren’s outcomes via parents exist, and failing to condition on important G2 characteristics may bias the direct effect of G1 socioeconomic characteristics.</arg></s>
+   <s id="d1e231">
+    <arg argID="012" type="support" supportType="cited_authors_claim/opinion">However, Anderson et al. (2018) conclude that studies conditioning on a larger number of parental variables did not attenuate the G1 effect more considerably than studies with a limited number.</arg></s>
+   <s id="d1e241">
+    <arg argID="012" type="support" supportType="cited_authors_claim/opinion">They argue that this provides some reassur- ance in the robustness of direct effects of G1 socioeconomic characteristics on G3 educational outcomes.</arg></s>
+   <s id="d1e246">
+    <arg argID="012" type="support" supportType="cited_authors_claim/opinion">By contrast, Engzell et al. (2020) showed that the size of the direct grandparent effect significantly varies with measurement error on the G2 level and depends on studies’ sample and specification characteristics.</arg></s>
+   <s id="d1e256">
+    <arg argID="012" type="claim" claimType="literature-derive/infer">Hence, it is not surprising that findings are so varied, and heterogeneity in operationalizing parental measures and modeling strategies complicates the interpretation of findings on grandparent effects.</arg></s>
+  </p>
+  <p id="d1e261">
+   <s id="d1e266">
+    <arg argID="020" type="claim" claimType="research_objective">In this article, we aim to stress the role of parental cognitive ability in multigenerational mobility processes.</arg></s>
+   <s id="d1e271">
+    <arg argID="021" type="support" supportType="established_knowledge" comments_Ivanka="prefer to tag established knowledge as the authors used the term &quot;abundant evidence&quot;">There is abundant evidence for a strong relationship between parents’ socioeconomic status and children’s cognitive development (e.g., Connelly and Gayle 2019; Dearden, Sibieta, and Sylva 2011; Sullivan, Ketende, and Joshi 2013) and intergenerational reproduction of cognitive ability (Crawford, Goodman, and Joyce 2011; de Coulon, Meschi, and Vignoles 2011)</arg>
+   </s>
+   <s id="d1e276">
+    <arg argID="021" type="claim" claimType="hypothesis">Given these associations, it is reasonable to assume that parental cognitive ability is an important mediator of the relationship between G1 resources and G3 outcomes.</arg></s>
+   <s id="d1e281">
+    <arg argID="022" type="claim" claimType="research_gap">However, the grandparent literature has largely ignored the role of cognitive ability at the G2 level (for exceptions, see Hällsten and Pfeffer 2017; Stuhler 2012).</arg></s>
+   <s id="d1e286">
+    <arg argID="022" type="support" supportType="motivation/justification">Accounting for parental cognitive ability alone may significantly reduce the direct effect of grandparent resources on grandchildren’s educational outcomes (Engzell et al. 2020).</arg></s>
+  </p>
+  <p id="d1e290">
+   <s id="d1e294">
+    <arg argID="030" type="claim" claimType="research_gap">Although existing studies on multigenerational reproduction, including the recent systematic review, discuss the issue of omitted variable bias on the G2 level, they have largely ignored other fundamental methodological issues (for exceptions, see Hällsten and Pfeffer 2017; Song 2016).</arg></s>
+   <s id="d1e300">
+    <arg argID="031" type="support" supportType="cited_authors_claim/opinion">In a recent critique of this literature, Breen (2018) highlighted that identifying the direct effect of G1 socioeconomic characteristics on G3 outcomes is notoriously difficult as unobserved factors (U) causing G2 characteristics and G3 outcomes may lead to estimates of a direct G1 effect that suffer from collider bias.</arg></s>
+   <s id="d1e306">
+    <arg argID="031" type="claim" claimType="general_statement">That is, conditioning on G2 characteristics potentially opens up noncausal paths from G1 to G2 to U to G3, leading to biased estimates of direct effect.</arg></s>
+  </p>
+  <p id="d1e310">
+   <s id="d1e312">
+    <arg argID="040" type="claim" claimType="method">Researchers can partly overcome this problem by controlling for observable mediator–outcome confounders in their analysis</arg>.</s>
+   <s id="d1e316">
+    <arg argID="041" type="claim" claimType="research_issue">However, this strategy may be problematic if G1 characteristics are causally linked to post-treatment confounders of the association between G2 characteristics and G3 outcomes.</arg></s>
+   <s id="d1e320">
+    <arg argID="045" type="support" supportType="practical_problem">In this scenario, avoiding collider bias by adjusting for treatment-induced mediator–outcome confounders in the analysis may result in overcontrol bias and biased estimates of the direct effect of G1 socioeconomic characteristics on G3 outcomes (Acharya, Black- well, and Sen 2016).</arg></s>
+   <s id="d1e322">
+    <arg argID="045" type="claim" claimType="topic_centrality">These issues imply that not only is it relevant to adjust for a comprehensive set of G2 variables, but it also matters how we adjust for them.</arg></s>
+  </p>
+  <p id="d1e330">
+   <s id="d1e332">
+    <arg argID="060" type="claim" claimType="research_objective">This article estimates the direct and indirect effect of G1 education on G3 cognitive development and advances the literature on multigenerational social repro- duction in several meaningful ways.</arg></s>
+   <s id="d1e340">
+    <arg argID="061" type="claim" claimType="method">First, in our analyses, we go beyond standard socioeconomic measures and condition on a large set of G2 characteristics, including parents’ cognitive ability.</arg></s>
+   <s id="d1e346">
+    <arg argID="061" type="support" supportType="motivation/justification">Hence, we can address some of the concerns around omitted variable bias on the G2 level.</arg></s>
+   <s id="d1e350">
+    <arg argID="062" type="claim" claimType="method">Second, we use a novel statistical technique, causal mediation analysis using regression with residuals (RWR; Wodtke and Zhou 2020), to deal with collider and overcontrol bias in the study of multigenerational mobility.</arg></s>
+   <s id="d1e354">
+    <arg argID="062" type="support" supportType="explanation/elaboration" comments_Ivanka="Or Established knowledge coz it has a citation">Causal mediation analysis further allows us to estimate direct and indirect effects in the presence of interactions between G1 (treatment) and G2 (mediator) characteristics (VanderWeele 2016).</arg></s>
+   <s id="d1e360">
+    <arg argID="063" type="claim" claimType="method">Using data from the British Cohort Study 1970 (BCS70), we exploit that the BCS70 randomly selected half of the cohort members at age 34 who lived with their natural or adopted children for additional child assessments, including their cognitive ability.</arg></s>
+   <s id="d1e366">
+    <arg argID="064" type="claim" claimType="literature-compare/relate" comments_Ivanka="只和其他研究中的樣本資料比較，並非點出不同，所以用lit-compare/relate">Other than in most previous research using G1 information provided by parents,</arg> <arg argID="095" type="claim" claimType="method">this prospective design allows us to use G1 characteristics provided by grandparents when parents were young.</arg></s>
+   <s id="d1e370">
+    <arg argID="065" type="support" supportType="motivation/justification" comments_Ivanka="Or Established knowledge coz it has citations">Hence, measurement error and attenuation bias on the G1 level should be limited (Anderson et al. 2018; Mare 2014).</arg></s>
+  </p>
+</intro>
+  <l2>
+   Grandparents’ Education and Grandchildren’s Cognitive Development
+  </l2>
+  <p id="d1e391">
+   <s id="d1e396">
+    A central hypothesis in the grandparent literature is that grandparents can directly shape their grandchildren’s development via frequent contact and interaction (Duni- fon, Near, and Ziol-Guest 2018).
+   </s>
+   <s id="d1e401">
+    Grandparents’ education may influence grandchil- dren’s cognitive ability in the same way as parental education (Guryan, Hurst, and Kearney 2008; Kalil, Ryan, and Corey 2012; Sayer, Gauthier, and Furstenberg 2004).
+   </s>
+   <s id="d1e406">
+    Highly educated grandparents may spend more time with their grandchildren or spend more time in educational activities (e.g., reading to grandchildren, visiting museums, helping with homework) that stimulate their cognitive development than grandparents who are less educated.
+   </s>
+   <s id="d1e411">
+    Grandparents’ education may also posi- tively influence grandchildren’s educational aspirations and their attitudes towards learning.
+   </s>
+  </p>
+  <p id="d1e416">
+   <s id="d1e421">
+    This contact-based mechanism may only operate if grandparents are alive and live close to their children.
+   </s>
+   <s id="d1e426">
+    Hence, grandparent education should only matter for grandchildren’s cognitive development if grandparents have the opportunity to spend time with their children and use their resources in the learning and socialization of their grandchildren.
+   </s>
+   <s id="d1e431">
+    Many studies that tested this interaction between G1 resources and measures of G1 proximity were unable to find any evidence of differences in the G1 effect across G1 availability (e.g., Bol and Kalmijn 2016; Braun and Stuhler 2018; Ferguson and Ready 2011; Sheppard and Monden 2018).
+   </s>
+  </p>
+  <p id="d1e436">
+   <s id="d1e441">
+    Grandparents may also transfer financial resources in their lifetime or after death to their children (Hochguertel and Ohlsson 2009).
+   </s>
+  </p>
+  <p id="d1e446">
+   <s id="d1e451">
+    or high-quality early childcare to stimulate their learning (Linver, Brooks-Gunn, and Kohen 2002; Yeung, Linver, and Brooks-Gunn 2002).
+   </s>
+   <s id="d1e456">
+    Because grandparent education is strongly associated with wages, highly educated grandparents are more likely to financially support their children and grandchildren.
+   </s>
+   <s id="d1e461">
+    Grandparents also have an impact on grandchildren through their social networks.
+   </s>
+   <s id="d1e466">
+    The more educated grandparents are, the more beneficial their social networks may be in stimulating grandchildren’s cognitive development.
+   </s>
+   <s id="d1e471">
+    Parents whose parents have higher educational qualifications may rely on these networks irrespective of whether grandparents are alive or dead.
+   </s>
+  </p>
+  <p id="d1e476">
+   <s id="d1e481">
+    The effect of grandparent education on grandchildren’s cognitive development may depend on the magnitude of parental resources (Anderson et al.
+   </s>
+   <s id="d1e486">
+    2018).
+   </s>
+   <s id="d1e491">
+    The “compensation hypothesis” suggests that the direct effect of G1 resources on G3 out- comes is smaller when G2 cognitive ability is high.
+   </s>
+   <s id="d1e496">
+    This is because parents may not harness additional grandparent resources as much as they would if their cognitive resources were low.
+   </s>
+   <s id="d1e501">
+    Grandparents may also abstain from intervening in family life and parenting if their children have sufficient abilities to raise their grandchildren.
+   </s>
+   <s id="d1e506">
+    Hence, grandparents may only activate their resources—be it financially, socially, or via stimulating interactions with their grandchildren—if they need to compensate for their children’s lack of cognitive ability (Bengtson 2001).
+   </s>
+  </p>
+  <p id="d1e511">
+   <s id="d1e516">
+    By contrast, Chiang and Park (2015) postulate the “augmentation hypothesis” suggesting that only highly educated parents can activate grandparent resources.
+   </s>
+   <s id="d1e521">
+    Less educated parents may have limited knowledge and information on learning and cannot exploit grandparent resources stimulating children’s development.
+   </s>
+   <s id="d1e526">
+    Although empirical tests of the moderating role of G2 resources in the association between G1 resources and G3 outcomes are relatively sparse, the literature provides more evidence for the compensation hypothesis (for an overview, see Anderson et al.
+   </s>
+   <s id="d1e531">
+    2018; Braun and Stuhler 2018; Daw et al.
+   </s>
+   <s id="d1e536">
+    2020; Deindl and Tieben 2016; Jæger 2012; Ziefle 2016).
+   </s>
+  </p>
+  <l1>
+   Some Methodological Issues in Multigenerational Mobility Research
+  </l1>
+  <p id="d1e541">
+   <s id="d1e546">
+    The standard approach to investigating whether grandparents directly affect their grandchildren has been to estimate the association between their characteristics net of parental factors.
+   </s>
+   <s id="d1e551">
+    A key challenge in this literature is to specify the relevant parental variables and obtain reliable measures (Engzell et al.
+   </s>
+   <s id="d1e556">
+    2020).
+   </s>
+   <s id="d1e561">
+    However, finding and accurately accounting for the relevant parental variables is not suf- ficient.
+   </s>
+   <s id="d1e566">
+    To identify direct grandparent effects, the analyst also needs to assume that there is no (unmeasured) confounding of the association between grandparent and child characteristics, grandparent and parent characteristics, and parent and child characteristics.
+   </s>
+   <s id="d1e571">
+    The majority of empirical studies did not readily address this concern (Breen 2018).
+   </s>
+   <s id="d1e576">
+    In the current study, we highlight two additional challenges for studies of direct grandparent effects: (1) confounders that are themselves af- fected by the grandparent characteristics (treatment-induced confounding) and (2) interactions between grandparent and parent characteristics.
+   </s>
+  </p>
+  <p id="d1e581">
+   <s id="d1e586">
+    <span class="anchor" id="_bookmark0">
+    </span>
+    Figure 1: Causal relations between grandparent education (X), parental characteristics (M), and child cognitive ability (Y).
+   </s>
+  </p>
+  <p id="d1e591">
+   <s id="d1e596">
+    To fix ideas, consider Figure 1, which displays a typical mediation scenario where grandparent education (X) affects parental characteristics (M), which in turn affects children’s cognitive ability (Y).
+   </s>
+   <s id="d1e601">
+    X is also hypothesized to affect Y directly, the causal relation of key interest in the grandparent effects literature.
+   </s>
+   <s id="d1e606">
+    In this scenario, both defining and identifying the direct and indirect effect of grandparent education is straightforward.
+   </s>
+   <s id="d1e611">
+    The direct effect (net of parental characteristics) is composed only of the arrow from X to Y.
+   </s>
+   <s id="d1e616">
+    It is identified by the association between X and Y conditional on M and baseline confounders Z.
+   </s>
+   <s id="d1e621">
+    The indirect effect is composed of the two effects X→M and M→Y.
+   </s>
+   <s id="d1e626">
+    The first effect is identified by the association between X and M conditional on Z, the second effect by the association between M and Y conditional on X and Z.
+   </s>
+  </p>
+  <p id="d1e631">
+   <s id="d1e636">
+    However, assuming such a multigenerational mobility scenario seems implau- sible (see Figure 2).
+   </s>
+   <s id="d1e641">
+    There are likely to be additional grandparent characteristics (depicted as L in Figure 2), for example, grandparent wealth.
+   </s>
+   <s id="d1e646">
+    These G1 characteris- tics are potentially affected by our exposure of interest, grandparent education (X), and affect some or all parental characteristics M and child outcome Y.
+   </s>
+   <s id="d1e651">
+    This more realistic scenario comes with several challenges for identifying the direct effect of X (net of all parental characteristics) and the indirect effect of X through one or more M.
+   </s>
+  </p>
+  <p id="d1e656">
+   <s id="d1e661">
+    Identifying the direct effect of X requires us to condition on all parental character-
+   </s>
+  </p>
+  <p id="d1e666">
+   <s id="d1e671">
+    istics.
+   </s>
+  </p>
+  <p id="d1e676">
+   <s id="d1e681">
+    <span class="anchor" id="_bookmark1">
+    </span>
+    Figure 2: Causal relations between grandparent education (X), parental characteristics (M), and child cognitive ability (Y) in the presence of treatment-induced mediator– outcome confounders (L).
+   </s>
+  </p>
+  <p id="d1e686">
+   <s id="d1e691">
+    colliders on a path from X to Y.
+   </s>
+   <s id="d1e696">
+    This is the result of other grandparent characteristics at the G1 level (Z and L in Figure 2) affecting both parental characteristics (M) and grandchild outcome Y.
+   </s>
+   <s id="d1e701">
+    Any association between X and Y conditional on M may mix the direct effect of interest and noncausal associations due to conditioning on a collider.
+   </s>
+   <s id="d1e706">
+    At first glance, the direct effect may be recovered by additionally condi- tioning on these other G1 characteristics, Z and L, which would erase the noncausal association created by conditioning on a collider.
+   </s>
+   <s id="d1e711">
+    However, upon noting that the effect of X not mediated by G2 characteristics in this scenario includes X→L→Y in addition to X→Y, it becomes evident that conditioning on L will also not recover the effect of interest.
+   </s>
+   <s id="d1e716">
+    Conditioning on L will instead lead to overcontrol bias, as it would eliminate parts of the association resulting from the effect of interest (i.e., X→L→Y).
+   </s>
+  </p>
+  <p id="d1e721">
+   <s id="d1e726">
+    Moreover, potential interactions between X and M (as discussed in the section “Grandparents’ Education and Grandchildren’s Cognitive Development”) result in conceptual difficulties in defining direct and indirect effects.
+   </s>
+  </p>
+  <p id="d1e731">
+   <s id="d1e736">
+    M.
+   </s>
+   <s id="d1e741">
+    If a treatment–mediator interaction exists and is not accounted for, this can also bias the estimates for direct and indirect effects.
+   </s>
+  </p>
+  <p id="d1e746">
+   <s id="d1e751">
+    In sum, to address the challenges of identifying the direct and indirect effects of grandparent education, we need to find a set of parental variables M that blocks all indirect paths through parental characteristics.
+   </s>
+  </p>
+  <p id="d1e756">
+   <s id="d1e761">
+    parent variables for which conditioning would eliminate bias from conditioning on the parental collider variables without blocking any of the paths from X to Y.
+   </s>
+   <s id="d1e766">
+    We rely on specific statistical methods that account for these covariates without blocking part of the direct effect and allow for effect decomposition in the presence of treatment-induced confounders.
+   </s>
+   <s id="d1e771">
+    Below we provide a precise definition of the effects of interest in our analysis and describe the methods used for estimation.
+   </s>
+  </p>
+  <l1>
+   Methods and Data
+  </l1>
+  <l2>
+   Analytic Strategy
+  </l2>
+  <p id="d1e776">
+   <s id="d1e781">
+    The target quantity in the bulk of the literature on grandparent effects is colloquially referred to as the direct effect of the respective grandparent characteristic, that is, the effect that is not transmitted through any parent characteristics.
+   </s>
+   <s id="d1e786">
+    However, once we allow for interactions between grandparent and parent characteristics, there is a host of different direct effects depending on the values of the parent characteristics.
+   </s>
+   <s id="d1e791">
+    Each of these effects has different theoretical implications.
+   </s>
+   <s id="d1e796">
+    For this analysis, we focus on the natural direct effect (NDE) or, more specifically, its randomized intervention analogue (NDER) (VanderWeele 2016).
+   </s>
+   <s id="d1e801">
+    This direct effect answers whether, after deactivating any influence through M, X still affects Y, the central question in the grandparent effects literature.
+   </s>
+   <s id="d1e806">
+    The NDER represents a population average of the direct effect over the levels of the mediator.
+   </s>
+  </p>
+  <p id="d1e811">
+   <s id="d1e816">
+    NDER = E (YxGxt|Z \ − E (Yxt Gxt|Z \ .
+   </s>
+  </p>
+  <p id="d1e821">
+   <s id="d1e826">
+    The definition is based on potential outcomes, Yxm, which capture the outcome had a child been exposed to values of X and M.
+   </s>
+   <s id="d1e831">
+    The NDER can be identified under the assumptions outlined above that the sets of confounders Z and L are measured and can thus be adjusted for.
+   </s>
+  </p>
+  <p id="d1e836">
+   <s id="d1e841">
+    To estimate the association that identifies the NDER, we use an RWR approach (Wodtke and Zhou 2020; Zhou and Wodtke 2019).
+   </s>
+  </p>
+  <p id="d1e846">
+   <s id="d1e851">
+    E (Y | Z, X, L, M) = β0 + βTZ⊥ + β2X + βTL⊥ + βTM + βTXM, (2)
+   </s>
+  </p>
+  <p id="d1e856">
+   <s id="d1e861">
+    1 3 4 5
+   </s>
+  </p>
+  <p id="d1e866">
+   <s id="d1e871">
+    where Z⊥ refers to a vector of mean-centered baseline confounders and L⊥ to a vector of residualized treatment-induced confounders.
+   </s>
+   <s id="d1e876">
+    The latter can be obtained by a set of models estimating the conditional mean for each treatment-induced confounder given grandparent education and mean-centered baseline confounders.
+   </s>
+  </p>
+  <p id="d1e881">
+   <s id="d1e886">
+    <span class="anchor" id="_bookmark3">
+    </span>
+    Figure 3: Causal relations between grandparent education (X), parental characteristics (M), and child cognitive ability (Y) in the presence of residualized post-treatment mediator–outcome confounders (L⊥).
+   </s>
+  </p>
+  <p id="d1e891">
+   <s id="d1e896">
+    Because the residualized treatment-induced confounders (L⊥) are independent of X and Z, their adjustment does not induce over-control bias (see Figure 3).
+   </s>
+  </p>
+  <p id="d1e901">
+   <s id="d1e906">
+    We also need a set of models for the parent characteristics given baseline con- founders and grandparent education.
+   </s>
+  </p>
+  <p id="d1e911">
+   <s id="d1e916">
+    E (M | Z, X) = θ0 + θTZ⊥ + θ2X.
+   </s>
+  </p>
+  <p id="d1e921">
+   <s id="d1e926">
+    For categorical mediators, we use probability models that can be estimated using logistic regression.
+   </s>
+   <s id="d1e931">
+    If all relevant confounders are included and all models (Eqs.
+   </s>
+  </p>
+  <p id="d1e936">
+   <s id="d1e941">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e946">
+   <s id="d1e951">
+    = β2 + βTθ0.
+   </s>
+  </p>
+  <p id="d1e956">
+   <s id="d1e961">
+    Concrete estimates are obtained by fitting the required models using (general- ized) linear models and computing the respective term in Equation (4) based on the fitted models.
+   </s>
+   <s id="d1e966">
+    Standard errors are computed using the nonparametric bootstrap.
+   </s>
+  </p>
+  <p id="d1e971">
+   <s id="d1e976">
+    Our second goal is to assess the role of parental cognitive ability in more detail.
+   </s>
+  </p>
+  <p id="d1e981">
+   <s id="d1e986">
+    indirect effect (NIER) of grandparent education through parent cognitive ability on child outcomes, which is formally defined as follows:
+   </s>
+  </p>
+  <p id="d1e991">
+   <s id="d1e996">
+    NIER = E （YxGx|Z ） − E (YxGxt|Z \ .
+   </s>
+  </p>
+  <p id="d1e1001">
+   <s id="d1e1006">
+    It captures the average difference in the child outcome Y if all children in the population were exposed to grandparents with an undergraduate degree or higher (X = 1) and then were exposed to a value of parental cognitive ability randomly drawn from the distribution under “undergraduate degree or higher” rather than under “below undergraduate degree.” In other words, it represents the effect of grandparent education once all pathways not running through parental cognitive ability are disabled.
+   </s>
+   <s id="d1e1011">
+    Subsequently, we can calculate the proportion of the total effect of grandparent education mediated by parent cognitive ability alone.
+   </s>
+  </p>
+  <p id="d1e1016">
+   <s id="d1e1021">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e1026">
+   <s id="d1e1031">
+    = θ2 (β4 + β5) (6)
+   </s>
+  </p>
+  <p id="d1e1036">
+   <s id="d1e1041">
+    once the model in Equation (2) only includes parental cognitive ability in M.
+   </s>
+  </p>
+  <l2>
+   Data
+  </l2>
+  <p id="d1e1046">
+   <s id="d1e1051">
+    We draw on longitudinal information from three generations using the BCS70, which followed the lives of people born in England, Scotland, and Wales in a single week of 1970 (Elliott and Shepherd 2006).
+   </s>
+   <s id="d1e1056">
+    Data were collected at birth, ages five, 10, 16, and 26, and four-year intervals from 30 onwards.
+   </s>
+   <s id="d1e1061">
+    Crucially, the BCS70 randomly selected half of the cohort members who lived with their natural and adopted children at the age of 34 (n = 2, 846) for additional questions and assessments with their children, including numerical and verbal ability (n = 5, 207).
+   </s>
+   <s id="d1e1066">
+    Although all parents were of the same age, children between three and 16 were interviewed and tested with age-specific assessments.
+   </s>
+   <s id="d1e1071">
+    Therefore, our analysis is restricted to children born to parents of the 1970 cohort in 2001 or earlier (n = 3, 499).
+   </s>
+   <s id="d1e1076">
+    The prospective design allows us to use information on socioeconomic resources among G1 (parents’ cohort members), G2 (cohort members), and G3’s scores in cognitive assessments.
+   </s>
+   <s id="d1e1081">
+    Grandparents provided information on their socioeconomic characteristics in wave three when cohort members were aged 10 (Butler, Bynner, and Centre for Longi- tudinal Studies 2016).
+   </s>
+   <s id="d1e1086">
+    Parental characteristics are taken from the third wave and the first wave (Chamberlain 2013) when measuring early childhood indicators and from wave seven (age 34) when measuring their socioeconomic resources (Centre for Longitudinal Studies, 2016).
+   </s>
+   <s id="d1e1091">
+    Our analytical sample excluded grandparents with a minority ethnic background, as small case numbers (n = 98) prevent us from explicitly adjusting for ethnicity in our models.
+   </s>
+   <s id="d1e1096">
+    Listwise deletion leaves us with complete cases for 1,898 (1,884) children from 1,120 (1,109) families for the analysis on verbal ability (numerical ability).
+   </s>
+  </p>
+  <l2>
+   Variables
+  </l2>
+  <p id="d1e1101">
+   <s id="d1e1106">
+    Our outcome of interest is the child’s cognitive ability (depicted as Y in Figure 3) using the British Ability Scales Second Edition, a widely used battery of individually administered tests of cognitive abilities and educational achievements for children between the ages of 2.5 and 17 years (Elliott et al.
+   </s>
+   <s id="d1e1111">
+    1996, 1997).
+   </s>
+   <s id="d1e1116">
+    Children aged three to five were tested on Naming Vocabulary, whereas children aged six to 16 were tested on Word Reading.
+   </s>
+   <s id="d1e1121">
+    Numerical ability was assessed with Early Number Concepts among young children and assessed with Number Skills among older children.
+   </s>
+   <s id="d1e1126">
+    For all tests, we use test scores that correct for differences in item difficulty.
+   </s>
+  </p>
+  <p id="d1e1131">
+   <s id="d1e1136">
+    Age-normalizing verbal and numerical test scores in these data is not straight- forward, given that the child’s age is collinear with the parent’s age at the child’s birth.
+   </s>
+   <s id="d1e1141">
+    This is problematic if parents’ age is also correlated with other parental char- acteristics influenced by G1 characteristics and determinative of G3 cognitive ability.
+   </s>
+   <s id="d1e1146">
+    Age-normalizing would, therefore, partially adjust for some of the G2 characteristics that we wish to consider as mediators in our outcome model.
+   </s>
+   <s id="d1e1151">
+    To avoid this problem, we follow the approach by Crawford et al.
+   </s>
+   <s id="d1e1156">
+    (2011), in which we normalize test scores by using the residuals from a regression of test scores on age and all other variables used in the outcome models.
+   </s>
+  </p>
+  <p id="d1e1161">
+   <s id="d1e1166">
+    Our treatment is the highest educational qualification among cohort members’ parents (depicted as X in Figure 2), which we operationalize as a binary indicator of grandparent education differentiating between “undergraduate degree or higher” and “below undergraduate degree.”
+   </s>
+  </p>
+  <p id="d1e1171">
+   <s id="d1e1176">
+    Our mediators are parental characteristics (depicted as M in Figure 2) of the cohort member measuring standard socioeconomic dimensions such as parental education, class, income, and wealth.
+   </s>
+   <s id="d1e1181">
+    Parental education and parental class are mea- sured with the cohort member’s information.
+   </s>
+   <s id="d1e1186">
+    Parental education is operationalized using four categories: (1) none, (2) lower secondary schooling (O-level or equiva- lent), (3) upper secondary schooling (A-level or equivalent), and (4) undergraduate degree or higher.
+   </s>
+   <s id="d1e1191">
+    Parental class is measured using the eight-category analytical version of the National Statistics Socio-Economic Classification (NS-SEC): (1) higher managerial and professional occupations, (2) lower managerial and professional occupations, (3) intermediate occupations, (4) small employers and own account workers, (5) lower supervisory and technical occupations, (6) semi-routine occu- pations, (7) routine occupations, and (8) never worked or long-term unemployed.
+   </s>
+   <s id="d1e1196">
+    Parental income is derived from information on the cohort member’s and partner’s total take-home pay after all deductions (e.g., tax, national insurance, union dues, pension) and income sources other than work—we approximate parental wealth with indicators of homeownership and savings, and investments.
+   </s>
+   <s id="d1e1201">
+    For homeowner- ship, we differentiate between owning a home (outright or mortgage) and renting a home.
+   </s>
+   <s id="d1e1206">
+    A continuous measure of parental savings and investments is based on how much the cohort member has in savings and investments altogether.
+   </s>
+  </p>
+  <p id="d1e1211">
+   <s id="d1e1216">
+    We also account for family circumstances and resources by combining infor- mation on family structure, partner’s education, and partner’s class position: (1) no partner, (2) partner left education at age 16/not employed in managerial or professional occupations, (3) partner continued education after age 16/not em- ployed in managerial and professional occupations, (4) partner left education at
+   </s>
+  </p>
+  <p id="d1e1221">
+   <s id="d1e1226">
+    age 16/employed in managerial or professional occupations, (5) partner continued education after age 16/employed in managerial or professional occupations.
+   </s>
+   <s id="d1e1231">
+    To account for the wider family environment, we use a measure of parents’ number of siblings (grandchild’s number of aunts and uncles): (1) zero, (2) one sibling, (3) two siblings, (4) three siblings, (5) more than four siblings.
+   </s>
+  </p>
+  <p id="d1e1236">
+   <s id="d1e1241">
+    Aside from these common socioeconomic characteristics, we use parental infor- mation on birth weight (in grams), cognitive ability, and health.
+   </s>
+   <s id="d1e1246">
+    Parental cognitive ability at age 10 is measured with four subscales from the British Ability Scales: word definition, word similarities, recall of digits, and matrices (Elliott, Murray, and Pearson 1979).
+   </s>
+   <s id="d1e1251">
+    We used principal component analysis following previous studies (Connelly and Gayle 2019; Schoon 2010).
+   </s>
+   <s id="d1e1256">
+    Parental health is measured with a self-assessment at age 34 comprising four categories: (1) excellent, (2) good, (3) fair, (4) poor/very poor.
+   </s>
+  </p>
+  <p id="d1e1261">
+   <s id="d1e1266">
+    As baseline confounders (depicted as Z in Figure 2), we consider the region where grandparents lived when parents were born: North, Yorks and Humberside, East Midlands, East Anglia, South East, South West, West Midlands, North West, Wales, and Scotland.
+   </s>
+   <s id="d1e1271">
+    Treatment-induced mediator–outcome confounders (depicted as L in Figure 2) are measured with grandparents’ income, class position, homeownership status, and self-reported health when parents were 10 years old.
+   </s>
+   <s id="d1e1276">
+    Grandparents’ income refers to total gross weekly family income when the parent was 10 years old and is derived from a banded income question: “Less than £35 per week,” “£35 to 49£ per week,” “£50 to £99 per week,” “£100 to £149 per week,” “£150 to £199 per week,” “£200 to £249 per week,” “More than £250 per week.” To use this measure as a continuous variable, we take the categories’ midpoints and multiply the highest income category with the factor 1.1.
+   </s>
+   <s id="d1e1281">
+    The grandparent class is operationalized with NS-SEC using additional occupational coding provided by Gregg (2012).
+   </s>
+   <s id="d1e1286">
+    We follow the “dominance principle” and measure the highest class position among grandparents differentiating between working class, intermediate class, and service class.
+   </s>
+   <s id="d1e1291">
+    Grandparents’ homeownership status is measured by differentiating between owning a home (owned outright/being bought) and renting a home when the parent was 10 years old.
+   </s>
+   <s id="d1e1296">
+    Grandparents’ health is measured by asking whether grandparents had any severe or prolonged illness (medical, surgical, or psychiatric) or any handicap or disability since the child’s fifth birthday (see Table 1 in the online supplement for summary statistics on all variables).
+   </s>
+  </p>
+  <l1>
+   Findings
+  </l1>
+  <p id="d1e1301">
+   <s id="d1e1306">
+    Table 1 presents estimates for the NDER of grandparent education on grandchil- dren’s verbal and cognitive ability under different model specifications.
+   </s>
+   <s id="d1e1311">
+    Estimates in models M1 through M4 are derived from a conditional mean model of the child outcomes described in Equation (3).
+   </s>
+  </p>
+  <p id="d1e1316">
+   <s id="d1e1321">
+    between grandparent education and parent characteristics (βT
+   </s>
+  </p>
+  <p id="d1e1326">
+   <s id="d1e1331">
+    = 0).
+   </s>
+  </p>
+  <p id="d1e1336">
+   <s id="d1e1341">
+    model M1 does not include any control variables, model M2 adjusts for the base- line confounder region.
+   </s>
+   <s id="d1e1346">
+    Model M3 includes all parent characteristics.
+   </s>
+   <s id="d1e1351">
+    Model M4 additionally controls for untransformed treatment-induced confounders (L; see again Figure 2).
+   </s>
+   <s id="d1e1356">
+    Models M5 and M6 estimate the NDER using an RWR approach.
+   </s>
+  </p>
+  <p id="d1e1361">
+   <s id="d1e1366">
+    Table 1: NDER of G1
+    <span class="anchor" id="_bookmark6">
+    </span>
+    education on G3 verbal (n = 1, 898) and numerical ability (n = 1, 884)
+   </s>
+  </p>
+  <p id="d1e1371">
+   <s id="d1e1376">
+    Notes: M1: Bivariate.
+   </s>
+   <s id="d1e1381">
+    M2: G1 region (Z).
+   </s>
+   <s id="d1e1386">
+    M3: M2 + all G2 variables (M).
+   </s>
+   <s id="d1e1391">
+    M4: M3 + treatment-induced confounders (L).
+   </s>
+   <s id="d1e1396">
+    M5: M3 + residualized treatment-induced confounders (L⊥).
+   </s>
+   <s id="d1e1401">
+    M6: M5 + G1 education × G2 cognitive ability.
+   </s>
+   <s id="d1e1406">
+    M1 through M4 estimated by ordinary least squares; M5 and M6 estimated by an RWR approach and 1,000 bootstrap replications.
+   </s>
+   <s id="d1e1411">
+    Cluster-robust standard errors at the family level in parentheses.
+   </s>
+  </p>
+  <p id="d1e1416">
+   <s id="d1e1421">
+    † p &lt; 0.01; ∗ p &lt; 0.05.
+   </s>
+  </p>
+  <p id="d1e1426">
+   <s id="d1e1431">
+    Whereas M5 adjusts for residualized treatment-induced confounders (L⊥; see again Figure 3), M6 allows for an interaction between grandparent education and parental cognitive ability in the outcome model.
+   </s>
+   <s id="d1e1436">
+    Comparing M4 with M5 and M6 allows us to assess to what extent treatment-induced confounders and interactions between grandparent and parent characteristics (in this case, G2 cognitive ability) bias the estimation of the direct effect of grandparent education on child outcomes.
+   </s>
+  </p>
+  <p id="d1e1441">
+   <s id="d1e1446">
+    Table 1 indicates that a grandparent education of undergraduate degree or higher is associated with an eight-point higher verbal ability for the grandchildren.
+   </s>
+   <s id="d1e1451">
+    This is equivalent to a difference of more than a third of the standard deviation of verbal ability (SD = 21.43).
+   </s>
+   <s id="d1e1456">
+    Although the association changes little when including grandparents’ region into the model, it is substantially reduced to less than one point on the verbal ability scale when adjusting for all measured parental characteristics.
+   </s>
+   <s id="d1e1461">
+    Accounting for treatment-induced confounders in the fourth model does not change the estimate for the NDER of grandparent education of undergraduate degree or higher, nor does appropriately adjusting for these post-treatment confounders in the fifth model.
+   </s>
+   <s id="d1e1466">
+    Modeling an interaction between G1 “undergraduate degree or higher” and G2 cognitive ability somewhat increases the estimate of the NDER to more than 1.3 points on the verbal ability scale.
+   </s>
+   <s id="d1e1471">
+    This shows that we underestimate the direct effect of grandparent education on grandchildren’s cognitive ability without allowing for heterogeneity in the grandparent effect across parents’ cognitive ability.
+   </s>
+   <s id="d1e1476">
+    Nevertheless, the estimate in model M6 is not statistically significant, and its size is small.
+   </s>
+  </p>
+  <p id="d1e1481">
+   <s id="d1e1486">
+    For numerical ability, we found the same patterns across the six models.
+   </s>
+   <s id="d1e1491">
+    The ad- vantage for children whose grandparents have an undergraduate degree or higher equals less than six points on the age-normalized scale.
+   </s>
+   <s id="d1e1496">
+    This is equivalent to one- third of the standard deviation of numerical ability (SD = 16.76).
+   </s>
+   <s id="d1e1501">
+    Hence, the gross associations with grandparent education are very similar across different forms of cognitive ability (verbal, numerical).
+   </s>
+   <s id="d1e1506">
+    Again, the association between G1 “under- graduate degree or higher” and G3 cognitive ability is very much reduced when adjusting for all measured parental characteristics in the third model.
+   </s>
+   <s id="d1e1511">
+    Adjusting for treatment-induced confounders using an RWR approach does not make any difference to the estimate of the NDER.
+   </s>
+  </p>
+  <p id="d1e1516">
+   <s id="d1e1521">
+    Table 2: Decomposition
+    <span class="anchor" id="_bookmark7">
+    </span>
+    of G1 education effect on G3 verbal (n = 1, 898) and numerical ability (n = 1, 884) into direct and indirect effect via G2 cognitive ability (M)
+   </s>
+  </p>
+  <p id="d1e1526">
+   <s id="d1e1531">
+    M1 M2 M3
+   </s>
+  </p>
+  <p id="d1e1536">
+   <s id="d1e1541">
+    Verbal ability
+   </s>
+  </p>
+  <p id="d1e1546">
+   <s id="d1e1551">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e1556">
+   <s id="d1e1561">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e1566">
+   <s id="d1e1571">
+    7.819† 7.819† 7.819†
+   </s>
+  </p>
+  <p id="d1e1576">
+   <s id="d1e1581">
+    (1.362) (1.362) (1.362)
+   </s>
+  </p>
+  <p id="d1e1586">
+   <s id="d1e1591">
+    5.223† 4.921† 4.145†
+   </s>
+  </p>
+  <p id="d1e1596">
+   <s id="d1e1601">
+    (0.675) (0.674) (1.197)
+   </s>
+  </p>
+  <p id="d1e1606">
+   <s id="d1e1611">
+    Percentage explained by M 66.8 62.9 53.0
+   </s>
+  </p>
+  <p id="d1e1616">
+   <s id="d1e1621">
+    Numerical ability
+   </s>
+  </p>
+  <p id="d1e1626">
+   <s id="d1e1631">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e1636">
+   <s id="d1e1641">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e1646">
+   <s id="d1e1651">
+    5.598† 5.598† 5.599†
+   </s>
+  </p>
+  <p id="d1e1656">
+   <s id="d1e1661">
+    (1.216) (1.216) (1.215)
+   </s>
+  </p>
+  <p id="d1e1666">
+   <s id="d1e1671">
+    3.485† 3.275† 2.283∗
+   </s>
+  </p>
+  <p id="d1e1676">
+   <s id="d1e1681">
+    (0.510) (0.511) (1.159)
+   </s>
+  </p>
+  <p id="d1e1686">
+   <s id="d1e1691">
+    Percentage explained by M 62.3 58.5 40.8
+   </s>
+  </p>
+  <p id="d1e1696">
+   <s id="d1e1701">
+    Notes: M1: G1 region (Z) + G2 cognitive ability (M).
+   </s>
+   <s id="d1e1706">
+    M2: M1 + residualized treatment-induced confounders (L⊥).
+   </s>
+   <s id="d1e1711">
+    M3: M2 + G1 education × G2 cognitive ability (M).
+   </s>
+  </p>
+  <p id="d1e1716">
+   <s id="d1e1721">
+    using 1,000 bootstrap replications; ATER
+   </s>
+  </p>
+  <p id="d1e1726">
+   <s id="d1e1731">
+    = randomized intervention analogue of the average total effect;
+   </s>
+  </p>
+  <p id="d1e1736">
+   <s id="d1e1741">
+    R RWR
+   </s>
+  </p>
+  <p id="d1e1746">
+   <s id="d1e1751">
+    = randomized intervention analogue of the natural indirect effect.
+   </s>
+  </p>
+  <p id="d1e1756">
+   <s id="d1e1761">
+    L⊥ include G1 class, income, homeownership, health, and G2 birth weight.
+   </s>
+  </p>
+  <p id="d1e1766">
+   <s id="d1e1771">
+    the family level in parentheses.
+   </s>
+   <s id="d1e1776">
+    † p &lt; 0.01; ∗ p &lt; 0.05.
+   </s>
+  </p>
+  <p id="d1e1781">
+   <s id="d1e1786">
+    cognitive ability in the association between grandparent education and grandchil- dren’s numerical ability.
+   </s>
+   <s id="d1e1791">
+    However, the estimate is not statistically significant, and the size remains small (around 10 percent of the standard deviation).
+   </s>
+  </p>
+  <p id="d1e1796">
+   <s id="d1e1801">
+    Table 2 considers the mediating role of parental cognitive ability in the effect of grandparent education on grandchildren’s verbal and numerical ability.
+   </s>
+   <s id="d1e1806">
+    The first model in Table 2 provides estimates for the NIER via parental cognitive ability alone.
+   </s>
+   <s id="d1e1811">
+    The second model additionally accounts for residualized treatment-induced confounders in the outcome model.
+   </s>
+   <s id="d1e1816">
+    In addition to treatment-induced confounders at the G1 level, we also include the residualized G2 birth weight in the outcome model, as parents’ birth weight is a confounder of the effect of parental cognitive ability on children’s verbal and numerical ability.
+   </s>
+   <s id="d1e1821">
+    All other G2 characteristics potentially mediate the link between G2 cognitive ability and G1 outcomes and, consequently, are not included in the model.
+   </s>
+   <s id="d1e1826">
+    The last model estimates the NIER when including an interaction term between grandparent education and parental cognitive ability in the outcome model.
+   </s>
+  </p>
+  <p id="d1e1831">
+   <s id="d1e1836">
+    Table 2 also displays the percentage of the randomized intervention analogue of the average total effect (ATER = NIER + NDER) mediated by parental cognitive ability.
+   </s>
+   <s id="d1e1841">
+    This provides a measure of the extent to which the indirect pathway via parental cognitive ability explains the overall effect of grandparent education on grandchildren’s outcomes.
+   </s>
+   <s id="d1e1846">
+    The first model shows that around two-thirds of the ATE of grandparent education on grandchildren’s verbal and numerical ability is explained by parental cognitive ability alone.
+   </s>
+  </p>
+  <p id="d1e1851">
+   <s id="d1e1856">
+    an interaction between treatment and mediator.
+   </s>
+   <s id="d1e1861">
+    The second model illustrates that we would slightly overestimate the NIER via parental cognitive ability on both outcomes if we did not account for residualized treatment-induced confounders.
+   </s>
+   <s id="d1e1866">
+    The mediating role of G2 cognitive ability is further reduced when modeling an interaction between grandparent education and parental cognitive ability, particu- larly for numerical ability.
+   </s>
+   <s id="d1e1871">
+    In the last model, the ATER of grandparent education explained by parental cognitive ability is 53 percent for verbal ability and 40.8 percent for numerical ability.
+   </s>
+   <s id="d1e1876">
+    This reduces the NIER by 21 percent (verbal ability) and 35 percent (numerical ability) from the first model commonly used in tradi- tional mediation analyses.
+   </s>
+   <s id="d1e1881">
+    Whereas the NDER would be interpreted as statistically nonsignificant in the first model for both outcomes, it would be considered statis- tically significant at the five percent level in the last model.
+   </s>
+   <s id="d1e1886">
+    Nevertheless, even when appropriately modeling treatment-induced confounders and allowing for a treatment–mediator interaction, parental cognitive ability is a strong mediator of the link between grandparent education and grandchildren’s verbal and numerical ability.
+   </s>
+  </p>
+  <l1>
+   Discussion
+  </l1>
+  <p id="d1e1891">
+   <s id="d1e1896">
+    This article aimed to contribute to the literature on multigenerational mobility by investigating the role of parental cognitive ability in mediating the association between grandparent education and grandchildren’s cognitive ability.
+   </s>
+   <s id="d1e1901">
+    A funda- mental interest in the grandparent literature is to assess whether grandparents directly affect their grandchildren’s development net of any parental influences.
+   </s>
+   <s id="d1e1906">
+    However, parents’ cognitive ability levels were overlooked mainly when estimating the direct effect of grandparent resources on grandchildren’s outcomes, possibly leading to omitted variable bias at the parent level.
+   </s>
+   <s id="d1e1911">
+    Furthermore, we raised some methodological challenges (treatment-induced confounders; treatment–mediator interaction) that may bias the estimate for the direct effect of grandparent education on grandchildren’s cognitive outcomes.
+   </s>
+   <s id="d1e1916">
+    We suggested focusing on the NDER and an RWR approach to overcome these issues.
+   </s>
+  </p>
+  <p id="d1e1921">
+   <s id="d1e1926">
+    Our findings align both with early research (Warren and Hauser 1997) and more recent findings (e.g., Engzell et al.
+   </s>
+   <s id="d1e1931">
+    2020) on grandparent effects, showing that there is only a small, if any, direct effect of grandparent education on grandchildren’s verbal and numerical ability once all indirect paths through parent characteristics were disabled.
+   </s>
+   <s id="d1e1936">
+    Although appropriately dealing with treatment-induced confounders does not affect the estimation of the direct effect of grandparent education, we would have somewhat underestimated the direct effect had we not modeled an interaction between treatment and parental cognitive ability.
+   </s>
+  </p>
+  <p id="d1e1941">
+   <s id="d1e1946">
+    Disentangling the direct and indirect pathways via parents’ cognitive ability shows that this mediator alone can account for more than two-thirds (numerical ability) or half (verbal ability) of the effect of grandparent education on grandchil- dren’s cognitive outcomes.
+   </s>
+   <s id="d1e1951">
+    Hence, parental levels of cognitive ability cannot be ignored when estimating the direct effect of grandparent resources on grandchil- dren’s outcomes.
+   </s>
+  </p>
+  <p id="d1e1956">
+   <s id="d1e1961">
+    dren’s development.
+   </s>
+   <s id="d1e1966">
+    Although the mediating role of parental cognitive ability is significant, our causal mediation analysis illustrates that we would overestimate the indirect effect via parental cognitive ability had we not appropriately accounted for treatment-induced confounders and a treatment–mediator interaction.
+   </s>
+  </p>
+  <p id="d1e1971">
+   <s id="d1e1976">
+    What are the lessons for the grandparent literature and the social stratification literature generally? First, reducing measurement error in socioeconomic charac- teristics across all generations is essential (Engzell et al.
+   </s>
+   <s id="d1e1981">
+    2020), but it also vital to capture parental characteristics as much as possible to avoid omitted variable bias.
+   </s>
+   <s id="d1e1986">
+    Although Anderson et al.
+   </s>
+   <s id="d1e1991">
+    (2018) found that, on average, 30 percent of the grandparent effect remains once studies accounted for parental characteristics, only 11 percent (verbal ability) and 16 percent (numerical ability) remain in our analysis once we disable all mediating pathways via parental characteristics.
+   </s>
+   <s id="d1e1996">
+    Hence, having detailed information on the parental generation is key for estimating the direct effect of grandparent resources, the target quantity of interest.
+   </s>
+  </p>
+  <p id="d1e2001">
+   <s id="d1e2006">
+    Second, the grandparent literature cannot ignore treatment–mediator interactions when estimating the direct effect of grandparent resources on grandchildren’s outcomes.
+   </s>
+   <s id="d1e2011">
+    For example, the literature provided evidence for the compensation hypothesis (Anderson et al.
+   </s>
+   <s id="d1e2016">
+    2018; Braun and Stuhler 2018; Deindl and Tieben 2016; Jæger 2012); that is, the lower the parental resources (e.g., educational qualifications) the higher the grandparent effect.
+   </s>
+   <s id="d1e2021">
+    It means multiple direct and indirect effects for each value of the mediator, and findings from traditional approaches to mediation analysis cannot be meaningfully interpreted.
+   </s>
+   <s id="d1e2026">
+    Our analyses show that estimating the NDER is a feasible and valuable option to capture whether grandparent resources affect grandchildren’s outcomes after deactivating any influence through parent characteristics.
+   </s>
+  </p>
+  <p id="d1e2031">
+   <s id="d1e2036">
+    Third, our findings show that cognitive ability is an essential pathway in multi- generational social reproduction and should be considered when investigating pathways between parental socioeconomic characteristics and children’s educa- tion and labor market outcomes.
+   </s>
+   <s id="d1e2041">
+    Although we investigated the mediating role of parental cognitive ability in grandparent effects on grandchildren, exploring the contribution of children’s cognitive ability to family background differences in labor market destinations is equally important.
+   </s>
+   <s id="d1e2046">
+    A central question in the social mobility literature is to ask to what extent individuals’ educational attainment explains social origin differences in labor market destinations.
+   </s>
+   <s id="d1e2051">
+    However, traditional mediation analysis could be misleading if identifying the direct and indirect effects of social origin via educational attainment is affected by collider bias.
+   </s>
+   <s id="d1e2056">
+    Individuals’ cogni- tive ability (among other factors) is likely a treatment-induced mediator–outcome confounder that researchers need to appropriately model when estimating the contribution of educational attainment to social origin differences in labor market returns.
+   </s>
+  </p>
+  <p id="d1e2061">
+   <s id="d1e2066">
+    The literature has consistently found that the influence of social class origin on social class destinations is weaker among the highly educated than among the less educated (e.g., Breen and Jonsson 2008; Hout 1988).
+   </s>
+   <s id="d1e2071">
+    If education were the “great equalizer” we would need to estimate various social origin effects depending on individuals’ educational qualifications.
+   </s>
+  </p>
+  <p id="d1e2076">
+   <s id="d1e2081">
+    of education for intergenerational social reproduction.
+   </s>
+   <s id="d1e2086">
+    However, using a similar residual-based method, Zhou (2019) found that once selection processes are adjusted for (among other things, children’s cognitive ability), intergenerational income mobility among college graduates was very close to that among non-graduates, providing evidence against the “great equalizer” hypothesis.
+   </s>
+  </p>
+  <p id="d1e2091">
+   <s id="d1e2096">
+    To sum up, causal mediation analysis is a powerful tool to conceptualize and potentially overcome methodological challenges in social mobility research and can help to quantify the pathways between social origin and labor market destinations accurately.
+   </s>
+   <s id="d1e2101">
+    It may therefore advance our understanding of intergenerational social reproduction processes when applied in future research.
+   </s>
+  </p>
+ </body>
+</html>

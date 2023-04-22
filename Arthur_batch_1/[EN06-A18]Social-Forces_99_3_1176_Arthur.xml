@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="discourse.v4_cn.css"?><html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wkwsci.ntu.edu.sg/discourse# discourse.v4_cn.xsd">
+ <head><title>Parental Separation during Childhood and Adult Children’s Wealth</title>
+ </head>
+ <body>
+   <l1>Parental Separation during Childhood and Adult Children’s Wealth</l1>
+<abstract>
+  <p id="d1e41">
+   <s id="d1e46"><arg argID="001" type="claim" claimType="research_objective">This study examines the association between parental separations during childhood and economic wealth of adult children.</arg></s>
+   <s id="d1e56"><arg argID="002" type="claim" claimType="research_objective">We provide a new test of this relationship and adress two unresolved debates in the literature concerning (1) the pathways linking parental separation and adult children’s wealth and (2) the relevance of the timing of exposure.</arg></s>
+   <s id="d1e61"><arg argID="003" type="support" supportType="method" comments_Arthur="OK, 同前-research subject">We use data from the Household, Income and Labour Dynamics in Australia (HILDA) Survey on 16,652 individuals and</arg> <arg argID="003" type="claim" claimType="research_objective">estimate mixed effects models after matching to predict adult children’s wealth.</arg></s>
+   <s id="d1e66"><arg argID="004" type="claim" claimType="result">We ﬁnd that parental separation is associated with about 46 percent less net wealth for adult children.</arg></s>
+   <s id="d1e71"><arg argID="005" type="claim" claimType="result">The negative association is limited to adult children who experienced parental divorce before age 15.</arg></s>
+   <s id="d1e76"><arg argID="006" type="claim" claimType="result">The association does not differ between children who experienced parental divorce before age 6 and between age 6 and 14.</arg></s>
+   <s id="d1e81"><arg argID="007" type="claim" claimType="result">We identify reduced education and earning capacities, unstable family structures among adult children and less future-oriented time preferences as likely mechanisms through which parental separation inﬂuences adult children’s wealth.</arg></s>
+  </p>
+</abstract>
+ <intro>
+  <l2>Introduction</l2>
+  <p id="d1e178">
+   <s id="d1e188">
+    <arg argID="001" type="claim" claimType="general_statement">Separation of married and cohabiting couples may have substantial consequences not only for partners, but also for their children at the time of separation and throughout children’s lives.</arg></s>
+   <s id="d1e198"><arg argID="002" type="claim" claimType="topic_centrality" comments_Arthur="OK">Previous research found evidence for—often proximate—adverse consequences of parental separation for a wide range of children’s outcomes such as their educational attainment, income, and health, which are central to children’s wellbeing and life chances (Härkönen, Bernardi, and Boertien 2017; McLanahan, Tach, and Schneider 2013).</arg></s>
+   <s id="d1e206">
+    <arg argID="003" type="claim" claimType="topic_centrality" comments_Arthur="OK">Understanding the relationships between disrupted families of origin during childhood and adult children’s outcomes is thus a central concern for those interested in social inequalities.</arg></s>
+   <s id="d1e211"><arg argID="003" type="support" supportType="established_knowledge" comments_Arthur="OK">As separation is more likely among the less advantaged (Hewitt, Baxter, and Western 2005), potentially negative, intergenerational effects of parental separation on children may reproduce inequalities within families and contribute to widening social disparities (McLanahan 2004; however, see Biblarz and Raftery 1999).</arg></s>
+  </p>
+  <p id="d1e216">
+   <s id="d1e221"><arg argID="006" type="claim" claimType="topic_centrality" comments_Arthur="OK">Wealth is an important aspect of economic wellbeing that is closely linked to individuals’ life chances (Spilerman 2000).</arg></s>
+   <s id="d1e226">
+    <arg argID="007" type="claim" claimType="literature-summarize/generalize" comments_Arthur="OK">Despite the long-established and still growing literature on the associations between parental separation and parental absence during childhood with later-life outcomes,</arg> <arg argID="008" type="claim" claimType="research_gap">very little research has examined the relationship between parental separation and wealth among adults who experienced parental separation as children (but see Amato and Keith 1991a; Bernardi et al. 2019; Keister 2004).</arg></s>
+   <s id="d1e236"><arg argID="009" type="claim" claimType="literature-evaluate/critique" comments_Arthur="or Research gap, 兩者皆可">This is a surprising gap in the literature.</arg></s>
+   <s id="d1e241"><arg argID="010" type="claim" claimType="topic_centrality" comments_Arthur="OK">First, studying wealth in addition to income as economic outcomes is important</arg> <arg argID="010" type="support" supportType="explanation/elaboration" comments_Arthur="OK">because wealth is only moderately correlated with income and provides important benefits such as real and psychological safety nets that income does not provide to the same degree (Killewald, Pfeffer, and Schachner 2017).</arg></s>
+   <s id="d1e246"><arg argID="011" type="claim" claimType="general_statement" comments_Arthur="OK, 不過後半比較像topic_centrality">Second, increasing wealth inequality in many societies in recent decades (Piketty 2014) calls for the examination of the potential causes of such inequality.</arg></s>
+   <s id="d1e251"><arg argID="011" type="support" supportType="motivation/justification" comments_Ivanka="or explanation/elaboration"comments_Arthur="後者, 不小心蓋掉後者, 妳要restore回來">Demographic trends such as increases in parental separation in the second half of the 20th century may be one piece in this puzzle.</arg></s>
+   <s id="d1e256"><arg argID="013" type="claim" claimType="general_statement" comments_Arthur="OK">Third, wealth is accumulated over extended periods across various life course stages.</arg></s>
+   <s id="d1e261"><arg argID="014" type="claim" claimType="topic_centrality">Similar to health outcomes (Mayer 2009), it is therefore especially relevant to investigate wealth when generally concerned with the long reach of childhood to understand how inequalities in later life are rooted in early biographical experiences.</arg></s>
+  </p>
+  <p id="d1e266">
+   <s id="d1e271"><arg argID="020" type="claim" claimType="research_objective">In the current study, we ask whether and how parental separation during child- hood is related to adult children’s wealth later in life.</arg></s>
+   <s id="d1e276"><arg argID="020" type="support" supportType="method">In addressing this question, we improve on the few available studies on this association by providing new and more compelling empirical evidence through the combination of matching and regression, which reduces potential bias due to model misspecifications.</arg></s>
+   <s id="d1e281"><arg argID="021" type="claim" claimType="method" comments_Ivanka="because the author highlight the method. I coded it as a claim instead of a support" comments_Arthur="OK">We also use a more comprehensive and accurate measure of net wealth combined with a more recent and less restricted sample than available in prior research.</arg></s>
+   <s id="d1e286">
+    <arg argID="021" type="support" supportType="motivation/justification" comments_Arthur="method">Because we use observational data, we quantify the degree of unobserved confounding that would invalidate our results.</arg></s>
+  </p>
+  <p id="d1e291">
+   <s id="d1e296"><arg argID="030" type="claim" claimType="contribution/recommendation" comments_Arthur="OK">Furthermore, we contribute to two important and unresolved debates in the literature on parental separation and children’s outcomes (Härkönen et al. 2017; McLanahan et al. 2013).</arg></s>
+   <s id="d1e316">
+    <arg argID="031" type="claim" claimType="research_objective" comments_Arthur="OK, 作者很奇怪, 是contribution卻變成objective">First, we examine the potential pathways which link parental separation and children’s outcomes (Bernardi et al. 2019).</arg></s>
+   <s id="d1e326"><arg argID="032" type="claim" claimType="literature-summarize/generalize" comments_Arthur="OK">Recent literature in the field has rightly focused on establishing causal effects of parental separation,</arg> <arg argID="033" type="claim" claimType="research_gap" comments_Arthur="OK">but at the cost of paying less attention to the underlying pathways generating these effects.</arg></s>
+   <s id="d1e331">
+    <arg argID="034" type="claim" claimType="research_objective">Second, our analyses test whether the consequences of parental separation vary by time of exposure during childhood,</arg> <arg argID="034" type="support" supportType="explanation/elaboration">as it remains unclear whether children are more vulnerable to parental separation during specific developmental phases.</arg></s>
+   <s id="d1e336"><arg argID="034" type="support" supportType="motivation/justification" comments_Arthur="research_objective">The timing of exposure is also directly relevant for our understanding of pathways because these pathways may vary by when children experience parental divorce.</arg></s>
+   <s id="d1e341"><arg argID="036" type="claim" claimType="contribution/recommendation">We focus on parental separation to build a foundation on which future studies can examine more complex changes in family structure and their consequences for later-life wealth.</arg></s>
+  </p>
+  <p id="d1e346">
+   <s id="d1e351"><arg argID="040" type="claim" claimType="method">To make these contributions, we use nationally representative data from the Household, Income and Labour Dynamics in Australia (HILDA) Survey on 10,996 individuals.</arg></s>
+   <s id="d1e356"><arg argID="041" type="claim" claimType="literature-compare/relate" comments_Arthur="OK, 同前-research subject">Previous research on the association between parental separation and adult children’s wealth exclusively uses data from the United States, a country where rates of marriage and divorce surpass most other western countries and at the same time levels of welfare support are arguably weaker (Cherlin 2009; Kalil, Haskins, and Chesters 2012).</arg></s>
+   <s id="d1e361"><arg argID="042" type="context" contextType="practical_background">In Australia, divorce rates are considerably lower than in the United States at 2.0 divorces per 1,000 resident people in 2015 (Australian Bureau of Statistics 2016).</arg></s>
+   <s id="d1e366"><arg argID="043" type="context" contextType="practical_background">Still, it is anticipated that about one third of marriages commenced in the early 2000s in Australia will end in divorce (Jain 2007).</arg></s>
+   <s id="d1e371"><arg argID="044" type="context" contextType="practical_background">Cohabitations are even less stable (Weston and Qu 2013).</arg></s>
+   <s id="d1e376"><arg argID="045" type="context" contextType="practical_background">In about half of all divorcing couples in Australia in 2015, at least one child was present (Australian Bureau of Statistics 2016).</arg></s>
+   <s id="d1e381"><arg argID="046" type="claim" claimType="general_statement">Australia’s welfare support for children and families is historically relatively generous.</arg></s>
+   <s id="d1e386"><arg argID="047" type="support" supportType="example">For instance, although children growing up in one parent families in Australia are at greater risk of poverty than children in couple families (Phillips et al. 2013), single parents are eligible for a range of cash payments and transfers such as parenting payments and tax concessions (Kalil et al. 2012).</arg></s>
+   <s id="d1e401"><arg argID="048" type="claim" claimType="contribution/recommendation">Our analysis of Australian data therefore helps to establish whether parental separation is associated with adult children’s wealth even in more supportive institutional contexts outside of the United States.</arg></s>
+   <s id="d1e406">
+    <arg argID="048" type="support" supportType="explanation/elaboration" comments_Arthur="contribution, example, or literature_compare/relate">However, the Australian welfare state is less supportive than, for instance, the welfare state in Nordic European countries.</arg></s>
+  </p>
+ </intro>
+  <l2>
+   Background
+  </l2>
+  <l3>
+   Current Knowledge
+  </l3>
+  <p id="d1e411">
+   <s id="d1e416">
+    Three previous studies from the United States on wealth outcomes of parental separation are closest to ours.
+   </s>
+   <s id="d1e421">
+    Amato and Keith (1991a) examine a limited measure of net wealth, in this case, nonfinancial assets less debts, ignoring negative net wealth.
+   </s>
+   <s id="d1e426">
+    The latter omission may lead to an underestimation of negative consequences of parental separation.
+   </s>
+   <s id="d1e431">
+    They find that among whites in the United States, net wealth is about 34–46 percent lower for adult children who experienced parental separation.
+   </s>
+  </p>
+  <p id="d1e436">
+   <s id="d1e441">
+    separation may affect wealth through reducing adult children’s chances for education and marriage, but these pathways are not formally tested and a large part of the association between parental separation and adult children’s wealth remains unexplained.
+   </s>
+   <s id="d1e446">
+    Keister (2004) uses a restricted sample of adults below the age of 39 in the United States born between 1957 and 1964 from the 1979 National Longitudinal Survey of Youth and finds that net wealth is significantly lower for those whose parents were ever separated (see also Keister 2003).
+   </s>
+   <s id="d1e451">
+    The study does not examine the role of mediating variables.
+   </s>
+   <s id="d1e456">
+    Both studies ignore the timing of parental separation during children’s early life courses.
+   </s>
+   <s id="d1e461">
+    Recently, Bernardi et al.
+   </s>
+   <s id="d1e466">
+    (2019) examine childhood family structure (parental absence) and adult children’s wealth more generally also using 1979 NLSY data.
+   </s>
+   <s id="d1e471">
+    They find a clear negative association between parental absence (and also specifically for parental separation) and adult children’s wealth.
+   </s>
+   <s id="d1e476">
+    They find that the association between parental absence and adult children’s wealth can be partly explained with less human capital accumulation and more unstable family dynamics among children who experienced parental absence, but the authors do not focus on parental separation in their mediation analysis.
+   </s>
+  </p>
+  <l2>
+   Pathways Linking Parental Separation and Adult Children’s Wealth
+  </l2>
+  <p id="d1e481">
+   <s id="d1e486">
+    In general, we expect adult children from disrupted families to have less wealth than those from intact families.
+   </s>
+   <s id="d1e491">
+    We argue that four main pathways may contribute to this negative effect: reduced educational attainment and earnings, unstable family structures among adult children, less future-oriented time pref- erences, and reduced direct wealth transfers from parents during adulthood.
+   </s>
+   <s id="d1e496">
+    It is important to note that these pathways cannot be fully separated theoretically or empirically.
+   </s>
+   <s id="d1e501">
+    For instance, less future orientation may be associated with lower investments in education and more frequent partnership transitions.
+   </s>
+   <s id="d1e506">
+    The first three pathways relate to biographical dependencies within individuals’ life courses which may have long-term effects on adult-life wealth.
+   </s>
+   <s id="d1e511">
+    The fourth pathway focuses on persisting links across generations.
+   </s>
+   <s id="d1e516">
+    Wealth transfers, such as inheritances and inter vivos transfers, directly link the accumulation of wealth across generations during children’s adult lives (Spilerman 2000).
+   </s>
+  </p>
+  <l3>
+   Educational Attainment and Later-life Earnings
+  </l3>
+  <p id="d1e521">
+   <s id="d1e526">
+    We propose educational attainment and earnings as a first pathway by which parental separation during childhood may affect adult children wealth later in life.
+   </s>
+   <s id="d1e531">
+    A large literature suggests early disadvantage in education after parental separation.
+   </s>
+   <s id="d1e536">
+    First, educational attainment may be hampered, because separation reduces the economic resources in the household available to children including income streams and the stock of economic wealth (Andreß et al.
+   </s>
+   <s id="d1e541">
+    2006; Wilmoth and Koso 2002).
+   </s>
+   <s id="d1e546">
+    Previous literature has shown that both types of economic resources are independently associated with educational attainment (Belley and Lochner 2007; Conley 2001).
+   </s>
+   <s id="d1e551">
+    This association is partly due to direct expenditure on children such as investment in children’s education through tertiary education tuition fees (Conley 2001).
+   </s>
+  </p>
+  <p id="d1e556">
+   <s id="d1e561">
+    insurance function where children with wealthy parents can take risky but high- return educational options (Hällsten and Pfeffer 2017).
+   </s>
+   <s id="d1e566">
+    Parental separation may also be linked to lower educational achievement through other processes such as less consistent parenting (Biblarz and Raftery 1999; Duncan et al.
+   </s>
+   <s id="d1e571">
+    1998).
+   </s>
+  </p>
+  <p id="d1e576">
+   <s id="d1e581">
+    Disadvantage in education may translate into lower occupational attainment and lower earnings as children become adults (Lopoo and DeLeire 2014).
+   </s>
+   <s id="d1e586">
+    In turn, lower earnings reduce the potential for wealth accumulation out of savings (Spilerman 2000).
+   </s>
+   <s id="d1e591">
+    The empirical evidence is inconclusive however about the association of parental separation with educational attainment and then earnings.
+   </s>
+   <s id="d1e596">
+    Negative, bivariate associations are greatly reduced with more rigorous analytic methods and sometimes become statistically insignificant (Björklund et al.
+   </s>
+   <s id="d1e601">
+    2007; Corak 2001; Lopoo and DeLeire 2014).
+   </s>
+   <s id="d1e606">
+    Even if effects on education and earnings are small, they may add up to substantive wealth disadvantages over the life course.
+   </s>
+  </p>
+  <l3>
+   Unstable Family Structures of Adult Children
+  </l3>
+  <p id="d1e611">
+   <s id="d1e616">
+    Stable partnerships are associated with more wealth for individuals and espe- cially those continuously married have been found to be wealthier than singles or nonmarried couples (Wilmoth and Koso 2002).
+   </s>
+   <s id="d1e621">
+    At the same time, previous literature indicates that the partnership and fertility histories of individuals are associated with separations in the parental generation (Corak 2001).
+   </s>
+   <s id="d1e626">
+    For example, one of the most robust findings in the literature on divorce is that the risk of divorce is transmitted across generations (Amato and Cheadle 2005).
+   </s>
+   <s id="d1e631">
+    One explanation is that children acquire conflict solving skills and attitudes towards marriage and divorce from their parents.
+   </s>
+   <s id="d1e636">
+    It follows that parental separation in early life may be linked to filial wealth via the partnership outcomes of adult children, where instability impedes their wealth accumulation.
+   </s>
+   <s id="d1e641">
+    First, adult children with divorced parents may be negatively affected by divorce due to the intergenerational transmission of divorce risks.
+   </s>
+   <s id="d1e646">
+    Second, those who experienced parental divorce are less likely to marry in the first place and are more likely to cohabit (Cherlin, Kiernan, and Chase-Lansdale 1995; Erola, Härkönen, and Dronkers 2012).
+   </s>
+  </p>
+  <l3>
+   Future-oriented Time Preferences
+  </l3>
+  <p id="d1e651">
+   <s id="d1e656">
+    Individual agency may help to overcome early adversity such as parental separation.
+   </s>
+   <s id="d1e661">
+    An important aspect of agency is the temporal reach of individuals’ plans and expectations about their future selves (Emirbayer and Mische 1998).
+   </s>
+   <s id="d1e666">
+    Here we focus on a specific and narrow aspect of this temporal reach, namely individuals’ future-oriented time preferences, that is, the degree to which individ- uals prefer immediate compared to future rewards (Frederick, Loewenstein, and O’Donoghue 2002).
+   </s>
+   <s id="d1e671">
+    Time preferences are socially structured through the class- specific experience of uncertain living conditions (Sørenson 2000).
+   </s>
+   <s id="d1e676">
+    For those who experience substantial uncertainty, the future is subjectively riskier, which inhibits making plans and shifts the focus of individuals to the present.
+   </s>
+  </p>
+  <p id="d1e681">
+   <s id="d1e686">
+    Parental separation may be associated with uncertainty for children, which may reduce their future orientation (Chisholm 1999).
+   </s>
+   <s id="d1e691">
+    Parental separation may create, at least initially, an uncertain environment in which emotional relation- ships between both parents and potentially between parents (mostly fathers) and children become volatile (Amato and Keith 1991b).
+   </s>
+   <s id="d1e696">
+    Furthermore, access to economic resources is more variable for children after parental separation and residential changes may further increase uncertainty (Biblarz and Raftery 1999).
+   </s>
+   <s id="d1e701">
+    The potential conflicts between parents preceding a separation and additional partnership transitions of parents after separation may intensify uncertainty (Amato and Keith 1991b).
+   </s>
+   <s id="d1e706">
+    In such an uncertain environment, children are likely to discount future costs and benefits and put higher value on the present (Chisholm 1999).
+   </s>
+   <s id="d1e711">
+    These time preferences may initially affect children’s proxi- mate educational investments and may also persist into adulthood (Golsteyn, Grönqvist, and Lindahl 2014; Schechter and Francis 2010).
+   </s>
+  </p>
+  <p id="d1e716">
+   <s id="d1e721">
+    During adulthood, previous research has highlighted the role of time prefer- ences for individuals’ consumption and investment patterns (Knoll, Tamborini, and Whitman 2012).
+   </s>
+   <s id="d1e726">
+    Empirical studies find that future-oriented time preferences are positively associated with higher saving rates, that is, delaying consumption to a later point in the life course (Ersner-Hershfield et al.
+   </s>
+   <s id="d1e731">
+    2009).
+   </s>
+   <s id="d1e736">
+    Individuals who consume less and invest more are likely to accumulate more wealth over time (Spilerman 2000).
+   </s>
+   <s id="d1e741">
+    Thus, parental separation may reduce wealth accumulation through a reduction in future orientation that leads to less saving.
+   </s>
+   <s id="d1e746">
+    However, wealth may also influence how future-oriented individuals can be.
+   </s>
+  </p>
+  <l3>
+   Direct Intergenerational Transfers
+  </l3>
+  <p id="d1e751">
+   <s id="d1e756">
+    Separation may reduce wealth in the parental generation and in the filial generation due to the financial costs of divorce (Wilmoth and Koso 2002).
+   </s>
+   <s id="d1e761">
+    Thus, it may be expected that parental separation—even when children have reached adulthood at the time of separation—has negative effects on the economic resources that parents directly transfer to their adult children (Furstenberg, Hoffman, and Shrestha 1995; Shapiro and Cooney 2007).
+   </s>
+   <s id="d1e766">
+    This reduction in intergenerational wealth transfers may be additionally driven by a weakening of social bonds between the parental (especially for fathers) and filial generations after parental divorce (Clark and Kenney 2010).
+   </s>
+   <s id="d1e771">
+    Weaker bonds may also inhibit financial advice and other information flows from parents to their children.
+   </s>
+   <s id="d1e776">
+    Evidence from the United States shows that after parental divorce, adult children indeed receive fewer monetary transfers from their parents (Furstenberg et al.
+   </s>
+   <s id="d1e781">
+    1995).
+   </s>
+   <s id="d1e786">
+    Indirect wealth transfers, for instance through investments in education, may also be reduced through parental separation.
+   </s>
+  </p>
+  <l2>
+   Timing of Exposure
+  </l2>
+  <p id="d1e791">
+   <s id="d1e796">
+    Previous findings on the relevance of timing of exposure are mixed and may depend on the outcome studied (Härkönen et al.
+   </s>
+   <s id="d1e801">
+    2017).
+   </s>
+   <s id="d1e806">
+    Examining timing of exposure is important to understand for whom parental separation is harmful.
+   </s>
+   <s id="d1e811">
+    It may also shed further light on the underlying pathways linking parental sepa- ration and adult children’s wealth.
+   </s>
+  </p>
+  <p id="d1e816">
+   <s id="d1e821">
+    that occurred at different ages during childhood and adulthood may help to probe causal channels if we assume that selectivity in parental separation is similar across ages at parental separation, but the causal effect of parental separation may vary by age at exposure.
+   </s>
+   <s id="d1e826">
+    Against this assumption, however, it may be argued that specific parents delay their separation for the benefit of their children, and these parents may have characteristics which enhance their wealth.
+   </s>
+   <s id="d1e831">
+    On the one hand, experience of parental separation during early childhood may have especially adverse effects, as fundamental emotional, personal, and social developments occur during this time and children may be particularly sensitive to parental stress and conflict.
+   </s>
+   <s id="d1e836">
+    Material deprivation during these early years may also be particularly harmful (Heckman 2006).
+   </s>
+   <s id="d1e841">
+    Additionally, earlier experience of parental separation in children’s lives can be expected to be associ- ated with overall greater experience of family instability and a longer period for effects to accumulate (Cavanagh and Huston 2008).
+   </s>
+   <s id="d1e846">
+    Repeated instability in the family may be associated with more stress than singular disruption of families with some research showing that the number of family transitions is adversely associated with child outcomes such as delinquent behavior among whites in the United States (Fomby and Cherlin 2007).
+   </s>
+   <s id="d1e851">
+    On the other hand, experience of parental separation during middle childhood may be more adverse, as during this time children form critical social competences, such as control of aggression (Cavanagh and Huston 2008).
+   </s>
+   <s id="d1e856">
+    Overall, there is no evidence for timing-effects regarding demographic outcomes, such as children’s partnership formation, but some evidence that the experience of family disruption during early childhood is more consequential for behavioral outcomes than the experience in middle childhood (Cavanagh and Huston 2008; Cherlin et al.
+   </s>
+   <s id="d1e861">
+    1995; McLanahan and Bumpass 1988).
+   </s>
+  </p>
+  <p id="d1e866">
+   <s id="d1e871">
+    to wealth.
+   </s>
+  </p>
+  <p id="d1e876">
+   <s id="d1e881">
+    Parents may also separate during children’s adult lives, which most studies on parental separation ignores.
+   </s>
+   <s id="d1e886">
+    The consequences of such late parental separa- tions may be weaker for adult children’s outcomes as adult children may live independently, may be less subject to the stress and instability associated with parental separation and may more easily access alternative resources, such as emotional support from their social networks (Shapiro and Cooney 2007).
+   </s>
+   <s id="d1e891">
+    In addition, most pathways that we described above are unlikely to work if parental separation is experienced during adulthood, for example, educational attainment may be completed at the time of parental separation.
+   </s>
+   <s id="d1e896">
+    Still, in contrast to other outcomes after parental separation such as education, parental separation during adulthood may have negative wealth consequences, for instance, by reducing intergenerational transfers.
+   </s>
+  </p>
+  <l1>
+   Data and Analytic Strategy
+  </l1>
+  <l2>
+   Analysis Plan
+  </l2>
+  <p id="d1e901">
+   <s id="d1e906">
+    Our empirical analysis focuses on three objectives.
+   </s>
+   <s id="d1e911">
+    First, we establish whether parental separation is generally associated with adult children’s wealth.
+   </s>
+  </p>
+  <p id="d1e916">
+   <s id="d1e921">
+    we address the question of when parental separation matters by examining the timing of exposure.
+   </s>
+   <s id="d1e926">
+    Third, we investigate which of the pathways (reduced edu- cational attainment and earnings, unstable family structures among adult chil- dren, less future-oriented time preferences and reduced direct wealth transfers) contribute to the association between parental separation and adult children’s wealth.
+   </s>
+  </p>
+  <l2>
+   Data
+  </l2>
+  <p id="d1e931">
+   <s id="d1e936">
+    We draw on data from the Household, Income and Labour Dynamics in Aus- tralia (HILDA) Survey (release 14.0; for details see Summerfield et al.
+   </s>
+   <s id="d1e941">
+    2015).
+   </s>
+   <s id="d1e946">
+    The HILDA Survey is a household panel study that commenced in 2001 in which all household members aged 15 and over are interviewed annually through face-to- face interviews and self-completion questionnaires.
+   </s>
+   <s id="d1e951">
+    These data are particularly suited for the analysis, because they provide detailed retrospective information on parental separation, measurement of the intervening pathways, and high- quality information on wealth in 2002, 2006, 2010, and 2014.2 The data are multilevel in nature with individual-year observations nested within individuals and individuals nested in households.
+   </s>
+   <s id="d1e956">
+    The data are unbalanced as individuals may be observed at less than four interviews.
+   </s>
+  </p>
+  <l2>
+   Analytic Sample
+  </l2>
+  <p id="d1e961">
+   <s id="d1e966">
+    Our analytic sample is restricted to all respondents aged 20–69 (inclusive) interviewed at least once in 2002, 2006, 2010, and 2014.
+   </s>
+   <s id="d1e971">
+    These respondents are the “adult children” in our analyses.
+   </s>
+   <s id="d1e976">
+    Our outcome of interest, wealth, is measured at the household level.
+   </s>
+   <s id="d1e981">
+    To avoid measurement error due to multiple economic units within a household, we only include households of single adults with and without children and households with one adult couple with and without children.3 To account for the dependence between multiple individuals within a household, we adjust our standard errors for clustering at the household level.4 We are interested in whether the selected respondents experienced parental separation during their own childhood.
+   </s>
+   <s id="d1e986">
+    We track these respondents over the following years.
+   </s>
+  </p>
+  <p id="d1e991">
+   <s id="d1e996">
+    Missing values are a concern in all studies of wealth.
+   </s>
+   <s id="d1e1001">
+    In our sample, in about 26% of cases, at least one wealth component of total net wealth is missing, which is comparable to other surveys such as the Panel Study of Income Dynamics (2007: 26%; Institute for Social Research 2015).
+   </s>
+   <s id="d1e1006">
+    To maximize sample size, we impute missing values (for wealth we impute at the component level) using chained equations within Stata’s “mi” procedure (version 15.1) under the assumption that values are missing at random.5 We use 40 sets of imputed values.
+   </s>
+   <s id="d1e1011">
+    In alternative analyses, we exclude missing data, and the results are qualitatively similar (see the online supplementary material for table A.2).
+   </s>
+   <s id="d1e1016">
+    Our analytic sample consists of 16,652 individuals with 38,053 individual-year observations.
+   </s>
+  </p>
+  <l2>
+   Measures
+  </l2>
+  <l3>
+   Net Wealth
+  </l3>
+  <p id="d1e1021">
+   <s id="d1e1026">
+    The response variable is price-adjusted, household-level net wealth, that is, the sum of assets less debts (see table 1 for summary statistics).
+   </s>
+   <s id="d1e1031">
+    A wide range of assets are included: real estate, business assets, financial assets, savings, life insurances, private pension savings, cash, vehicles (other durables are not recorded), and collectibles, such as art works.
+   </s>
+   <s id="d1e1036">
+    Debts include mortgages, loans, business debts, credit card debt, and overdue bills.
+   </s>
+  </p>
+  <l3>
+   Parental Separation
+  </l3>
+  <p id="d1e1041">
+   <s id="d1e1046">
+    The central explanatory variable is parental separation before age 15 which is binary and measures retrospectively whether respondents’ parents have ever separated (including divorce) when respondents were children younger than 15 years old.
+   </s>
+   <s id="d1e1051">
+    The reference category includes all respondents who have never experienced parental separation as a child but may have lived in very heterogeneous family structures during their childhood.
+   </s>
+   <s id="d1e1056">
+    We add additional binary variables that capture part of this heterogeneity in family structures to narrow the reference category in our analysis: parents never lived together, parent(s) died before age 15, and parent(s) absent for other reasons.7 Thus, the reference category is adult children that lived together with both parents, who may be cohabiting and married, until age 14.
+   </s>
+   <s id="d1e1061">
+    Parental separation may be temporary or permanent and we control whether parents got back together after separation.
+   </s>
+   <s id="d1e1066">
+    Our data do not allow to study repeated partnership transitions of parents beyond the first separation and reconciliation.
+   </s>
+  </p>
+  <p id="d1e1071">
+   <s id="d1e1076">
+    As we are also interested in the timing of parental separation during childhood, we disaggregate parental separations by the age at which children experienced the separation and create a categorical variable: no separation (ref.), separation at age 0–5, separation at age 6–14, and separation at age 15 and after.8 The last category refers to parental separation after respondents’ childhood and allows us to compare the outcomes of parental separation when they occur later in respondents’ lives with those separations taking place during childhood.
+   </s>
+   <s id="d1e1081">
+    The online supplementary material for table B.1 shows that observed characteristics of those who experienced parental separation at different ages are similar.
+   </s>
+   <s id="d1e1086">
+    Those who experienced separation at age 15 and after are part of the reference category in the main explanatory variable parental separation before age 15.
+   </s>
+   <s id="d1e1091">
+    When using the timing of parental separation variable, we also consider the variables that capture part of the heterogeneity in childhood family structures as described above.
+   </s>
+  </p>
+  <p id="d1e1096">
+   <s id="d1e1101">
+    (Continued)
+   </s>
+  </p>
+  <p id="d1e1106">
+   <s id="d1e1111">
+    Table 1.
+   </s>
+  </p>
+  <p id="d1e1116">
+   <s id="d1e1121">
+    (Continued)
+   </s>
+  </p>
+  <p id="d1e1126">
+   <s id="d1e1131">
+    Source: HILDA Survey (release 14.0) 2002, 2006, 2010, 2014 (unweighted, includes imputed data, unmatched sample).
+   </s>
+  </p>
+  <l3>
+   Mediating Variables
+  </l3>
+  <p id="d1e1136">
+   <s id="d1e1141">
+    To test the four proposed pathways linking parental separation and adult children’s wealth, we include the following time-varying variables which are all measured prior to the wealth outcome (we draw on all available survey years between 2001 and 2014 which are prior to the wealth measurement).
+   </s>
+   <s id="d1e1146">
+    To measure educational attainment, we consider the number of years of education that respondents completed.
+   </s>
+   <s id="d1e1151">
+    When considering education as a mediator, we exclude respondents with parental separation after age 14, because their educational attainment may be completed at the time of parental separation.
+   </s>
+   <s id="d1e1156">
+    To measure reduced earnings, we consider the average annual labor income, which is based on all past observed labor earnings of respondents, deflated and transformed with the inverse hyperbolic sine transformation.9 For example, if a respondent has been in employment from 2001 until 2005, we consider all these years in our average annual labor income in 2006.
+   </s>
+   <s id="d1e1161">
+    We use the average income, because we assume that it captures the long-term conditions of wealth accumulation better than snapshot income measures for single years.
+   </s>
+  </p>
+  <p id="d1e1166">
+   <s id="d1e1171">
+    To measure unstable family structures, we include two variables: years in a first marriage and number of co-residential and married partners.
+   </s>
+   <s id="d1e1176">
+    The former variable counts the number of years a respondent currently lives in a first marriage.
+   </s>
+   <s id="d1e1181">
+    The variable is 0 before a first marriage and resets to 0 after a first marriage ended.
+   </s>
+   <s id="d1e1186">
+    We focus on time in first marriage, because previous literature highlighted the wealth-enhancing effects of continuous marriage (Wilmoth and Koso 2002), and because we assume that the wealth-enhancing effects accumulate over time.
+   </s>
+   <s id="d1e1191">
+    The latter variable counts the number of partners with whom respondents lived together for at least three months as another aspect of partnership (in-) stability.
+   </s>
+  </p>
+  <p id="d1e1196">
+   <s id="d1e1201">
+    To capture time preferences, we include financial planning horizon, which indicates how far into the future respondents plan for their financial savings.
+   </s>
+   <s id="d1e1206">
+    A higher value indicates that individuals are more future-oriented.10 We use a survey question in HILDA that is included in several other surveys such as the Survey of Consumer Finances or the Health and Retirement Study and is often studied as a measure of time preferences (e.g., Lusardi 1998) and has been shown to be correlated with time discount rates (Adams and Nettle 2009).
+   </s>
+   <s id="d1e1211">
+    While the financial planning horizon varies by situational conditions, there is also evidence for a more stable component linked to family experiences (Brown and van der Pol 2015; Hong and Hanna 2014).
+   </s>
+   <s id="d1e1216">
+    We average respondents’ answers over all past observations.
+   </s>
+  </p>
+  <p id="d1e1221">
+   <s id="d1e1226">
+    To measure reduced wealth transfers, we include the average annual transfers received, which includes all observed past, regular and irregular inter vivos transfers and inheritances from parents (deflated, inverse hyperbolic sine trans- formed).
+   </s>
+   <s id="d1e1231">
+    Again, we include all survey years from 2001 to 2014 prior to the wealth outcome to generate this variable.
+   </s>
+   <s id="d1e1236">
+    Note that indirect transfers such as money spent by parents for their children’s education are not captured in this variable.
+   </s>
+  </p>
+  <l3>
+   Control Variables
+  </l3>
+  <p id="d1e1241">
+   <s id="d1e1246">
+    To model general life course patterns of wealth accumulation, we use biological age centered at age 20 (the youngest age in our age range) as linear and quadratic terms.
+   </s>
+   <s id="d1e1251">
+    We also control for a set of time-invariant variables that we expect to precede any parental separation events to proxy parents’ socio-economic positions: at least one parent foreign born; father at least 6 months unemployed when growing up; mother employed when respondent age 14; education of father and education of mother (no education or primary school, some secondary school [ref.], at least year 11 or equivalent); highest occupational position of both parents (manager/professional/technician [ref.], skilled nonmanual, skilled manual, partly and unskilled occupations/not working)11 and age of mother at respondent’s birth (below age 20, age 20–29 [ref.], age 30 and older).
+   </s>
+   <s id="d1e1256">
+    We also control for exogenous, time-invariant characteristics of respondents: women; immigrated; and Indigenous origin.
+   </s>
+   <s id="d1e1261">
+    We add three survey wave dummy variables to all models (ref.: 2002).
+   </s>
+  </p>
+  <l2>
+   Method
+  </l2>
+  <p id="d1e1266">
+   <s id="d1e1271">
+    After presenting descriptive results, we use a doubly robust regression framework combining statistical matching and regression to formally test the association between parental separation before age 15 and adult children’s wealth con- trolling for observed confounding factors.
+   </s>
+   <s id="d1e1276">
+    Our approach improves on previous studies on parental separation and wealth, first, because only the matching or the regression model, but not both, need to be correctly specified to obtain unbiased estimates (Funk et al.
+   </s>
+   <s id="d1e1281">
+    2011).
+   </s>
+   <s id="d1e1286">
+    However, this approach is vulnerable to omitted variable bias as in previous studies.
+   </s>
+   <s id="d1e1291">
+    Second, our approach guarantees complete overlap between the groups of respondents who experienced parental separation and those who have not experienced separation on the matching variables, that is, the range of observed characteristics is the same in both groups.
+   </s>
+   <s id="d1e1296">
+    Without complete overlap estimates are overly dependent on model specifications (Gelman and Hill 2007, 201).
+   </s>
+  </p>
+  <p id="d1e1301">
+   <s id="d1e1306">
+    We use coarsened exact matching after imputation (Iacus, King and Porro 2012).
+   </s>
+   <s id="d1e1311">
+    We match respondents rather than individual-year observations.
+   </s>
+  </p>
+  <p id="d1e1316">
+   <s id="d1e1321">
+    unemployed when growing up; mother employed when respondent age 14; education of father and education of mother; highest occupational position of both parents, age of mother at respondent’s birth, women; immigrated; and Indigenous origin).
+   </s>
+   <s id="d1e1326">
+    We group all respondents with identical values in Xi into unique strata and compute weights wi for each respondent within strata.
+   </s>
+   <s id="d1e1331">
+    These weights are 1 for respondents who have experienced parental separation and 0 for all respondents in strata in which only one of both comparison groups is observed.
+   </s>
+   <s id="d1e1336">
+    Thereby, we prune 2,980 respondents, who contribute 7,093 observa- tions, from the multivariable analysis sample to achieve complete overlap.
+   </s>
+  </p>
+  <p id="d1e1341">
+   <s id="d1e1346">
+    without experience of parental separation within the stratum.
+   </s>
+   <s id="d1e1351">
+    Applying these weights makes the distributions of observed characteristics (including all their interactions) similar across both comparison groups (Iacus et al.
+   </s>
+   <s id="d1e1356">
+    2012).
+   </s>
+   <s id="d1e1361">
+    We conduct coarsened exact matching using the cem routine (Blackwell et al.
+   </s>
+  </p>
+  <p id="d1e1366">
+   <s id="d1e1371">
+    To estimate the association between parental separation and adult children’s wealth, we use mixed effects regression models to account for the hierarchi- cal data structure (Gelman and Hill 2007, 237ff) with weights derived from coarsened exact matching.13 We estimate models of the following form:
+   </s>
+  </p>
+  <p id="d1e1376">
+   <s id="d1e1381">
+    IHS (wit) = αi + β ∗ ait + γ ∗ a2 + δ ∗ si + ϕXi + ωZi
+   </s>
+  </p>
+  <p id="d1e1386">
+   <s id="d1e1391">
+    + τ2006 + τ2010 + τ2014 + εit
+   </s>
+  </p>
+  <p id="d1e1396">
+   <s id="d1e1401">
+    where wit is the net wealth of respondent i (level 2 in data) at time t (level 1) which is transformed using the inverse hyperbolic sine transformation.
+   </s>
+   <s id="d1e1406">
+    αi is the intercept which we allow to randomly vary across respondents.
+   </s>
+   <s id="d1e1411">
+    β is the net wealth growth rate at age 20 (our age variable is centered at age 20).14 γ indicates how the average wealth growth rate for respondents changes as they age.
+   </s>
+   <s id="d1e1416">
+    δ indicates how the wealth level is shifted for those who experienced parental separation during childhood.
+   </s>
+   <s id="d1e1421">
+    ϕ is a vector of coefficients for the control variables Xi, which we also used in the coarsened exact matching.
+   </s>
+   <s id="d1e1426">
+    ω is a vector of coefficients for the variables Zi, which include the additional measures of family structure during childhood.
+   </s>
+   <s id="d1e1431">
+    Finally, τ 2006, τ 2010 and τ 2014 are survey wave dummy variables that capture population-wide average wealth trends over calendar time.
+   </s>
+   <s id="d1e1436">
+    We perform a weighted maximum likelihood estimation using the gsem routine in Stata to fit our models.
+   </s>
+  </p>
+  <p id="d1e1441">
+   <s id="d1e1446">
+    We also disaggregate the parental separation variable by the age at which children experienced separation to test for differences across groups.
+   </s>
+   <s id="d1e1451">
+    Finally, to investigate the four potential pathways that link parental separation and wealth, we conduct separate mediation analyses for each pathway.
+   </s>
+  </p>
+  <p id="d1e1456">
+   <s id="d1e1461">
+    IHS (wit) = αi + δ ∗ si + ρ ∗ mit + ϕXi + ωZi
+   </s>
+  </p>
+  <p id="d1e1466">
+   <s id="d1e1471">
+    mit = αi + θ ∗ si + ϕXi + ωZi
+   </s>
+  </p>
+  <p id="d1e1476">
+   <s id="d1e1481">
+    The estimated direct effect of parental separation on adult children’s wealth controlled for the mediator is δ and the estimated indirect effect of parental separation through the mediator is θ ∗ρ.
+   </s>
+   <s id="d1e1486">
+    Here Zi also includes age and period effects to simplify presentation.
+   </s>
+  </p>
+  <p id="d1e1491">
+   <s id="d1e1496">
+    Similar to other studies of the consequences of parental separation, we need to use observational data to test our expectations derived from our causal
+   </s>
+  </p>
+  <p id="d1e1501">
+   <s id="d1e1506">
+    model.
+   </s>
+   <s id="d1e1511">
+    These estimates can only be interpreted as causal assuming that no omitted variables such as parental wealth are simultaneously correlated with parental separation and wealth.
+   </s>
+   <s id="d1e1516">
+    This assumption is likely violated because with observational data and given the limited opportunity to include further parental background control variables from the retrospective reports of our respondents it is virtually impossible to control for all relevant differences between parents who separated and those who did not separate.17 While the assumption of no omitted variables cannot be tested, we present sensitivity analysis below which aim to quantify the degree of unobserved confounding that would be necessary to change our conclusions.
+   </s>
+   <s id="d1e1521">
+    For similar reasons, we are also cautious about giving the mediating variables a causal interpretation; for instance, the mediators may be correlated with other unobserved determinants of wealth and the direction of causality between the mediator and wealth may be reversed (VanderWeele 2015, 24ff).
+   </s>
+   <s id="d1e1526">
+    There may also be mediator-mediator confounding.
+   </s>
+   <s id="d1e1531">
+    Again, we provide sensitivity analyses of how much confounding would invalidate our conclusions.
+   </s>
+  </p>
+  <l1>
+   Results
+  </l1>
+  <l2>
+   Unconditional Wealth Differences by Parental Separation Status
+  </l2>
+  <p id="d1e1536">
+   <s id="d1e1541">
+    Table 2 shows the average net wealth and median net wealth in Australian dollars (AUD) of those who experienced a parental separation before age 15 and those who did not by age groups.
+   </s>
+   <s id="d1e1546">
+    We find a highly significant total net wealth difference of AUD 267,120 at the mean and AUD 229,195 at the median between those who experienced a parental separation before age 15 compared to those who did not pooling all age groups.
+   </s>
+   <s id="d1e1551">
+    Those who experienced parental separation have only about 64 percent of the mean wealth of those who did not experience parental separation.
+   </s>
+   <s id="d1e1556">
+    Disaggregating this difference by respondents’ age shows that differences by parental separation status are larger for younger age groups.
+   </s>
+   <s id="d1e1561">
+    Mean differences are no longer statistically significant for those aged 50 and older and median differences are insignificant for those aged 60–69.
+   </s>
+   <s id="d1e1566">
+    Disaggregating the age at which respondents have experienced a parental divorce shows that those who experienced a parental separation between the ages 0–5, ages 6–14 and ages 15 plus have significantly less net wealth compared to those who never experienced a parental divorce averaged over all age groups.
+   </s>
+   <s id="d1e1571">
+    The wealth gap becomes smaller with later parental separation.
+   </s>
+   <s id="d1e1576">
+    Again the differences associated with parental separation seem to become smaller as people grow older.
+   </s>
+   <s id="d1e1581">
+    For the remainder of the analysis we use IHS-transformed wealth to account for the skewness in the wealth variable.
+   </s>
+  </p>
+  <l2>
+   Conditional Association between Parental Separation and Adult Children’s Net Wealth
+  </l2>
+  <p id="d1e1586">
+   <s id="d1e1591">
+    To formally test the general association between parental separation and adult children’s wealth, we turn to the multivariable mixed effects models after matching.
+   </s>
+  </p>
+  <p id="d1e1596">
+   <s id="d1e1601">
+    Source: HILDA Survey (release 14.0) 2002, 2006, 2010, 2014 (weighted, includes imputed data, unmatched sample).
+   </s>
+  </p>
+  <p id="d1e1606">
+   <s id="d1e1611">
+    Note: ∗p &lt; .05, ∗∗p &lt; .01, ∗∗∗p &lt; .001 (two-tailed tests).
+   </s>
+  </p>
+  <p id="d1e1616">
+   <s id="d1e1621">
+    age 15 and adult children’s wealth in these models (table 3, full estimation results in the online supplementary material table C.1).
+   </s>
+   <s id="d1e1626">
+    Model 1 shows a substantial, negative association between parental separation before age 15 and adult children’s wealth only controlling for the baseline wealth accumulation trajectory by age and including the matching weights.
+   </s>
+  </p>
+  <p id="d1e1631">
+   <s id="d1e1636">
+    The estimated association between parental separation before age 15 and adult children’s wealth is slightly reduced if we add variables for other aspects of the childhood family structure to narrow the reference group to those who have lived with both parents during their childhood until age 15 in Model 2.
+   </s>
+   <s id="d1e1641">
+    Here, we also additionally include all other control variables.
+   </s>
+   <s id="d1e1646">
+    We find that those whose parents separated before age 15 have 0.62 points less net wealth compared to those whose parents did not separate before age 15.
+   </s>
+  </p>
+  <p id="d1e1651">
+   <s id="d1e1656">
+    interpreted similarly to a regression with a logged outcome and, thus, parental separation is associated with about 46 percent (=100∗[exp(−0.62) − 1]) less wealth.
+   </s>
+  </p>
+  <p id="d1e1661">
+   <s id="d1e1666">
+    for table C.1).
+   </s>
+  </p>
+  <p id="d1e1671">
+   <s id="d1e1676">
+    larger.
+   </s>
+  </p>
+  <p id="d1e1681">
+   <s id="d1e1686">
+    We conduct a sensitivity analysis to gauge the degree of confounding that would be necessary to invalidate the inference on the association between parental separation and adult children’s wealth (Frank 2000).
+   </s>
+  </p>
+  <p id="d1e1691">
+   <s id="d1e1696">
+    conditional on all variables in Model 2 for the association to turn insignificant.19
+   </s>
+  </p>
+  <p id="d1e1701">
+   <s id="d1e1706">
+    While these correlations are relatively small, the impact of such a confounder would need to be larger than the impact of any observed variable in the regression model with the exception of age.
+   </s>
+  </p>
+  <p id="d1e1711">
+   <s id="d1e1716">
+    association between parental wealth and parental separation that we can get
+   </s>
+  </p>
+  <p id="d1e1721">
+   <s id="d1e1726">
+    in our data.20 However, it is likely that the intergenerational correlation in wealth would exceed the 0.15 threshold (Pfeffer and Killewald 2017).
+   </s>
+   <s id="d1e1731">
+    Overall, these results suggest that while our estimate of the association between parental separation and adult children’s wealth is sensitive to unmeasured confounding, parental wealth as one of the potentially most relevant confounder variables seems unlikely to have a sufficiently large impact to invalidate our inference.
+   </s>
+   <s id="d1e1736">
+    Future work however may identify other confounders which would alter our conclusions even if they are only weakly correlated with parental separation.
+   </s>
+  </p>
+  <l2>
+   Timing of Exposure and Adult Children’s Net Wealth
+  </l2>
+  <p id="d1e1741">
+   <s id="d1e1746">
+    Next we examine the timing of exposure during childhood.
+   </s>
+  </p>
+  <p id="d1e1751">
+   <s id="d1e1756">
+    (Continued)
+   </s>
+  </p>
+  <p id="d1e1761">
+   <s id="d1e1766">
+    Source: HILDA Survey (release 14.0) 2002, 2006, 2010, 2014 (weighted, includes imputed data, sample after coarsened exact matching).
+   </s>
+  </p>
+  <p id="d1e1771">
+   <s id="d1e1776">
+    Notes: Linear mixed effects models with response variable net wealth (IHS transformation); standard errors clustered at level of original household; additional controls include parent(s) foreign born, father at least 6 months unemployed when growing up, mother employed when respondent age 14, education of father, education of mother, occupational position of parents, age of mother at respondent’s birth, women, immigrated, Indigenous origin,
+   </s>
+  </p>
+  <p id="d1e1781">
+   <s id="d1e1786">
+    period; full estimation results in the online supplementary material, table C.1; ∗p &lt; .05, ∗∗p &lt; .01, ∗∗∗p &lt; .001 (two-tailed tests).
+   </s>
+  </p>
+  <p id="d1e1791">
+   <s id="d1e1796">
+    1196 Social Forces 99(3)
+   </s>
+  </p>
+  <p id="d1e1801">
+   <s id="d1e1806">
+    the parental separation variable by the age at which children experienced the event, we find that only parental separations between ages 0–5 and ages 6–14 are significantly associated with adult children’s net wealth in a multivariable analysis (Model 3, table 3).
+   </s>
+   <s id="d1e1811">
+    Those whose parents separated between ages 0 and 5 have 0.67 points (49 percent) less net wealth than those whose parents did not separate.
+   </s>
+   <s id="d1e1816">
+    If parents separated between ages 6–14, net wealth is 0.63 points lower (47 percent).
+   </s>
+   <s id="d1e1821">
+    Adult children whose parents separated at age 15 or after do not differ significantly in their net wealth compared to those children whose parents did not separate and the estimated coefficient is close to 0.
+   </s>
+   <s id="d1e1826">
+    The associations of parental separation between ages 0 and 5 with adult children’s wealth is statistically significantly different from the association with separation at age 15 and after (p &lt; .05).
+   </s>
+   <s id="d1e1831">
+    Parental separation between ages 6 and 14 is also significantly more strongly associated with adult children’s wealth compared to the association of separation at age 15 and after with adult children’s wealth (p &lt; .05).
+   </s>
+   <s id="d1e1836">
+    The coefficients for parental separation between ages 0–5 and 6–14 are not significantly different from each other (p &gt; .05).
+   </s>
+  </p>
+  <l2>
+   Pathways between Parental Separation and Adult Children’s Wealth
+  </l2>
+  <p id="d1e1841">
+   <s id="d1e1846">
+    Which pathways contribute to the association between parental separation and adult children’s wealth? We investigate the role of education and earnings, future- oriented time-preferences, unstable family structures among adult children and intergenerational wealth transfers as potential pathways explaining the associ- ation between parental separation and adult children’s net wealth in mediation analyses.
+   </s>
+   <s id="d1e1851">
+    In table 4, we present the estimated direct and indirect effects, which are based on separate regression models for each mediating variable in the upper half of the table.
+   </s>
+   <s id="d1e1856">
+    In the lower half of the table, we present estimation results for single mediators when all other mediators are included as control variables.
+   </s>
+  </p>
+  <p id="d1e1861">
+   <s id="d1e1866">
+    We find that about 17 percent of the estimated effect of parental separation on adult children’s wealth is mediated by our proxy for adult children’s earnings, their average annual labor income, when not controlling for other mediators (upper half of table).
+   </s>
+   <s id="d1e1871">
+    Both the indirect effect of parental separation mediated by the average annual labor income and the total effect mediated are significantly different from 0.
+   </s>
+   <s id="d1e1876">
+    We find similar evidence for mediation via educational attain- ment, where 20 percent of the estimated effect of parental separation on adult children’s wealth is mediated by the number of years of education.
+   </s>
+   <s id="d1e1881">
+    Supplemental analysis (not shown) indicate that having a tertiary degree mostly contributes to the mediation via education.
+   </s>
+   <s id="d1e1886">
+    Our proxies for unstable family structures, the number of years in a first marriage and the number of co-residential and married partners, mediate a smaller share (11 and 10 percent) of the estimated total effect of parental separation on adult children’s wealth.
+   </s>
+   <s id="d1e1891">
+    Again, the shares of the total effect that are mediated are significantly different from 0.
+   </s>
+   <s id="d1e1896">
+    We also find evidence that the financial planning horizon, our proxy for future-oriented time preferences, mediates a significant share (about 21 percent) of the association between parental separation before age 15 and adult children’s wealth.
+   </s>
+   <s id="d1e1901">
+    We find no evidence for the intergenerational wealth transfer channel.
+   </s>
+  </p>
+  <p id="d1e1906">
+   <s id="d1e1911">
+    (Continued)
+   </s>
+  </p>
+  <p id="d1e1916">
+   <s id="d1e1921">
+    Table 4.
+   </s>
+  </p>
+  <p id="d1e1926">
+   <s id="d1e1931">
+    Source: HILDA Survey (release 14.0) 2002, 2006, 2010, 2014 (weighted, includes imputed data, sample after coarsened exact matching).
+   </s>
+  </p>
+  <p id="d1e1936">
+   <s id="d1e1941">
+    Notes: Estimation of direct and indirect effects based on linear mixed effects models with response variable net wealth (IHS transformation) and mediator variable as predictor simultaneously estimated with linear mixed effects models with mediator variable as response variable; standard errors clustered at level of original household; additional controls include parent(s) died before age 15, parents never lived together, parent(s) absent for other reason, parents came together again, parent(s) foreign born, father at least 6 months unemployed when growing up, mother employed when respondent age 14, education of father, education of mother, occupational position of parents, age of mother at respondent’s birth, women, immigrated, Indigenous
+   </s>
+  </p>
+  <p id="d1e1946">
+   <s id="d1e1951">
+    origin, period; models for number of years of education excludes respondents whose parents separated after age 14; full estimation results in the online supplementary material tables C.2, C.3 and C.4; ∗p &lt; .05, ∗∗p &lt; .01, ∗∗∗p &lt; .001 (two-tailed tests).
+   </s>
+  </p>
+  <p id="d1e1956">
+   <s id="d1e1961">
+    effect of parental separation on adult children’s wealth mediated by the average annual transfers received is almost 0 and statistically nonsignificant.
+   </s>
+   <s id="d1e1966">
+    We may not find a significant association between transfers and net wealth because of the limitations of our intergenerational transfer measure, which only considers observed direct wealth transfers and does not include lifetime wealth transfers preceding our observation period or indirect transfers, for example, money spend for tuition fees.
+   </s>
+  </p>
+  <p id="d1e1971">
+   <s id="d1e1976">
+    When we add all mediating variables simultaneously to the model, the estimated direct effect of parental separation on adult children’s wealth is substantially reduced in size (−0.32), but remains statistically significantly different from 0 at the 95 percent confidence level.
+   </s>
+  </p>
+  <p id="d1e1981">
+   <s id="d1e1986">
+    structure and transfers, other channels link parental separation with adult children’s wealth.
+   </s>
+   <s id="d1e1991">
+    At the same time, we find that when also controlling for all other mediators, the number of co-residential and married partners does not longer mediate a statistically significant share of the association between parental separation and adult children’s wealth.
+   </s>
+  </p>
+  <p id="d1e1996">
+   <s id="d1e2001">
+    Again, we conduct sensitivity analyses to examine the degree of confound- ing necessary to change our inference about statistically significant mediation effects.21 To this end, a hypothetical confounder is simulated that is correlated with the outcome and mediator.
+   </s>
+   <s id="d1e2006">
+    We are interested at which magnitude of correla- tion the mediated effect would be estimated to be zero.
+   </s>
+  </p>
+  <p id="d1e2011">
+   <s id="d1e2016">
+    of co-residential and married partners.
+   </s>
+  </p>
+  <p id="d1e2021">
+   <s id="d1e2026">
+    weakly (education and unstable family structure) to moderately (adult children’s earnings and time preferences) correlated with adult children’s wealth and the respective mediating variable would lead us to conclude that the mediator does not capture a relevant pathway.
+   </s>
+  </p>
+  <l1>
+   Conclusion
+  </l1>
+  <p id="d1e2031">
+   <s id="d1e2036">
+    In the current study, we asked whether and how parental separation during child- hood is related to adult children’s wealth later in life.
+   </s>
+   <s id="d1e2041">
+    We argued that parental separation may negatively influence adult children’s wealth through reduced educational attainment and earnings, unstable family structures among adult children, less future-oriented time preferences, and reduced direct wealth trans- fers from parents during adulthood.
+   </s>
+   <s id="d1e2046">
+    We also expected the association between parental separation and adult children’s wealth to vary by timing of exposure during childhood and adulthood.
+   </s>
+   <s id="d1e2051">
+    We used Australian panel data from the HILDA Survey to test these expectations and to explore the distal net wealth out- comes for adult children who experienced parental separation during childhood using a doubly robust regression framework and formal mediation analysis.
+   </s>
+  </p>
+  <p id="d1e2056">
+   <s id="d1e2061">
+    Our results showed that parental separation is associated with substantially less net wealth for adult children.
+   </s>
+  </p>
+  <p id="d1e2066">
+   <s id="d1e2071">
+    children who experienced parental divorce before age 15.
+   </s>
+   <s id="d1e2076">
+    Experience of parental divorce at age 15 and after is not associated with adult children’s net wealth.
+   </s>
+   <s id="d1e2081">
+    We examined wealth, which—similar to health—can be interpreted as the sedimentation of varied life course experiences, to study the reach of early childhood adversity throughout the “long life” (Mayer 2009, 417).
+   </s>
+   <s id="d1e2086">
+    This is an increasingly examined but still under-researched aspect of the life course.
+   </s>
+   <s id="d1e2091">
+    We contribute to the literature on childhood family structure by showing that parental separation has profound consequences for the economic wellbeing beyond earnings in adulthood.
+   </s>
+   <s id="d1e2096">
+    Thereby, the negative, intergenerational effects of parental separation on children may reproduce inequalities within families (McLanahan 2004).
+   </s>
+  </p>
+  <p id="d1e2101">
+   <s id="d1e2106">
+    We argued that the pathways which may link early experience of parental sep- aration and later-life outcomes should be studied more intensively (Bernardi et al.
+   </s>
+   <s id="d1e2111">
+    2019).
+   </s>
+   <s id="d1e2116">
+    We showed that lower educational attainment and earnings, unstable family structures among adult children and less future-oriented time preferences, but not direct intergenerational wealth transfers, mediate the association of parental separation before age 15 with adult children’s wealth.
+   </s>
+   <s id="d1e2121">
+    This overall limited role of direct intergenerational wealth transfers for the transmission of advantages across generations has also been found for the United States (Bernardi et al.
+   </s>
+   <s id="d1e2126">
+    2019; Pfeffer and Killewald 2017).
+   </s>
+   <s id="d1e2131">
+    These findings indicate that intra-individual, biographical processes initiated through early experiences during childhood are more relevant to explain the association of parental sep- aration with adult children’s wealth than are persisting links across generations manifest in intergenerational transfers of wealth.
+   </s>
+   <s id="d1e2136">
+    A particularly noteworthy intra-individual process is that childhood experience of parental separation seems to influence time horizons that inhibit wealth accumulation.
+   </s>
+   <s id="d1e2141">
+    This pathway has been ignored in prior literature.
+   </s>
+   <s id="d1e2146">
+    However, our research design does not allow us to rule out reverse causality, that is, time preferences may also be influenced by wealth.
+   </s>
+   <s id="d1e2151">
+    Furthermore, the described pathways are likely interrelated and cannot be fully disentangled in the current study.
+   </s>
+   <s id="d1e2156">
+    For instance, education and time preferences are likely closely related and influence each other.
+   </s>
+  </p>
+  <p id="d1e2161">
+   <s id="d1e2166">
+    Previous literature is mixed about the influence of the timing of exposure on children’s outcomes.
+   </s>
+   <s id="d1e2171">
+    Our findings contribute to this debate by showing that exposure to parental separation before age 6 is similarly associated with adult children’s wealth compared to mid-childhood parental separation (between ages 6 and 14).
+   </s>
+   <s id="d1e2176">
+    This is in contrast to earlier studies which showed that separations in early childhood are more consequential for behavioral outcomes (e.g., Cavanagh and Huston 2008), but in accordance with studies that do not find age-at-separation specific associations with demographic outcomes (e.g., Cherlin et al.
+   </s>
+   <s id="d1e2181">
+    1995).
+   </s>
+   <s id="d1e2186">
+    For wealth, the timing of exposure during childhood may be less relevant, because several different pathways including behavioral and demographic processes may link parental separation and children’s wealth.
+   </s>
+   <s id="d1e2191">
+    In contrast to other outcomes such as education, we also expected separations experienced during adulthood to negatively affect children’s wealth, because intergenerational transfers may be hampered by parental separation even in adulthood.
+   </s>
+  </p>
+  <p id="d1e2196">
+   <s id="d1e2201">
+    associated with adult children’s wealth.
+   </s>
+   <s id="d1e2206">
+    We return to this finding below.
+   </s>
+   <s id="d1e2211">
+    Overall, these findings underline that the timing of exposure has varied consequences depending on the outcome under study (Härkönen et al.
+   </s>
+   <s id="d1e2216">
+    2017).
+   </s>
+  </p>
+  <p id="d1e2221">
+   <s id="d1e2226">
+    Our results for the wealth disadvantage after parental separation are broadly similar to earlier results from the United States (Amato and Keith 1991a) but our effect sizes are smaller than in a more recent study for the United States (Bernardi et al.
+   </s>
+   <s id="d1e2231">
+    2019).
+   </s>
+   <s id="d1e2236">
+    Thus, the more supportive institutional context in Australia may attenuate some of the wealth disadvantage following from parental separation.
+   </s>
+   <s id="d1e2241">
+    However, it may be argued that while more supportive than the United States, Australia still lags behind more developed European welfare states, which may reduce material deprivation after parental separation (Andreß et al.
+   </s>
+   <s id="d1e2246">
+    2006) and, thus, mitigate adverse consequences of parental separation for children’s educational attainment, earnings and wealth even more (Biblarz and Raftery 1999).
+   </s>
+   <s id="d1e2251">
+    However, research on educational attainment after parental separation shows surprising similarity in outcomes in such divergent contexts as Sweden, a country with a generous welfare state, and the United States (Björklund et al.
+   </s>
+   <s id="d1e2256">
+    2007).
+   </s>
+   <s id="d1e2261">
+    Overall, these results suggest that negative consequences of parental separation are substantial in most countries, but more cross-national research is needed to establish variation in the magnitude of these consequences (Härkönen et al.
+   </s>
+   <s id="d1e2266">
+    2017).
+   </s>
+  </p>
+  <p id="d1e2271">
+   <s id="d1e2276">
+    Our study has some limitations.
+   </s>
+   <s id="d1e2281">
+    First, we have limited opportunities to rule out bias due to unmeasured confounding as we necessarily use observational data.
+   </s>
+   <s id="d1e2286">
+    We could only interpret our regression results as clear evidence of causal rela- tionships if we were certain that no unobserved characteristics of parents, such as their wealth, or of children, such as their cognitive abilities, correlated with parental separation and adult children’s wealth.
+   </s>
+   <s id="d1e2291">
+    In contrast to previous studies, we estimated the degree of confounding that would be necessary to invalidate our inference.
+   </s>
+   <s id="d1e2296">
+    While we find the estimated association between parental wealth and adult children’s wealth to be relatively sensitive to confounding, we argued that parental wealth as the most relevant confounder would be unlikely to have a sufficiently large impact to invalidate our conclusions.
+   </s>
+  </p>
+  <p id="d1e2301">
+   <s id="d1e2306">
+    In addition, we did not find a significant association between parental separation after age 15 with adult children’s wealth.
+   </s>
+   <s id="d1e2311">
+    We would argue that this finding is inconsistent with the idea that the significant association of parental separation before age 15 with adult children’s wealth is only due to confounding, if one assumes that unobserved causes of parental separations are similar before and after children are age 15.
+   </s>
+   <s id="d1e2316">
+    While we cannot test this assumption, observed characteristics of those who experienced parental separations before and after age 15 are generally similar (see the online supplementary material for table B.1).
+   </s>
+   <s id="d1e2321">
+    Under this assumption, a more plausible explanation for our finding is that late parental separations are less consequential because educational attainment, acquisition of attitudes and behavioral strategies (that are salient for partnership outcomes) and time preferences are less dependent on the direct family context at this age (Cavanagh and Huston 2008; Shapiro and Cooney 2007).
+   </s>
+   <s id="d1e2326">
+    Thus, three of the four potential pathways linking parental separation at younger ages to adult children’s wealth are no longer operating at these older ages.
+   </s>
+  </p>
+  <p id="d1e2331">
+   <s id="d1e2336">
+    unobserved variables may also affect our mediation analysis.
+   </s>
+   <s id="d1e2341">
+    We showed that the mediator unstable family structures are more vulnerable to confounding than the other mediating variables.
+   </s>
+  </p>
+  <p id="d1e2346">
+   <s id="d1e2351">
+    A second limitation is that our focus on parental separation events largely ignores diversity in children’s postseparation experiences.
+   </s>
+   <s id="d1e2356">
+    For instance, in many cases parental separation is equivalent to father absence, but in other cases both parents may continue to share custody equally after separation.
+   </s>
+   <s id="d1e2361">
+    Re- partnering may compensate for some adverse effects of parental separation, but repeated family transitions and being reared in stepfamilies may have additional negative effects for children.
+   </s>
+   <s id="d1e2366">
+    As our estimates average across these heterogeneous postseparation settings, we may misestimate the association between the event of parental separation and adult children’s wealth.
+   </s>
+  </p>
+  <p id="d1e2371">
+   <s id="d1e2376">
+    Exploration of the complexities of postseparation experiences and how they relate to adult children’s wealth is one avenue for future research.
+   </s>
+   <s id="d1e2381">
+    Here, the structure of postseparation families may be especially interesting.
+   </s>
+   <s id="d1e2386">
+    In blended families, for example, direct wealth transfers from parents may be restricted to biological children, while, on the other hand, potentially new sources of transfers are added as relationships to new step- (grand-) parents are established.
+   </s>
+   <s id="d1e2391">
+    It was not possible to study this with our data.
+   </s>
+   <s id="d1e2396">
+    Finally, recent research has found higher status parents to compensate some of the negative consequences of parental separation (Grätz 2015) but we do not know if such compensation also occurs for wealth outcomes.
+   </s>
+  </p>
+  <p id="d1e2401">
+   <s id="d1e2406">
+    In sum, our results suggest that next to immediate and medium-run outcomes of childhood experience, social scientists should turn their attention to distal outcomes such as wealth and health.
+   </s>
+   <s id="d1e2411">
+    In examining these outcomes, it is important to evaluate temporal variation and spell out the biographical processes and pathways that link early childhood experience and later-life outcomes.
+   </s>
+   <s id="d1e2416">
+    This is particularly important to inform policy interventions, which can be more effective when targeting specific pathways and age groups.
+   </s>
+   <s id="d1e2421">
+    Our results suggest that intra-biographical processes such as reduced educational attainment and earnings, constrained time horizons and family instability among adult children are more important than inter-personal links across generations for wealth attainment.
+   </s>
+   <s id="d1e2426">
+    Our results, together with previous studies for the United States, also suggest that parental separation is similarly associated with less wealth across divergent institutional contexts.
+   </s>
+   <s id="d1e2431">
+    These conclusions await further tests for other life course experiences and outcomes.
+   </s>
+  </p>
+  <l1>
+   Supplementary Material
+  </l1>
+  <p id="d1e2436">
+   <s id="d1e2441">
+    Supplementary material is available at Social Forces online.
+   </s>
+  </p>
+  <l1>
+   About the Authors
+  </l1>
+  <p id="d1e2446">
+   <s id="d1e2451">
+    Philipp M.
+   </s>
+  </p>
+  <p id="d1e2456">
+   <s id="d1e2461">
+    Institute for Economic Research (DIW Berlin).
+   </s>
+   <s id="d1e2466">
+    His main research interests are in dynamics in social inequalities over and between life courses in divergent institutional contexts focusing on wealth, family, and employment.
+   </s>
+   <s id="d1e2471">
+    His recent work has been published in Demography, European Sociological Review, and Journal of Marriage and Family.
+   </s>
+  </p>
+  <p id="d1e2476">
+   <s id="d1e2481">
+    Janeen Baxter is Professor of Sociology and Director of the Australian Research Council Centre of Excellence for Children and Families over the Life Course.
+   </s>
+   <s id="d1e2486">
+    She is based in the Institute for Social Science Research at The University of Queensland.
+   </s>
+   <s id="d1e2491">
+    Janeen has research interests in gender, families, social disadvantage and the life course and has published widely in these areas.
+   </s>
+   <s id="d1e2496">
+    She is an elected fellow of the Academy of Social Sciences in Australia.
+   </s>
+  </p>
+  <l1>
+   Notes
+  </l1>
+  <p id="d1e2501">
+   <s id="d1e2506">
+    <span class="anchor" id="_bookmark4">
+    </span>
+    We use the term separation to refer to the dissolution of a coresidential union or marriage.
+   </s>
+   <s id="d1e2511">
+    We use the term divorce to refer explicitly to the legal dissolution of a marriage.
+   </s>
+  </p>
+  <p id="d1e2516">
+   <s id="d1e2521">
+    <span class="anchor" id="_bookmark5">
+    </span>
+    The relatively short panel period may limit our analysis.
+   </s>
+   <s id="d1e2526">
+    To gauge the consequences of this short panel period, we examined the robustness of our results using only later waves (waves 2010 and 2014, dropping 2002 and 2006) and younger ages (below age 40).
+   </s>
+   <s id="d1e2531">
+    The conclusions drawn from these results are identical to our main analysis (see the online supplementary material for tables A.5 and A.6), which increases our confidence that the HILDA data are suitable for our analysis.
+   </s>
+  </p>
+  <p id="d1e2536">
+   <s id="d1e2541">
+    <span class="anchor" id="_bookmark6">
+    </span>
+    We drop about 9% of the individual-year observations in our sample, where individuals are in households with multiple economic units.
+   </s>
+   <s id="d1e2546">
+    We re-estimate the association between parental separation and adult children’s wealth including these respondents (see the online supplementary material for table A.5).
+   </s>
+   <s id="d1e2551">
+    The conclusions are similar to our main analysis.
+   </s>
+  </p>
+  <p id="d1e2556">
+   <s id="d1e2561">
+    <span class="anchor" id="_bookmark7">
+    </span>
+    We cluster standard errors for the household in which the respondents were first observed.
+   </s>
+   <s id="d1e2566">
+    We also experimented with different ways to account for the characteristics of respondents’ partners in couple households and the results are robust (see the online supplementary material for table A.1).
+   </s>
+  </p>
+  <p id="d1e2571">
+   <s id="d1e2576">
+    <span class="anchor" id="_bookmark8">
+    </span>
+    We also checked the robustness of our results when using the single imputa- tion of net wealth provided by the HILDA team.
+   </s>
+   <s id="d1e2581">
+    Using this alternative wealth variable, we arrived at similar conclusions (see the online supplementary material for table A.3).
+   </s>
+  </p>
+  <p id="d1e2586">
+   <s id="d1e2591">
+    <span class="anchor" id="_bookmark9">
+    </span>
+    We also considered alternative models in which wealth is averaged across all observation points to reduce measurement error in wealth.
+   </s>
+   <s id="d1e2596">
+    Results are in the online supplementary material table A.4 and are qualitatively similar to our main results, even though estimated associations between parental separation and adult children’s wealth are slightly smaller.
+   </s>
+   <s id="d1e2601">
+    Furthermore, we consider alternative wealth transformations (rank transformation and adjusting for household size).
+   </s>
+   <s id="d1e2606">
+    Again results are similar to the main results (see the online supplementary material for table A.5).
+   </s>
+  </p>
+  <p id="d1e2611">
+   <s id="d1e2616">
+    <span class="anchor" id="_bookmark10">
+    </span>
+    Other reasons include respondent attended a boarding school, one parent setting up for family to move to a new country, parent(s) living abroad, respondent did not get on with parents, respondent was working at age 14, respondent fostered or adopted out, parent(s) were ill, and unspecified other
+    <span class="anchor" id="_bookmark11">
+    </span>
+    reasons.
+   </s>
+  </p>
+  <p id="d1e2621">
+   <s id="d1e2626">
+    The Australian Bureau of Statistics defines a child/dependent as someone under the age of 15.
+   </s>
+  </p>
+  <p id="d1e2631">
+   <s id="d1e2636">
+    <span class="anchor" id="_bookmark12">
+    </span>
+    For periods in education, we set the labor income to missing.
+   </s>
+   <s id="d1e2641">
+    For periods in unemployment or inactivity, we set the labor income to 0.
+   </s>
+  </p>
+  <p id="d1e2646">
+   <s id="d1e2651">
+    <span class="anchor" id="_bookmark13">
+    </span>
+    The variable financial planning horizon is based on the following question in the HILDA survey: “In planning your saving and spending, which of the following time periods is most important to you?” Respondents can choose between six time periods ranging from “the next week” to “more than 10 years ahead”.
+   </s>
+  </p>
+  <p id="d1e2656">
+   <s id="d1e2661">
+    <span class="anchor" id="_bookmark14">
+    </span>
+    We join partly and unskilled occupations with those who did not work because of very small case numbers in the latter group.
+   </s>
+   <s id="d1e2666">
+    The variables father at least 6 months unemployed when growing up, mother employed when respondent age 14, and highest occupational position of both parents may also be considered mediator variables for the association between parental separation and adult children’s wealth.
+   </s>
+   <s id="d1e2671">
+    In the online supplementary material for table A.5, we report similar results without these variables.
+   </s>
+  </p>
+  <p id="d1e2676">
+   <s id="d1e2681">
+    <span class="anchor" id="_bookmark15">
+    </span>
+    See the online supplementary material for table B.2 for a comparison of the unmatched and matched samples.
+   </s>
+  </p>
+  <p id="d1e2686">
+   <s id="d1e2691">
+    <span class="anchor" id="_bookmark16">
+    </span>
+    Results from simple OLS models without random effects after matching and from mixed effects models without preprocessing the data with coarsened exact matching are similar regarding the direction and significance of the estimated effect of parental separation before age 15 (see the online supplementary material for table A.4).
+   </s>
+  </p>
+  <p id="d1e2696">
+   <s id="d1e2701">
+    <span class="anchor" id="_bookmark17">
+    </span>
+    We considered extending this model to a growth curve model, but did not find evidence for variance in the slope of age across individuals and we chose to fix it across individuals for the sake of parsimony.
+   </s>
+   <s id="d1e2706">
+    Results are robust to this decision (see the online supplementary material for table A.4).
+   </s>
+   <s id="d1e2711">
+    We also extended the mixed effects model by allowing the estimated effect of parental separation to vary by age through an interaction of both variables but did not find evidence for an interaction (see the online supplementary material for table A.4).
+   </s>
+  </p>
+  <p id="d1e2716">
+   <s id="d1e2721">
+    <span class="anchor" id="_bookmark18">
+     <span class="anchor" id="_bookmark19">
+     </span>
+    </span>
+    We assume that there is not treatment-mediator interaction.
+   </s>
+  </p>
+  <p id="d1e2726">
+   <s id="d1e2731">
+    We include random intercepts in both equations but treat these as indepen-
+    <span class="anchor" id="_bookmark20">
+    </span>
+    dent form each other.
+   </s>
+  </p>
+  <p id="d1e2736">
+   <s id="d1e2741">
+    A longitudinal within-person fixed-effects approach is not possible because there is no relevant “baseline wealth” owned by underage children.
+   </s>
+   <s id="d1e2746">
+    Addition- ally, we consider the use of instrumental variables for parental separation but are unable to identify plausible instruments in the context of our analysis.
+   </s>
+   <s id="d1e2751">
+    Liberalizations in divorce laws (implemented in 1976 in Australia) have been repeatedly criticized for not satisfying the requirement to only affect children’s outcomes through parental separation (McLanahan et al.
+   </s>
+  </p>
+  <p id="d1e2756">
+   <s id="d1e2761">
+    2013).
+   </s>
+   <s id="d1e2766">
+    Our data include too few adult siblings to reliably estimate family
+    <span class="anchor" id="_bookmark21">
+    </span>
+    fixed-effects models.
+   </s>
+  </p>
+  <p id="d1e2771">
+   <s id="d1e2776">
+    Our findings show limited variation in the association between parental sep- aration and adult children’s wealth across historical periods when comparing the period before and after the liberalization of divorce laws in 1975 in Australia (see the online supplementary material for Appendix D).
+   </s>
+  </p>
+  <p id="d1e2781">
+   <s id="d1e2786">
+    <span class="anchor" id="_bookmark22">
+    </span>
+    We conduct the sensitivity analysis using a simplified model without random effects and imputed data using the konfound routine in Stata (Frank and Xu 2017).
+   </s>
+   <s id="d1e2791">
+    The signs of the two correlations can be switched.
+   </s>
+  </p>
+  <p id="d1e2796">
+   <s id="d1e2801">
+    <span class="anchor" id="_bookmark23">
+    </span>
+    Note that an effect in the reversed direction (from separation on wealth in the next wave) would be mediation and not confounding.
+   </s>
+  </p>
+  <p id="d1e2806">
+   <s id="d1e2811">
+    <span class="anchor" id="_bookmark24">
+    </span>
+    We use the medsens routine in Stata (Hicks and Tingley 2011).
+   </s>
+   <s id="d1e2816">
+    Again, we conduct the sensitivity analysis using a simplified model without random effects and imputed data.
+   </s>
+  </p>
+ </body>
+</html>

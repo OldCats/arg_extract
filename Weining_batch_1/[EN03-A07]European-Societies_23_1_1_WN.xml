@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="discourse.v4_cn.css"?><html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wkwsci.ntu.edu.sg/discourse# discourse.v4_cn.xsd">
+ <head><title>
+  What, where, and how: drivers of welfare attitudes toward work-family reconciliation policies in South European societies
+ </title>
+ </head>
+ <body>
+   <l1>
+    What, where, and how: drivers of welfare attitudes toward work-family reconciliation policies in South European societies
+   </l1>
+  <abstract>
+   <l2>ABSTRACT</l2>
+  <p id="d1e61">
+   <s id="d1e66">
+    <arg argID="001" type="claim" claimType="general_statement">With increasing female labour market participation, welfare states in Europe have aimed to reorient their policies in order to face a newly emerging social risk – diﬃculties to combine work and family roles.</arg></s>
+   <s id="d1e71">
+    <arg argID="001" type="support" supportType="practical_problem" comments_Ivanka="not sure. Or annotated as claim: Genernal statement">Yet, they diﬀer in the extent of this adaptation, which has been associated with multiple factors including the inﬂuence of cultural values or ideas towards care.</arg></s>
+   <s id="d1e76">
+    <arg argID="002" type="support" supportType="method">In this article, we employ the European Social Survey (Round 8)</arg> <arg argID="002" type="claim" claimType="research_objective">to examine whether and how not only self-interests but also values inﬂuence public willingness to pay for extending state’s work-family reconciliation policies in Italy, Portugal, and Spain, where care provision traditionally was in the family.</arg>
+   </s>
+   <s id="d1e81">
+    <arg argID="003" type="support" supportType="established_knowledge">Although South European welfare states are often considered to be similarly inﬂuenced by traditional gender and family values,</arg> <arg argID="003" type="claim" claimType="contribution/recommendation">the ﬁndings of this study contribute to the evidence that there are important diﬀerences between them.</arg>
+   </s>
+  </p>
+   </abstract>
+<intro>
+   <l2>Introduction</l2>
+  <p id="d1e116">
+   <s id="d1e121"><arg argID="001" type="context" contextType="practical_background">Increasing participation of women in the labour market since the 1970s meant less dependence of households on a male breadwinner and better protection against poverty for women and their families.</arg>
+   </s>
+   <s id="d1e126"><arg argID="002" type="context" contextType="practical_background">At the same time, however, it created a new social risk – diﬃculties to combine parenthood and employment resulting in work-life conﬂict with signiﬁcant social, health and economic costs or welfare losses (Bonoli 2007; Mandel 2009; Misra et al. 2011).</arg>
+   </s>
+   <s id="d1e130"><arg argID="003" type="context" contextType="practical_background">Childcare that was usually performed by women within a household and on an unpaid basis now needed to be externalised to the state-ﬁnanced and/or -provided services or to the markets.</arg></s>
+   <s id="d1e132"><arg argID="004" type="context" contextType="practical_background">While the latter may create financial burden on parents, particularly in lower-income households, the former can be considered as more equitable and aligning with the logic of social investment.</arg></s>
+   <s id="d1e171"><arg argID="005" type="claim" claimType="general_statement">Public family policies, therefore, can be seen as a means that helps to reconcile demands of work and family lives and to diminish the role conﬂict.</arg>
+   </s>
+   <s id="d1e176"><arg argID="006" type="claim" claimType="general_statement">Depending on its scope and content, it can support female employment and attain gender equality (Mandel 2009).</arg></s>
+  </p>
+  <p id="d1e181">
+   <s id="d1e186"><arg argID="007" type="context" contextType="practical_background">The welfare states in Europe, nonetheless, diﬀer in the extent of this adaptation to dual-earner/-carer households, where the social-democratic countries have been relatively more generous in their work-family recon- ciliation policies than conservative states in Continental and Southern Europe (Triﬁletti 1999; Bonoli 2007; Mandel 2009; León and Pavolini 2014; Natili and Jessoula 2019).</arg></s>
+   <s id="d1e201"><arg argID="008" type="context" contextType="practical_background">In other words, they contrast in terms of familization and de-familization eﬀorts (Lohmann and Zagel 2016).</arg></s>
+   <s id="d1e206"><arg argID="009" type="context" contextType="practical_background">Generally, Southern Europe is characterised by a large degree of familial- ism by default (Saraceno 2016), although Portugal is somewhat of an exception with its stronger defamilizing policies (Lohmann and Zagel 2016).</arg></s>
+  </p>
+  <p id="d1e211">
+   <s id="d1e216"><arg argID="010" type="claim" claimType="general_statement">These variations in policy trajectories across European societies have been associated with multiple factors.</arg></s>
+   <s id="d1e221">
+    <arg argID="010" type="support" supportType="example">On the one hand, Bonoli (2007), for example, argues that timing matters and claims that the Nordic countries experienced post-industrial transformations earlier and, therefore, were in more favourable situation in terms of development of new social risk policies than Continental and Southern European countries, where these transformations in family structures took place later and encountered competing claims due to population aging.</arg>
+   </s>
+   <s id="d1e226"><arg argID="010" type="support" supportType="example">Natili and Jes- soula (2019), nonetheless, show that even if spending for these competing claims is retrenched, it is not necessarily balanced by expanding work- family reconciliation policies.</arg></s>
+   <s id="d1e231"><arg argID="010" type="support" supportType="example">They stress diﬀerent roles of domestic poli- tics or of external actors such as the EU.</arg></s>
+</p>
+  <p id="d1e236">
+   <s id="d1e241">
+    <arg argID="020" type="claim" claimType="general_statement">On the other hand, the inﬂuence of values and their culturally-speciﬁc patterns at a given moment in time is also important.</arg></s>
+   <s id="d1e256">
+    <arg argID="020" type="support" supportType="cited_authors_claim/opinion">Pfau-Eﬃnger (2005a) views cultural ideas towards ‘ideal’ forms of care and responsibilities of the state, the family or the market as inculcated in public discourses and shaping policies.</arg></s>
+   <s id="d1e261"><arg argID="022" type="claim" claimType="general_statement">In South European societies, the dominance of conservative values towards family and gender roles often serves as an explanatory variable of the familistic nature of social policies.</arg></s>
+   <s id="d1e266"><arg argID="022" type="support" supportType="example">Their importance in deﬁning risks against which South European welfare states centre their social policies is discussed by Triﬁletti (1999), Mandel (2009), Drobnič and Guillén-Rodríguez (2011) or Natili and Jessoula (2019), among others.</arg></s>
+   <s id="d1e276"><arg argID="023" type="support" supportType="cited_authors_claim/opinion">León and Pavolini (2014), nonetheless, stress different dynamics of these values across the countries, while Calzada and Brooks (2013: 531) ﬁnd Southern Europe as being ‘less distinctive for its levels of family solidarity and family values’ when compared with other countries beyond Northern or Continental Europe.</arg></s>
+   <s id="d1e281">
+    <arg argID="023" type="claim" claimType="literature-summarize/generalize">All of them, however, acknowledge the importance of these values in the region.</arg></s>
+  </p>
+  <p id="d1e286">
+   <s id="d1e291">
+    <arg argID="030" type="claim" claimType="general_statement">Cultural values and ideas may ‘restrict the spectrum of possible policies of a welfare state’ (Pfau-Eﬃnger 2005a: 4) and, along with the institutional system and social structures, shape its care arrangements (Pfau-Eﬃnger 2005b).</arg>
+   </s>
+   <s id="d1e296">
+    <arg argID="033" type="support" supportType="established_knowledge">At the same time, changes in populace’s cultural values and in welfare state policies may not develop at the same pace (Pfau-Eﬃnger 2005b) and,</arg> <arg argID="033" type="claim" claimType="general_statement">as a result, cultural ideas, which are deemed to drive particular family policies, may not necessarily represent values of the majority but rather of those who are in power to shape those policies (Calzada and Brooks 2013).</arg>
+   </s>
+   <s id="d1e301">
+    <arg argID="033" type="support" supportType="explanation/elaboration">In other words, although to some extent culture is external and structures practices, it is not homogenous but rather shaped by individuals’ social positions and life trajectories (van Oorschot 2007).</arg>
+   </s>
+  </p>
+  <p id="d1e306">
+   <s id="d1e311">
+    <arg argID="040" type="claim" claimType="concept/theory/model-define">Values –as being abstract, durable and trans-situational (Schwartz 1994; Hitlin and Piliavin 2004)– can be considered as fundamentally diﬀerent from attitudes, which ‘value priorities underpin’ (Kulin and Meu- leman 2015: 420).</arg></s>
+   <s id="d1e326">
+    <arg argID="041" type="support" supportType="motivation/justification">Thus, we can expect that besides speciﬁc needs or self-interests, which drive to supporting or opposing diﬀerent public policies, embracing certain values will also shape individual’s attitudes towards welfare state and its policies.</arg></s>
+   <s id="d1e331">
+    <arg argID="041" type="support" supportType="method">In this article, therefore, we employ the European Social Survey (ESS Round 8)</arg> <arg argID="041" type="claim" claimType="research_objective">to examine whether and how not only self-interests but also values inﬂuence welfare support or,</arg> <arg argID="042" type="claim" claimType="research_objective">more speciﬁcally, willingness to pay for extending state’s work-family reconciliation policies in South European societies, where care provision traditionally was in the family.</arg></s>
+   <s id="d1e336">
+    <arg argID="042" type="support" supportType="established_knowledge">Yet, increasing women participation in the labour market might require a bigger share of other providers of social protection such as the welfare state or employers that might oﬀer services and beneﬁts as part of occupational welfare (Titmuss 1958; Natali et al. 2018).</arg></s>
+  </p>
+<p id="d1e340">
+   <s id="d1e346">
+    <arg argID="050" type="claim" claimType="general_statement">Welfare attitudes can ‘tell us something about whether or not existing social arrangements are legitimate’ (Svallfors 2012: 2).</arg></s>
+   <s id="d1e351">
+    <arg argID="051" type="claim" claimType="topic_centrality">This is of great importance in South European welfare states that spend on family services and beneﬁts substantially less than the Nordic or Continental European countries and that allocate to family welfare one of the lowest shares of total expenditure on beneﬁts in Europe suggesting relatively low priority as compared to other ﬁelds of social protection (source: Eurostat Statistics).</arg></s>
+   <s id="d1e361">
+    <arg argID="052" type="support" supportType="motivation/justification">Furthermore, given that South European societies are often considered to be similar in terms of the impact of traditional gender and family values,</arg> <arg argID="052" type="claim" claimType="contribution/recommendation">this study contributes to the evidence that there are important diﬀerences between them in the patterns of welfare support.</arg>
+   </s>
+   <s id="d1e366"><arg argID="053" type="claim" claimType="contribution/recommendation">It also adds to the literature on public attitudes towards childcare and family policies that ‘remain largely unexplored’ (Chung and Meuleman 2017: 50).</arg></s>
+   <s id="d1e371"><arg argID="054" type="description" descriptionType="outline_the_structure">In the following sections, we ﬁrst outline our analytical framework and research questions; second, we describe the data and methods; and, ﬁnally, we analyse and discuss the results.</arg></s>
+  </p>
+  </intro>
+  <p id="d1e376">
+   <s id="d1e381">
+    Values and self-interests as drivers of welfare attitudes
+   </s>
+  </p>
+  <p id="d1e386">
+   <s id="d1e391">
+    Welfare attitudes have been often associated with self-interests of diﬀerent social groups across nations (e.g.
+   </s>
+   <s id="d1e396">
+    Blomberg et al.
+   </s>
+   <s id="d1e401">
+    2012; Busemeyer and Garritzmann 2017).
+   </s>
+   <s id="d1e406">
+    The basic assumption is that social groups that have a greater risk of facing certain social problems and needs ‘might per- ceive state’s role in welfare issues in a distinct way’ compared to other groups (Blomberg et al.
+   </s>
+   <s id="d1e411">
+    2012: 59).
+   </s>
+   <s id="d1e416">
+    In this context, we can hypothesise that women, age groups of potential parenthood or individuals with chil- dren in a household (i.e.
+   </s>
+   <s id="d1e421">
+    actual parenthood) will be more supportive of extending state’s work-family reconciliation policies, even if meaning higher taxes for all.
+   </s>
+   <s id="d1e426">
+    Likewise, lower classes might show more support for better public services for families than higher ones that can approach the market for childcare and, therefore, depend less on state’s family pol- icies.
+   </s>
+   <s id="d1e431">
+    On the other hand, the eﬀect can be also negative: lower classes may not be willing to pay higher taxes if tax burden is already high in a country and, further, higher classes may be more supportive of public services for families due to their potentially higher cultural capital and needs for services.
+   </s>
+  </p>
+  <p id="d1e436">
+   <s id="d1e441">
+    Other studies (e.g.
+   </s>
+   <s id="d1e446">
+    Staerklé, Likki and Scheidegger 2012; Calzada and Brooks 2013; Kulin and Meuleman 2015), nonetheless, stress cultural values as a predictor of welfare attitudes, whilst not rejecting the impor- tance of self-interests or perceived risks and vulnerabilities.
+   </s>
+   <s id="d1e451">
+    They connect the two approaches in explaining welfare attitudes: the rationalist or more structural view through self-interests or risks associated with certain social positions and the subjective or cultural view through values or ideas.
+   </s>
+   <s id="d1e456">
+    The theory of basic human values, whose structure, con- tents, and comprehensiveness have been validated across numerous Western and non-Western nations (Schwartz 1992, 1994; Schwartz et al.
+   </s>
+   <s id="d1e461">
+    2001), can be successfully employed in this context (see, for example, Kulin and Meuleman 2015).
+   </s>
+  </p>
+  <p id="d1e466">
+   <s id="d1e471">
+    <span class="anchor" id="_bookmark4">
+    </span>
+    Survey and has been validated in 20 European countries (Davidov et al.
+   </s>
+   <s id="d1e476">
+    2008).
+   </s>
+  </p>
+  <p id="d1e481">
+   <s id="d1e486">
+    The theory deﬁnes values as motivational goals that transcend speciﬁc situations, guide individual behaviour or perceptions and are ordered by their relative importance forming a system of value priorities (Schwartz 1992, 1994).
+   </s>
+   <s id="d1e491">
+    As being more abstract and focusing on ideals they are diﬀerent from attitudes that are associated with a concrete concern or social object (Hitlin and Piliavin 2004).
+   </s>
+   <s id="d1e496">
+    Schwartz speciﬁes a set of ten dis- tinct value types that ‘are likely to be recognised within and across cultures and used to form value priorities’ (Schwartz 1992: 59).
+   </s>
+   <s id="d1e501">
+    The use of value types rather than speciﬁc single values increases reliability (Schwartz et al.
+   </s>
+   <s id="d1e506">
+    1997) and their measurement with multiple abstractly-formulated indicators ‘gives a better reﬂection of the theoretical distance between values and attitudes (…) and allows for a more stringent test of the values-attitudes nexus’ than, for example, political ideology (Kulin and Meuleman 2015: 419–20).
+   </s>
+  </p>
+  <p id="d1e511">
+   <s id="d1e516">
+    The value types are integrated into a broader system with dynamic relations between them and where ‘actions in pursuit of any value have consequences that conﬂict with some values and are congruent with other values’ (Davidov et al.
+   </s>
+   <s id="d1e521">
+    2008: 423).
+   </s>
+   <s id="d1e526">
+    Namely, they form a continuum in the circular structure with the types in opposing directions being com- peting or conﬂicting and the adjacent ones viewed as compatible (Schwartz 1994).
+   </s>
+   <s id="d1e531">
+    For instance, benevolence and universalism that are two adjacent types of values ‘both are concerned with enhancement of others and transcendence of selﬁsh interests’ (Schwartz 1994: 25) while benevolence and achievement that are in opposing directions express competing goals: well-being of the signiﬁcant others may conﬂict with individual success and ambitions.
+   </s>
+  </p>
+  <p id="d1e536">
+   <s id="d1e541">
+    Put it diﬀerently, values can be interpreted as motivational dispositions or mental structures durably and deeply inculcated in habitus, structuring individual practices and being transposable to diﬀerent social ﬁelds and situations (Bourdieu 1990).
+   </s>
+   <s id="d1e546">
+    These dispositions are structured by social conditions where they have been acquired through socialisation processes as well as by unique individual trajectories or experiences (Bourdieu 1990; Schwartz 1994).
+   </s>
+   <s id="d1e551">
+    Present practices or perceptions, therefore, form in the interrelationship between ‘the present conditions which may seem to have provoked them’ and ‘the past conditions which have produced the habitus’ (Bourdieu 1990: 56).
+   </s>
+  </p>
+  <p id="d1e556">
+   <s id="d1e561">
+    present life situations and social conditions where habitus is enacted.
+   </s>
+  </p>
+  <p id="d1e566">
+   <s id="d1e571">
+    whether and how welfare support is shaped by values;
+   </s>
+  </p>
+  <p id="d1e576">
+   <s id="d1e581">
+    whether and how welfare support is shaped by needs or self-interests.
+   </s>
+  </p>
+  <p id="d1e586">
+   <s id="d1e591">
+    Pfau-Eﬃnger (2005b) discusses two types of values as a foundation of diﬀerent care arrangements and, consequently, welfare policies towards care.
+   </s>
+   <s id="d1e596">
+    On the one hand, there are diﬀerences in family values as values and ideas about the role of family in the provision of care, including gender roles and ‘the gender division of labour’ (2005b: 328).
+   </s>
+   <s id="d1e601">
+    On the other hand, it is also based on welfare values and the importance placed on them, which is related to the state’s role in care provision, the degree of generosity, and ‘the comprehensiveness and quality of social rights’ (2005b: 340).
+   </s>
+   <s id="d1e606">
+    In this context, we argue that several value types are potentially relevant to predict support for work-family recon- ciliation policies.
+   </s>
+  </p>
+  <p id="d1e611">
+   <s id="d1e616">
+    In particular, we hypothesise that, in South European societies where care provision has been traditionally in family, individuals that give higher priority to the value types of tradition and conformity might be less supportive of work-family reconciliation policies that externalise care to state’s services and provision.
+   </s>
+   <s id="d1e621">
+    Both of these value types share the broader motivational goal of subordination to and acceptance of social expectations imposed by other people such as parents or elders as well as by one’s culture or religion (Schwartz 1992).
+   </s>
+   <s id="d1e626">
+    In the meantime, univers- alism that emphasises ‘understanding, appreciation, tolerance, and protec- tion for the welfare of all people’ (Schwartz 1992: 12) and benevolence that embody the welfare of people close to an individual represent such values as equality, social justice or being helpful and, therefore, should correlate positively with support for reconciliation policies, which imply solidarity between genders, classes, and generations.
+   </s>
+  </p>
+  <p id="d1e631">
+   <s id="d1e636">
+    The inﬂuence of values and self-interests, nonetheless, might be cultu- rally speciﬁc and vary across nations.
+   </s>
+   <s id="d1e641">
+    In other words, they are embedded in place and time (Bourdieu 1990), where the institutional context may mediate the eﬀects of values and self-interests on welfare attitudes.
+   </s>
+  </p>
+  <p id="d1e646">
+   <s id="d1e651">
+    whether there are diﬀerent patterns of support (diﬀerent eﬀects of values and self-interests) between South European societies.
+   </s>
+  </p>
+  <p id="d1e656">
+   <s id="d1e661">
+    <span class="anchor" id="Data_and_methods">
+    </span>
+    We also aim to tentatively associate these between-country diﬀerences with relevant contextual factors at the country level.
+   </s>
+   <s id="d1e666">
+    Chung and Meule- man (2017: 51) argue that, beyond self-interests and values, policy pro- vision is ‘the crucial third aspect that helps us understand why individuals support public provision’.
+   </s>
+   <s id="d1e671">
+    We, therefore, look at institutional indicators which are directly related to work-family reconciliation policies and ‘which contribute to opinion-formation because individuals are likely to be aware of them’ (Kunißen 2019: 612), e.g.
+   </s>
+   <s id="d1e676">
+    the generosity of parental leaves or public childcare provision.
+   </s>
+   <s id="d1e681">
+    The level of tax burden might also help to understand diﬀerences in willingness to pay higher taxes for extending public provision for families.
+   </s>
+   <s id="d1e686">
+    We compare the real tax rate that covers social security contributions, income tax and VAT experienced by employees earning typical salaries in a country (Rogers and Philippe 2019).
+   </s>
+   <s id="d1e691">
+    Finally, female employment rates might also be relevant, for women more than men are burdened by care responsibilities and, there- fore, might experience work-life conﬂict and unmet needs for services.
+   </s>
+  </p>
+  <p id="d1e696">
+   <s id="d1e701">
+    Data and methods
+   </s>
+  </p>
+  <p id="d1e706">
+   <s id="d1e711">
+    Dataset and model
+   </s>
+  </p>
+  <p id="d1e716">
+   <s id="d1e721">
+    The European Social Survey is a biannual face-to-face survey carried out by the European Science Foundation since 2002.
+   </s>
+   <s id="d1e726">
+    There were 23 participat- ing countries in 2016 (Round 8 or ESS8).
+   </s>
+   <s id="d1e731">
+    The ESS8 includes both a module on welfare attitudes, which allows us to measure public willing- ness to pay for extending state’s work-family reconciliation policies, as well as a validated value scale to measure the 10 basic value types of Schwartz’s theory.
+   </s>
+   <s id="d1e736">
+    While our objective was to compare all the South Euro- pean societies, only Italy, Portugal and Spain could be incorporated in the analysis.
+   </s>
+   <s id="d1e741">
+    Greece has not participated in the survey since 2012.
+   </s>
+   <s id="d1e746">
+    The sample sizes of the ESS8 in the analysed countries are the following: 2626 in Italy, 1270 in Portugal and 1958 in Spain.
+   </s>
+  </p>
+  <p id="d1e751">
+   <s id="d1e756">
+    Based on the analytical framework and research questions outlined in the second section, we estimate three logit models.
+   </s>
+   <s id="d1e761">
+    First, a model (Model 1) that estimates welfare support with values and control variables as predictors is developed to reveal the extent to which values aﬀect support for extending work-family reconciliation policies.
+   </s>
+   <s id="d1e766">
+    Second, we determine whether diﬀerences in support could be accounted for diﬀer- ences in self-interests (Model 2).
+   </s>
+  </p>
+  <p id="d1e771">
+   <s id="d1e776">
+    and, therefore, a separate logit model for each country will be necessary to assess diﬀerences in the eﬀects of values and self-interests.
+   </s>
+  </p>
+  <p id="d1e781">
+   <s id="d1e786">
+    Dependent variable
+   </s>
+  </p>
+  <p id="d1e791">
+   <s id="d1e796">
+    To measure individual’s support for extending state’s provision of services for families, we employ the question E25 (ESS8) worded as ‘would you be against or in favour of the government introducing extra social beneﬁts and services to make it easier for working parents to combine work and family life even if it means much higher taxes for all?’.
+   </s>
+   <s id="d1e801">
+    The responses include ‘strongly against’, ‘against’, ‘in favour’ and ‘strongly in favour’, which we dichotomised to: ‘in favour’ (support/willingness to pay higher taxes) and ‘against’ (no support).
+   </s>
+  </p>
+  <p id="d1e806">
+   <s id="d1e811">
+    The formulation of the question in the constrained or trade-oﬀ manner rather than only support for these social investment policies, which gen- erally is high and ‘might signiﬁcantly overestimate people’s “true” support’ (Busemeyer and Garritzmann 2017: 885), may be considered as its par- ticular strength.
+   </s>
+   <s id="d1e816">
+    Empirical ﬁndings suggest that support for more spend- ing on policies drops when people are reminded that it implies additional ﬁnancing through, for example, higher taxes (Busemeyer and Garritz- mann 2017).
+   </s>
+   <s id="d1e821">
+    The responses, however, might strongly depend on the tax burden and its between-country variations, which we are not able to control at the individual level due to the data limitations.
+   </s>
+   <s id="d1e826">
+    Yet, we intend to reﬂect on it at the country level.
+   </s>
+   <s id="d1e831">
+    Despite the limitations of the question, we argue that this formulation represents gender, class and generational solidarity better and measures ‘real’ support more reliably than wording without trade-oﬀ scenarios.
+   </s>
+  </p>
+  <p id="d1e836">
+   <s id="d1e841">
+    Independent variables
+   </s>
+  </p>
+  <p id="d1e846">
+   <s id="d1e851">
+    We employ three types of independent variables at the individual level: values, self-interests, and control variables that mainly represent individ- ual resources for care.
+   </s>
+   <s id="d1e856">
+    The ESS human values scale includes verbal por- traits of 21 individuals ‘that point implicitly to the importance of a value’ (Davidov et al.
+   </s>
+   <s id="d1e861">
+    2008: 426).
+   </s>
+   <s id="d1e866">
+    Respondents answer how much the described person is like them with responses on a 6-point Likert scale varying from ‘very much like me’ to ‘not like me at all’.
+   </s>
+   <s id="d1e871">
+    In this study, we recode the answers so that the higher score on the scale, the higher similarity between the respondent and the described person.
+   </s>
+  </p>
+  <p id="d1e876">
+   <s id="d1e881">
+    <span class="anchor" id="_bookmark6">
+    </span>
+    response scale, which can cause under- and over-estimates, is done by sub- tracting a 21-item mean score from a mean score of items that represent each value type (Schwartz et al.
+   </s>
+   <s id="d1e886">
+    1997).
+   </s>
+   <s id="d1e891">
+    When assessing the validity of the ESS human values scale, Davidov et al.
+   </s>
+   <s id="d1e896">
+    (2008: 440) suggest that seven (rather than ten) distinct values, where some of them are combinations of two original adjacent value types, can be measured ‘with conﬁdence’ using the scale.
+   </s>
+   <s id="d1e901">
+    Following their results, we combine tradition with confor- mity (a centred mean of 4 items) and universalism with benevolence (a centred-mean of 5 items).
+   </s>
+  </p>
+  <p id="d1e906">
+   <s id="d1e911">
+    Second, we include variables that might inﬂuence the dependent vari- able through interests or needs associated with them: gender, age groups, children in a household and social class.
+   </s>
+   <s id="d1e916">
+    Women tend to be more supportive of extensive welfare policies (Svallfors 1997; Staerklé et al.
+   </s>
+   <s id="d1e921">
+    2012), which could be particularly the case in reconciliation policies due to childcare needs.
+   </s>
+   <s id="d1e926">
+    Similarly, welfare support may vary along the life course depending on care responsibilities and needs.
+   </s>
+   <s id="d1e931">
+    Following the life- course rationale (Svallfors et al.
+   </s>
+   <s id="d1e936">
+    2012), we create four age categories: 16–29, 30–44, 45–64 and 65 or more.
+   </s>
+   <s id="d1e941">
+    Furthermore, children in a house- hold might generate very speciﬁc and expressed needs for family policies.
+   </s>
+   <s id="d1e946">
+    Considering diﬀerent care needs, we examine whether and how having youngest children under the age of 3 (needs for early childcare), aged 3–5 (pre-school), aged 6–11 and aged 12–15 inﬂuence welfare attitudes.
+   </s>
+   <s id="d1e951">
+    Finally, the indicator of social class is based on the Oesch’s class schema (Oesch 2006) and includes 5 occupational groups based on their technical, organisational and interpersonal work logic: higher-grade service class, lower-grade service class, small business owners, skilled workers and unskilled workers.
+   </s>
+  </p>
+  <p id="d1e956">
+   <s id="d1e961">
+    We also control for several variables that may confound our results.
+   </s>
+   <s id="d1e966">
+    First, religiosity as church attendance rather than only denomination can be seen as certain ideologies ‘that subsume attitudes and values’ (Hitlin and Piliavin 2004: 375).
+   </s>
+   <s id="d1e971">
+    Second, family or household character- istics may be factors that suggest particular levels of economic or time resources in the family.
+   </s>
+   <s id="d1e976">
+    We, therefore, construct a variable as a proxy of the family model (Pfau-Eﬃnger 2005b) using the data on respondent’s and/or their partner’s employment status.
+   </s>
+   <s id="d1e981">
+    Third, a variable of the respon- dent’s domicile is included to reﬂect potentially diﬀerent availability of formal public services or informal care resources.
+   </s>
+   <s id="d1e986">
+    Subjective economic well-being might also be related to diﬀerent levels of willingness to pay higher taxes for better services for families.
+   </s>
+  </p>
+  <p id="d1e991">
+   <s id="d1e996">
+    <span class="anchor" id="Results">
+    </span>
+    taxes and have services provided by the institutions.
+   </s>
+   <s id="d1e1001">
+    We, therefore, incorporate a variable that averages trust in politicians, political parties, and country’s parliament (from 0 (no trust at all) to 10 (com- plete trust)).
+   </s>
+   <s id="d1e1006">
+    Finally, the role of media in shaping values and attitudes is considered by including the use of diﬀerent media channels for news about politics and current aﬀairs (measured by minutes per day).1 Descriptive statistics of the independent variables can be obtained from the authors on request.
+   </s>
+  </p>
+  <p id="d1e1011">
+   <s id="d1e1016">
+    Results
+   </s>
+  </p>
+  <p id="d1e1021">
+   <s id="d1e1026">
+    Figure 1 shows the distribution of the dependent variable across the Euro- pean countries in 2016.
+   </s>
+   <s id="d1e1031">
+    The Mediterranean welfare states are among the countries that are most supportive towards extending work-family recon- ciliation policies.
+   </s>
+   <s id="d1e1036">
+    Portugal reports the greatest proportion of people willing to pay higher taxes for better services for families (approx.
+   </s>
+   <s id="d1e1041">
+    74 per cent) whereas the Nordic countries are situated in the other end of the conti- nuum with support rates as low as 36 per cent in Finland, i.e.
+   </s>
+   <s id="d1e1046">
+    half the pro- portion of support in Portugal.
+   </s>
+   <s id="d1e1051">
+    The data suggest that the generosity of the welfare state is mediating support for extending work-family reconcilia- tion policies, where less generous welfare states have greater proportion of people willing to pay higher taxes for better services to reconcile work and family lives.
+   </s>
+  </p>
+  <p id="d1e1056">
+   <s id="d1e1061">
+    Although the analysed Southern European countries show similarly high levels of welfare support for extending work-family reconciliation policies, their institutional and economic contexts are diverse (see Table 1).
+   </s>
+   <s id="d1e1066">
+    First, Portugal which reports the highest level of support for extending public services for families is the one with the lowest expenditure on family/children beneﬁts and relatively low tax burden.
+   </s>
+   <s id="d1e1071">
+    It is among ten EU countries with lowest real tax rates for typical workers (Rogers and Philippe, 2019).
+   </s>
+   <s id="d1e1076">
+    Further, the employment rates of Portuguese women, in general, and of mothers, in particular, are among the highest in Europe, which might indicate a greater need for better services.
+   </s>
+   <s id="d1e1081">
+    Provisions for families such as leave policies, however, do not seem to be signiﬁcantly more generous than in Italy or Spain with an exception of a higher pro- portion of children under 3 in formal childcare in Portugal.
+   </s>
+  </p>
+  <p id="d1e1086">
+   <s id="d1e1091">
+    1As part of robustness checks, we have also considered other variables, including the level of education that is suggested by other studies (e.g.
+   </s>
+   <s id="d1e1096">
+    Staerklé et al.
+   </s>
+   <s id="d1e1101">
+    2012).
+   </s>
+   <s id="d1e1106">
+    Yet, the decision to exclude it has been made due to its correlation with social class and higher explanatory power of models without education.
+   </s>
+  </p>
+  <p id="d1e1111">
+   <s id="d1e1116">
+    <span class="anchor" id="_bookmark8">
+    </span>
+    Figure 1.
+   </s>
+   <s id="d1e1121">
+    The distribution of respondents against or in favour for extending state’s work- family reconciliation policies even if meaning higher taxes for all, 2016 (source: own cal- culations, ESS8).
+   </s>
+  </p>
+  <p id="d1e1126">
+   <s id="d1e1131">
+    gender-equality than in Italy, where the length of well-paid leaves for fathers is quite symbolic – 4 days.
+   </s>
+  </p>
+  <p id="d1e1136">
+   <s id="d1e1141">
+    Like Portugal, Spain also shows low levels of social expenditure on family and children beneﬁts (half the EU average) and of tax burden, which may partially explain high support for extending family policies.
+   </s>
+   <s id="d1e1146">
+    Both female and mothers’ employment rates are, nonetheless, lower – below 60 per cent.
+   </s>
+   <s id="d1e1151">
+    The lower proportions of children under 3 in formal childcare (particularly, full-time) and of using informal care arrangements may suggest a lack of availability of formal childcare services as well as informal care resources.
+   </s>
+   <s id="d1e1156">
+    Along with the absence of parental leaves, this may keep women out of the labour market.
+   </s>
+  </p>
+  <p id="d1e1161">
+   <s id="d1e1166">
+    Finally, although the level of social expenditure on family beneﬁts in Italy is higher, which might signal greater eﬀorts to cover new social risks, other indicators suggest more traditional family and gender roles: lower levels of female and mothers’ employment or of children under 3 in formal childcare.
+   </s>
+   <s id="d1e1171">
+    Quite a high proportion of children using informal care arrangements, however, may indicate a need for better services for families.
+   </s>
+   <s id="d1e1176">
+    Yet, high tax burden (among top ﬁve in the EU) might impede support for this expansion.
+   </s>
+  </p>
+  <p id="d1e1181">
+   <s id="d1e1186">
+    <span class="anchor" id="_bookmark9">
+    </span>
+    Table 1.
+   </s>
+   <s id="d1e1191">
+    Contextual indicators in Italy, Portugal and Spain (latest data available).
+   </s>
+  </p>
+  <p id="d1e1196">
+   <s id="d1e1201">
+    Italy Portugal Spain
+   </s>
+  </p>
+  <p id="d1e1206">
+   <s id="d1e1211">
+    Source: Eurostat Statistics, International Network on Leave Policies &amp; Research, OECD Family Database, Rogers and Philippe (2019).
+   </s>
+  </p>
+  <p id="d1e1216">
+   <s id="d1e1221">
+    a Initial parental leave: 6 weeks obligatory for mothers after the birth but the rest can be shared between parents with 30 days extra if shared
+   </s>
+  </p>
+  <p id="d1e1226">
+   <s id="d1e1231">
+    b Max 40 weeks per family; 4 weeks extra if a father takes min 12 weeks
+   </s>
+  </p>
+  <p id="d1e1236">
+   <s id="d1e1241">
+    c Include all social security contributions, income tax and VAT
+   </s>
+  </p>
+  <p id="d1e1246">
+   <s id="d1e1251">
+    The eﬀects of values and self-interests: pooled data
+   </s>
+  </p>
+  <p id="d1e1256">
+   <s id="d1e1261">
+    Table 2 shows that some of the variables are consistently signiﬁcant across all of the three models.
+   </s>
+   <s id="d1e1266">
+    First, the ﬁndings conﬁrm the importance of tra- dition and conformity values, the eﬀect of which even increases when con- trolled for self-interests.
+   </s>
+   <s id="d1e1271">
+    Individuals who embrace values that include commitment to traditions or religion as well as obedience to social expec- tations or norms (Schwartz 1994) tend to show less support for extending work-family reconciliation policies that may be considered as opposing traditional social order and family values.
+   </s>
+   <s id="d1e1276">
+    These ﬁndings contribute to the evidence concerning negative eﬀects of conservation values on welfare support (Kulin and Meuleman 2015).
+   </s>
+   <s id="d1e1281">
+    Yet, contrary to their ﬁndings about self-transcendence values as well as to our own hypothesis, individuals who place higher (or lower) importance on universalism and benevolence values that cover social justice and equality, among others, are not signiﬁcantly more (or less) supportive towards extending family policies.
+   </s>
+  </p>
+  <p id="d1e1286">
+   <s id="d1e1291">
+    Second, the introduction of self-interests as explanatory variables only partially conﬁrms the expected eﬀects on welfare support.
+   </s>
+  </p>
+  <p id="d1e1296">
+   <s id="d1e1301">
+    <span class="anchor" id="_bookmark10">
+    </span>
+    less willing to pay higher taxes for better services for families.
+   </s>
+   <s id="d1e1306">
+    The negative eﬀect is stronger in case of small business owners, which might be related to their position in the labour market with less access to services and beneﬁts than in case of employees.
+   </s>
+   <s id="d1e1311">
+    As expected, households with small children are more willing to pay higher taxes for better services to recon- cile work and family lives, which shows that needs of the household are mediating support for work-family reconciliation policies.
+   </s>
+  </p>
+  <p id="d1e1316">
+   <s id="d1e1321">
+    Table 2.
+   </s>
+   <s id="d1e1326">
+    Support for extending state’s work-family reconciliation policies in South European countries: logit estimates.
+   </s>
+  </p>
+  <p id="d1e1331">
+   <s id="d1e1336">
+    One in paid work (with partner)
+   </s>
+  </p>
+  <p id="d1e1341">
+   <s id="d1e1346">
+    0.054 –0.024 –0.029
+   </s>
+  </p>
+  <p id="d1e1351">
+   <s id="d1e1356">
+    Double-earner 0.040 –0.048 –0.069
+   </s>
+  </p>
+  <p id="d1e1361">
+   <s id="d1e1366">
+    Domicile (ref.
+   </s>
+  </p>
+  <p id="d1e1371">
+   <s id="d1e1376">
+    Feeling about household’s income nowadays (ref.
+   </s>
+  </p>
+  <p id="d1e1381">
+   <s id="d1e1386">
+    Village or countryside
+   </s>
+  </p>
+  <p id="d1e1391">
+   <s id="d1e1396">
+    Coping on present income
+   </s>
+  </p>
+  <p id="d1e1401">
+   <s id="d1e1406">
+    Diﬃcult on present income
+   </s>
+  </p>
+  <p id="d1e1411">
+   <s id="d1e1416">
+    Very diﬃcult on present income
+   </s>
+  </p>
+  <p id="d1e1421">
+   <s id="d1e1426">
+    0.079 0.064 0.094
+   </s>
+  </p>
+  <p id="d1e1431">
+   <s id="d1e1436">
+    –0.309*** –0.241*** –0.264***
+   </s>
+  </p>
+  <p id="d1e1441">
+   <s id="d1e1446">
+    –0.318*** –0.257*** –0.267***
+   </s>
+  </p>
+  <p id="d1e1451">
+   <s id="d1e1456">
+    –0.473*** –0.417*** –0.451***
+   </s>
+  </p>
+  <p id="d1e1461">
+   <s id="d1e1466">
+    Trust in politicians, parties and country’s parliament 0.085*** 0.088*** 0.082*** Use of media for news about politics and current aﬀairs 0.000*** 0.001*** 0.001***
+   </s>
+  </p>
+  <p id="d1e1471">
+   <s id="d1e1476">
+    Constant 0.587*** 0.557*** 0.629***
+   </s>
+  </p>
+  <p id="d1e1481">
+   <s id="d1e1486">
+    Notes: *p &lt; 0.10, **p &lt; 0.05, ***p &lt; 0.01.
+   </s>
+   <s id="d1e1491">
+    Source: own calculations, ESS8.
+   </s>
+  </p>
+  <p id="d1e1496">
+   <s id="d1e1501">
+    that might reﬂect their instable or outsider position in the labour market.
+   </s>
+   <s id="d1e1506">
+    Gender, however, does not show signiﬁcant diﬀerences in welfare support.
+   </s>
+  </p>
+  <p id="d1e1511">
+   <s id="d1e1516">
+    Third, some of the control variables also demonstrate quite high levels of consistency across the models.
+   </s>
+   <s id="d1e1521">
+    Subjective economic well-being or secur- ity shows a robust and rather intuitive eﬀect.
+   </s>
+   <s id="d1e1526">
+    The more diﬃcult individ- uals ﬁnd living on their income, the less supportive towards extending work-family reconciliation policies they are, which might be the result of constrained nature of the question that implies willingness to pay higher taxes.
+   </s>
+   <s id="d1e1531">
+    Further, both trust in politicians, parties, and country’s par- liament as well as interest in politics and current aﬀairs measured by the use of media, which may accumulate cultural capital, are highly signiﬁcant and inﬂuence positively support for better services for families.
+   </s>
+   <s id="d1e1536">
+    Finally, the country dummy variable is introduced in the Model 3 and results signiﬁ- cant, which might indicate diﬀerent patterns of support between the countries and begs for separated logit models to evaluate the eﬀects of independent variables in each country.
+   </s>
+  </p>
+  <p id="d1e1541">
+   <s id="d1e1546">
+    The eﬀects of values and self-interests: between-country diﬀerences
+   </s>
+  </p>
+  <p id="d1e1551">
+   <s id="d1e1556">
+    The results in Table 3 conﬁrm diﬀerent patterns of support in Italy, Por- tugal, and Spain.
+   </s>
+   <s id="d1e1561">
+    First, social class and subjective economic security inﬂuence signiﬁcantly welfare support in Italy.
+   </s>
+   <s id="d1e1566">
+    Compared to higher- grade service class, individuals in lower classes tend to be less supportive of extending work-family reconciliation policies.
+   </s>
+   <s id="d1e1571">
+    Similarly, individuals that are not living comfortable on their present income are less supportive of extending family policies: the worse they feel that they live, the less sup- portive they are.
+   </s>
+   <s id="d1e1576">
+    Both of these eﬀects might be related to already high tax burden in Italy (Table 1).
+   </s>
+   <s id="d1e1581">
+    In the meantime, while having children under 3 do not show signiﬁcant eﬀects, children between 3 and 5 and adolescents between 12 and 15 in a household lead to higher willingness to pay for better services for families.
+   </s>
+   <s id="d1e1586">
+    Similarly, individuals with higher trust in poli- ticians, political parties and Italian parliament as well as those who use media channels for news about politics and current aﬀairs, both of which accumulate non-material forms of capital, are more supportive towards extending services for families.
+   </s>
+  </p>
+  <p id="d1e1591">
+   <s id="d1e1596">
+    More importantly, both types of values demonstrate signiﬁcant eﬀects on welfare support in Italy.
+   </s>
+  </p>
+  <p id="d1e1601">
+   <s id="d1e1606">
+    <span class="anchor" id="_bookmark11">
+    </span>
+    they are.
+   </s>
+   <s id="d1e1611">
+    Combined universalism and benevolence values also result sig- niﬁcant, but the direction of the eﬀect is not as expected and contrasts to the one in Spain.
+   </s>
+   <s id="d1e1616">
+    While individuals in Spain who place higher priority on values that represent welfare of all people and of the signiﬁcant others are more supportive of extending family policies, these individuals in Italy show less support for better services for families.
+   </s>
+  </p>
+  <p id="d1e1621">
+   <s id="d1e1626">
+    This could be related to higher tax burden in Italy.
+   </s>
+   <s id="d1e1631">
+    Further extensions of taxes might be perceived as threatening household income and, as a result, being against values such as social justice, equality or welfare of others.
+   </s>
+  </p>
+  <p id="d1e1636">
+   <s id="d1e1641">
+    Table 3.
+   </s>
+   <s id="d1e1646">
+    Support for extending state’s work-family reconciliation policies in Italy, Portugal and Spain: logit estimates.
+   </s>
+  </p>
+  <p id="d1e1651">
+   <s id="d1e1656">
+    Feeling about household’s income nowadays (ref.
+   </s>
+  </p>
+  <p id="d1e1661">
+   <s id="d1e1666">
+    countryside Coping on present
+   </s>
+  </p>
+  <p id="d1e1671">
+   <s id="d1e1676">
+    income
+   </s>
+  </p>
+  <p id="d1e1681">
+   <s id="d1e1686">
+    Diﬃcult on present income
+   </s>
+  </p>
+  <p id="d1e1691">
+   <s id="d1e1696">
+    Very diﬃcult on present income
+   </s>
+  </p>
+  <p id="d1e1701">
+   <s id="d1e1706">
+    –0.183* –0.159 –0.356***
+   </s>
+  </p>
+  <p id="d1e1711">
+   <s id="d1e1716">
+    –0.431*** –0.081 –0.083
+   </s>
+  </p>
+  <p id="d1e1721">
+   <s id="d1e1726">
+    –0.622*** 0.087 –0.400**
+   </s>
+  </p>
+  <p id="d1e1731">
+   <s id="d1e1736">
+    Notes: *p &lt; 0.10, **p &lt; 0.05, ***p &lt; 0.01.
+   </s>
+   <s id="d1e1741">
+    Source: own calculations, ESS8.
+   </s>
+  </p>
+  <p id="d1e1746">
+   <s id="d1e1751">
+    <span class="anchor" id="_bookmark12">
+    </span>
+    Italy where family is perceived as the most adequate care and welfare insti- tution.
+   </s>
+   <s id="d1e1756">
+    Embracing social justice or equality, therefore, might result in support for policies of family income protection but not necessarily for public care services.
+   </s>
+   <s id="d1e1761">
+    For these risks are covered informally by the (extended) family, in general, and by mothers, in particular (Triﬁletti 1999; Table 1).
+   </s>
+   <s id="d1e1766">
+    The European Values Study in 2017 conﬁrms this domi- nance of traditional family values in Italy: 52 per cent (strongly) agree that children suﬀer if their mother works as compared to 26 per cent in Spain.
+   </s>
+  </p>
+  <p id="d1e1771">
+   <s id="d1e1776">
+    Besides the eﬀects of values, the direction of relations between other
+   </s>
+  </p>
+  <p id="d1e1781">
+   <s id="d1e1786">
+    variables and welfare support in Spain is also more in line with our expec- tations.
+   </s>
+   <s id="d1e1791">
+    First, the presence of small children aged 3–5 and, particularly, younger than 3, i.e.
+   </s>
+   <s id="d1e1796">
+    a need for childcare, signiﬁcantly and positively inﬂuence willingness to pay for better services for families.
+   </s>
+   <s id="d1e1801">
+    Trust in politi- cal elites and institutions that might suggest more cultural or information capital inﬂuences welfare support positively.
+   </s>
+   <s id="d1e1806">
+    Diﬃculties to cope on present income also inﬂuence willingness to pay higher taxes, yet nega- tively.
+   </s>
+   <s id="d1e1811">
+    Finally, individuals who live in small cities and towns show higher levels of support towards extending family policies than those who live in big cities possibly showing a lack of public services in smaller locations, which is not substituted by informal care arrangements (Table 1).
+   </s>
+  </p>
+  <p id="d1e1816">
+   <s id="d1e1821">
+    Meanwhile, welfare support in Portugal is mostly consistent across social groups.
+   </s>
+   <s id="d1e1826">
+    Yet, two variables demonstrate signiﬁcant diﬀerences in their eﬀects on the dependent variable, although neither of them is values.
+   </s>
+   <s id="d1e1831">
+    Most importantly, age as a variable that implies certain interests resulting from diﬀerent life-course stages signiﬁcantly inﬂuences welfare support only in Portugal but not in the expected direction.
+   </s>
+   <s id="d1e1836">
+    The older gen- erations are more willing to pay higher taxes for better services for families than the youngest age cohort in early phases of family establishment and with potential or actual needs for services.
+   </s>
+   <s id="d1e1841">
+    On the one hand, higher welfare support of individuals aged 30–44 as compared to younger than 30 might suggest both actual needs of childcare given that at birth of ﬁrst child women in Portugal are nearly 30 years old on average (source: Eurostat Statistics) as well as more stable positions in the labour market.
+   </s>
+   <s id="d1e1846">
+    On the other hand, a higher solidarity among older generations (particularly, aged 65 and older) might be shaped by historical circumstances as the result of which Portuguese women started massively entering employment earlier than in other countries (Tavora 2012) and families might have experienced signiﬁcant gaps in services to reconcile work and family lives.
+   </s>
+  </p>
+  <p id="d1e1851">
+   <s id="d1e1856">
+    <span class="anchor" id="Discussion">
+    </span>
+    Discussion
+   </s>
+  </p>
+  <p id="d1e1861">
+   <s id="d1e1866">
+    There is a need for more services to reconcile work and family lives in South European societies that is evidenced by high levels of public support for extending these services even if it means higher taxes for all.
+   </s>
+   <s id="d1e1871">
+    Welfare support and demand can shape welfare-state policies concerning care arrangements (Pfau-Eﬃnger 2005b) or, in other words, could ‘become political weapons’ letting policy-makers ‘convince others that policy change is necessary’ (Béland and Mahon 2016: 47).
+   </s>
+   <s id="d1e1876">
+    Families, in general, and mothers, in particular, tend to be positively constructed target populations (Schneider and Ingram 1993) although their power seems to remain relatively weak as illustrated by lower provisions and expenditure on these policies in Southern Europe.
+   </s>
+   <s id="d1e1881">
+    Besides power and social construction, nonetheless, political elites and decision-makers are also sensitive ‘to pressure from the public and from professionals to produce eﬀective public policies’ (Schneider and Ingram 1993: 36).
+   </s>
+  </p>
+  <p id="d1e1886">
+   <s id="d1e1891">
+    While some of self-interests and values mediate welfare support in the region as expected (e.g.
+   </s>
+   <s id="d1e1896">
+    a positive eﬀect of children in a household or a negative one of tradition and conformity values), divergent patterns of these eﬀects that emerge in separate country models suggest diﬀerences in the cluster of South European welfare states and, potentially, in power of families as a target population for public policies.
+   </s>
+   <s id="d1e1901">
+    Although some scholars (Bonoli 2007; León and Pavolini 2014) are quite cautious about possibilities of development of new social risk policies in Southern Europe due to competing claims and ﬁnancial constraints, the ﬁndings of this study signal that the statement might not necessarily stand for all the countries.
+   </s>
+  </p>
+  <p id="d1e1906">
+   <s id="d1e1911">
+    In Portugal, high and consistent levels of welfare support and solidarity between genders, individuals from diﬀerent social classes and with diﬀerent childcare needs might be shaped by high and, therefore, normal- ised female and mothers’ participation in employment, including low- educated women (Tavora 2012), as well as by lower tax burden and expen- diture on family beneﬁts.
+   </s>
+   <s id="d1e1916">
+    Furthermore, neither the positive eﬀect of uni- versalism and benevolence nor the negative one of tradition and conformity have been conﬁrmed.
+   </s>
+   <s id="d1e1921">
+    Despite the persistence of traditional gender roles in Portugal (Torres et al.
+   </s>
+   <s id="d1e1926">
+    2013), the absence of signiﬁcant eﬀects of values might be also related to exceptionally high levels of (full-time) female employment, generated by both demand and supply (economic need of the second wage in the household) (Tavora 2012).
+   </s>
+  </p>
+  <p id="d1e1931">
+   <s id="d1e1936">
+    <span class="anchor" id="_bookmark14">
+    </span>
+    perceived across the entire population notwithstanding self-interests or embraced types of values and which is accompanied by an even higher solidarity within older generations and, particularly, the elderly – a tra- ditionally powerful and positively-constructed population (Schneider and Ingram 1993).
+   </s>
+   <s id="d1e1941">
+    All of this seem to indicate space for more generous state policies for families in Portugal.
+   </s>
+  </p>
+  <p id="d1e1946">
+   <s id="d1e1951">
+    There are, nonetheless, clearer patterns of opposition to or support for better services for families across social groups in Italy.
+   </s>
+   <s id="d1e1956">
+    It includes the lack of welfare support among economically less privileged and lower social classes, which might be shaped by relatively high tax burden (Table 1), as well as a clear impact of cultural values.
+   </s>
+   <s id="d1e1961">
+    As expected, values that imply respect and subordination to traditions or religion inﬂuences welfare support negatively.
+   </s>
+   <s id="d1e1966">
+    Meanwhile, research shows that individuals embracing universalism and benevolence that represent the principle of equality or social justice tend to be in favour of public policies, in general (Kulin and Meuleman 2015) and of public childcare, in particular (Chung and Meuleman 2017).
+   </s>
+   <s id="d1e1971">
+    In Italy, this eﬀect is negative, however.
+   </s>
+   <s id="d1e1976">
+    It might be the result of both high tax burden (the trade-oﬀ scenario in the formulation of the question) and the meaning of solidarity, where family is perceived as the most adequate care institution.
+   </s>
+   <s id="d1e1981">
+    Work-family conﬂict, as a result, is a risk coverable by the family informally rather than a risk against which ‘the family cannot protect itself’ (Triﬁletti 1999: 50) and needs the welfare state to cover it (e.g.
+   </s>
+   <s id="d1e1986">
+    the inability to provide one’s family due to age or disability).
+   </s>
+   <s id="d1e1991">
+    Since higher taxes might ‘damage the ability of the family to function’ (Triﬁletti 1999: 51), embracing such values as social justice or equality might lead individuals to oppose the extension of taxes even if they are used for public family policies.
+   </s>
+  </p>
+  <p id="d1e1996">
+   <s id="d1e2001">
+    This eﬀect is not conﬁrmed in Spain, however, where cultural and social
+   </s>
+  </p>
+  <p id="d1e2006">
+   <s id="d1e2011">
+    values, including stronger secularisation, seem to have departed more from traditional gender and family culture than in Italy (León and Pavo- lini 2014).
+   </s>
+   <s id="d1e2016">
+    As expected, individuals embracing universalism and benevo- lence values that align with the logic of welfare state are more willing to pay higher taxes for better services for families while tradition and confor- mity values are aﬀecting welfare support negatively.
+   </s>
+   <s id="d1e2021">
+    The Spanish case, therefore, seems to be situated between Italy and Portugal.
+   </s>
+   <s id="d1e2026">
+    There is an unmet need for childcare in the families with small children evidenced by both higher support by these parents and lower shares of children under 3 in formal childcare, more than a half of whom are in the private sector (León 2007).
+   </s>
+  </p>
+  <p id="d1e2031">
+   <s id="d1e2036">
+    <span class="anchor" id="Acknowledgements">
+    </span>
+    willing to pay higher taxes for better services possibly because of economic reasons in the ﬁrst case or due to more extensive and/or aﬀordable formal childcare services or (in)formal paid care resources in the household (León 2007) in the second one.
+   </s>
+  </p>
+  <p id="d1e2041">
+   <s id="d1e2046">
+    Therefore, while the results in Portugal hint that families might be becoming not only positively-constructed but also relatively strong in terms of power, this is not necessarily the case in Spain and, particularly, Italy.
+   </s>
+   <s id="d1e2051">
+    It might suggest, nonetheless, moving beyond public policies with a possible role for other social institutions such as employers in providing childcare or ﬂexible work arrangements as part of occupational welfare (Titmuss 1958), which is still limited although increasing in its importance in Southern Europe (León and Pavolini 2014).
+   </s>
+   <s id="d1e2056">
+    Yet, inequalities in access to these beneﬁts between sectors, companies or work positions and notwith- standing care needs (Chung 2018) have been the main concern of occu- pational work-family reconciliations policies.
+   </s>
+  </p>
+  <p id="d1e2061">
+   <s id="d1e2066">
+    Finally, it is important to highlight that contextual indicators beyond public provisions for families or female labour market participation have not been examined in detail in this article.
+   </s>
+   <s id="d1e2071">
+    In particular, analysis of media discourses and the role of political experts or elites, all of which shape social constructions of families as a target population that ‘are absorbed by citizens and aﬀect their orientations’ (Schneider and Ingram 1993: 334), falls beyond the scope of this article and, there- fore, signals future research directions.
+   </s>
+   <s id="d1e2076">
+    Further, future research could contribute more evidence on eﬀects of tax burden on welfare support by, for instance, including all European societies in multi-level analysis.
+   </s>
+  </p>
+  <p id="d1e2081">
+   <s id="d1e2086">
+    Acknowledgements
+   </s>
+  </p>
+  <p id="d1e2091">
+   <s id="d1e2096">
+    An earlier draft of the article was presented at the Conference of the European Network for Social Policy Analysis (ESPAnet) in Stockholm.
+   </s>
+   <s id="d1e2101">
+    We would like to thank to all who commented on the paper.
+   </s>
+  </p>
+  <p id="d1e2106">
+   <s id="d1e2111">
+    Disclosure statement
+   </s>
+  </p>
+  <p id="d1e2116">
+   <s id="d1e2121">
+    No potential conﬂict of interest was reported by the author(s).
+   </s>
+  </p>
+  <p id="d1e2126">
+   <s id="d1e2131">
+    Funding
+   </s>
+  </p>
+  <p id="d1e2136">
+   <s id="d1e2141">
+    This research forms part of the Research Project “Occupational welfare in Spain: mapping, determinants and eﬀects” (BIOCES) funded by the Ministry of Economy, Industry and Competitiveness, Spain (ref.
+   </s>
+   <s id="d1e2146">
+    MINECO-18-CSO2017-82648-R).
+   </s>
+  </p>
+  <p id="d1e2151">
+   <s id="d1e2156">
+    <span class="anchor" id="Notes_on_contributors">
+    </span>
+    Notes on contributors
+   </s>
+  </p>
+  <p id="d1e2161">
+   <s id="d1e2166">
+    Sigita Doblytė is a Ph.D.
+   </s>
+   <s id="d1e2171">
+    candidate and and a member of the Research Group ‘Pro- moting Employment and Welfare in Europe’ (PROMEBI) at the Department of Soci- ology, University of Oviedo (Spain).
+   </s>
+   <s id="d1e2176">
+    Her research focuses on how the interplay between institutional arrangements, sociocultural context and their historical trajec- tories shapes individual behaviour and well-being.
+   </s>
+   <s id="d1e2181">
+    Her research interests cover such areas as medicalisation of society, work-life balance, power relations or social theory, among others.
+   </s>
+  </p>
+  <p id="d1e2186">
+   <s id="d1e2191">
+    Aroa Tejero is Assistant Professor and a member of the Research Group ‘Promoting Employment and Welfare in Europe’ (PROMEBI) at the Department of Sociology, University of Oviedo (Spain).
+   </s>
+   <s id="d1e2196">
+    Her research focuses on socio-economic inequalities, mainly from a quantitative perspective.
+   </s>
+   <s id="d1e2201">
+    Her research interests include poverty, labour market, gender inequalities and social policy analysis.
+   </s>
+  </p>
+  <p id="d1e2206">
+   <s id="d1e2211">
+    ORCID
+   </s>
+  </p>
+  <p id="d1e2216">
+   <s id="d1e2221">
+    Sigita Doblytė http://orcid.org/0000-0001-6338-9664
+   </s>
+  </p>
+  <p id="d1e2226">
+   <s id="d1e2231">
+    Aroa Tejero http://orcid.org/0000-0002-8583-4156
+   </s>
+  </p>
+ </body>
+</html>

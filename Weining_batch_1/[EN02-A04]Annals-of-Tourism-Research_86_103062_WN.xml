@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="discourse.v4_cn.css"?><html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wkwsci.ntu.edu.sg/discourse# discourse.v4_cn.xsd">
+ <head><title>Mere association of product image and travel destination</title>
+ </head>
+ <body>
+   <l1>Mere association of product image and travel destination</l1>
+<abstract> 
+  <l2>
+    A B S T R A C T
+  </l2>
+<p id="d1e141">
+   <s id="d1e146"><arg argID="001" type="claim" claimType="literature-summarize/generalize">While some recent studies found that product perceptions could engender an attitude toward the product’s origin-country as a travel destination (destination-attitude),</arg> <arg argID="002" type="claim" claimType="research_gap">a theoretical explanation of the phenomenon remains unclear.</arg></s>
+   <s id="d1e151">
+    <arg argID="003" type="claim" claimType="research_objective">This study provides causal evidence that the phenomenon occurs through mere association effect.</arg></s>
+   <s id="d1e156">
+    <arg argID="004" type="support" supportType="method">Four experiments showed that</arg> <arg argID="004" type="claim" claimType="result">destination-attitude formation occurred via an implicit (i.e., unconscious) process, and the attitude mediated the influence of product image on visit intention.</arg>
+   </s>
+ <s id="d1e161"><arg argID="005" type="claim" claimType="result">Causal evidence was provided by visual and cognitive load manipulations.</arg></s>
+ <s id="d1e166"><arg argID="006" type="claim" claimType="result">Finally, product-country incongruence was found to be a boundary condition.</arg></s>
+ <s id="d1e171"><arg argID="007" type="claim" claimType="result">Hence, exporters, tourism policy makers and businesses should collaborate for mutual gains to enhance the competitiveness of the country’s exports and tourism market.</arg></s>
+  </p>
+</abstract> 
+<intro>
+  <l1>
+   Introduction
+  </l1>
+  <p id="d1e176">
+   <s id="d1e178"><arg argID="001" type="claim" claimType="general_statement">If you like Sony TV, are you more likely to visit Japan?</arg></s>
+   <s id="d1e180"><arg argID="002" type="claim" claimType="general_statement">Would a BMW enthusiast want to tour Germany?</arg> </s>
+    <s id="d1e182"><arg argID="003" type="claim" claimType="literature-summarize/generalize">Evidence from a nascent research stream appears to support the plausibility that a product may evaluatively cue perceptions of the product’s origin-country as a travel destination (Elliot &amp; Papadopoulos, 2016; Lee &amp; Lockshin, 2012; Magnusson et al., 2014).</arg></s>
+   <s id="d1e186"><arg argID="003" type="support" supportType="cited_authors_claim/opinion">In particular, an earlier earlyier study by Lee and Lockshin (2012; also see Motsi and Park, 2020) conjectured that a reverse country-of-origin effect might have occurred.</arg></s>
+   <s id="d1e191"><arg argID="005" type="claim" claimType="general_statement">While the traditional halo effect of country-of-origin flows from country to product, a reverse country-of-origin halo would use specific object evaluations (Japanese TVs possess good quality) to engender an image about the country.</arg></s>
+   <s id="d1e196"><arg argID="005" type="support" supportType="explanation/elaboration" comments_Ivanka="Or Cited authors claim/opinion">Lee and Lockshin (2012) further contended that the evaluation (e.g., Japanese TVs possess good quality) would generalise to an image about the country as a travel destination (therefore Japan must be an attractive place to tour), rather than as the product’s origin (therefore Japan is a high-tech country).</arg></s>
+  </p>
+  <p id="d1e201">
+   <s id="d1e206"><arg argID="100" type="claim" claimType="research_gap">However, these studies have speculated, but not demonstrated, how the phenomenon arises.</arg></s>
+   <s id="d1e211"><arg argID="102" type="claim" claimType="concept/theory/model-evaluate/critique">Also, as we shall elaborate later, halo effect theory alone cannot adequately explain affect transfer (i.e., transfer of attitudinal valence) from a product to the product’s origin country as a travel destination.</arg></s>
+   <s id="d1e216"><arg argID="104" type="support" supportType="method">Via four experiments, </arg><arg argID="104" type="claim" claimType="research_objective">the purpose of this study is to empirically demonstrate the psychological mechanism regarding how product image influences the attitude toward the origin country as a travel destination (hereafter, simply destination-attitude), and in turn, the intention to visit the country.</arg></s>
+   <s id="d1e221">
+    <arg argID="105" type="claim" claimType="research_objective">Specifically, we argue that the theory of mere association effect (Dimofte &amp; Yalch, 2011; Hussinger &amp; Pellens, 2019; Walther, 2002) can account for this phenomenon.</arg></s>
+   <s id="d1e226"><arg argID="106" type="claim" claimType="concept/theory/model-define">Unlike halo effect theory, which concerns how the global evaluation of an object guides the evaluation of another object’s specific attributes,</arg> <arg argID="107" type="claim" claimType="concept/theory/model-compare/relate">mere association theory states that affect transfer occurs between two seemingly unrelated, or merely associated, objects because they share a common (i.e., mediating) third concept.</arg></s>
+  </p>
+  <p id="d1e231">
+   <s id="d1e236"><arg argID="200" type="claim" claimType="research_gap">Furthermore, while tourism advertising may enhance destination image perceptions and subsequently attract visitations, researchers have lamented that uncertainty remains regarding the underpinning process of the influence (Bojanic, 1991; Kim &amp; Chen, 2010).</arg></s>
+   <s id="d1e316"><arg argID="200" type="support" supportType="cited_authors_claim/opinion">Similarly, Kock et al.(2016) suggest the need for psychological theory-based research to advance understanding of destination image and intention to visit.</arg></s>
+   <s id="d1e326"><arg argID="201" type="claim" claimType="concept/theory/model-apply">Through visual imagery and cognitive load manipulations,</arg> <arg argID="202" type="claim" claimType="research_objective">we offer causal evidence that destination image is formed via an implicit (i.e., unconscious) process,</arg> <arg argID="203" type="claim" claimType="literature-compare/relate">whereas extant research into destination image formation has mainly focused on explicit (i.e., conscious) processing (Um &amp; Crompton, 1990; Wassler et al., 2019).</arg></s>
+   <s id="d1e331"><arg argID="204" type="claim" claimType="research_objective">Finally, we test the boundary condition whether the mere association effect of implicit destination-attitude effect occurs only when the product is perceived as congruent with its origin country.</arg></s>
+  </p>
+  <p id="d1e336">
+   <s id="d1e341"><arg argID="300" type="claim" claimType="contribution/recommendation">Besides these theoretical contributions, this study’s findings have important practical implications.</arg></s>
+   <s id="d1e346"><arg argID="302" type="claim" claimType="research_issue">As expansive trade globalisation makes many foreign products readily available in a country, it is likely that consumers have experience with products, but may know little about their origin country as a travel destination.</arg></s>
+   <s id="d1e351">
+    <arg argID="304" type="claim" claimType="general_statement">Understanding how product image influences destination-attitude will guide tourism businesses, tourism promotion bodies and policy makers to work together with exporters for mutual gains.</arg></s>
+   <s id="d1e356"><arg argID="306" type="claim" claimType="contribution/recommendation">The findings will help these organisations develop effective marketing communication strategies to enhance their competitiveness for exports and to promote the country as a travel destination.</arg></s>
+  </p>
+</intro>
+  
+  <l1>
+   Conceptual development
+  </l1>
+  <p id="d1e361">
+   <s id="d1e366">
+    Influence of product image on destination-attitude
+   </s>
+  </p>
+  <p id="d1e371">
+   <s id="d1e376">
+    Traditionally, overt advertisements about a travel destination are used to shape destination image perceptions and entice visita- tions (Bojanic, 1991; Jiang et al., 2020; Wang &amp; Lehto, 2019).
+   </s>
+   <s id="d1e381">
+    Byun and Jang (2015) stress that due to fierce competition, tourism marketers must design effective advertisements to boost destination image, because it is well-established that favourable destination images positively affect visit intentions (Afshardoost &amp; Eshaghi, 2020; Kock et al., 2016; Um et al., 2006).
+   </s>
+  </p>
+  <p id="d1e386">
+   <s id="d1e391">
+    However, research has shown that destination image perceptions can also stem from vicarious sources of information, including movies (Govers et al., 2007), political situation (Nadeau et al., 2008) and art (Cohen-Hattab &amp; Kerber, 2004).
+   </s>
+   <s id="d1e396">
+    Furthermore, this phenomenon may occur unconsciously and consumers are often unaware that covert stimuli are biasing their perceptions (Fitzsimons et al., 2002; Lee et al., 2016).
+   </s>
+   <s id="d1e401">
+    Govers et al.
+   </s>
+   <s id="d1e406">
+    (2007) even suggest that such covert sources may be more effective than overt advertising in shaping destination image.
+   </s>
+  </p>
+  <p id="d1e411">
+   <s id="d1e416">
+    Recently, some studies have hinted that the perceived image of a product may be another vicarious information source (Elliot &amp; Papadopoulos, 2016; Lee &amp; Lockshin, 2012; Magnusson et al., 2014).
+   </s>
+   <s id="d1e421">
+    While country-of-origin’s halo effects are well-established in marketing literature (e.g., Semaan et al., 2019), Lee and Lockshin (2012) surmise that a reverse country-of-origin effect underpins how consumers would use product image as a halo to evaluate the product’s origin-country as a travel destination.
+   </s>
+  </p>
+  <p id="d1e426">
+   <s id="d1e431">
+    Mere association effect
+   </s>
+  </p>
+  <p id="d1e436">
+   <s id="d1e441">
+    A plausible theorisation of this reverse halo is that memory nodes representing the two concepts of product and origin-country may be interconnected bi-directionally; hence activation can flow in either direction (Lee et al., 2016; Raufeisen et al., 2019).
+   </s>
+   <s id="d1e446">
+    However, the activation and bi-directionality of directly connected nodes is predicated on the nodes being conceptually congruent, thereby enhancing processing fluency (Anderson, 1983; Usunier &amp; Cestre, 2007).
+   </s>
+   <s id="d1e451">
+    While the generalisation from product evaluation (Japanese TVs possess good quality) to the origin-country (therefore Japan is a high-tech country) is congruent, generalising to the country as a travel destination (therefore Japan must be an attractive place to visit) is not.
+   </s>
+   <s id="d1e456">
+    Thus, we contend that the phenomenon cannot be adequately explained by the reverse halo effect theory.
+   </s>
+   <s id="d1e461">
+    Instead, we assert that the phenomenon occurs by mere association (Dimofte &amp; Yalch, 2011; Hussinger &amp; Pellens, 2019; Walther, 2002).
+   </s>
+  </p>
+  <p id="d1e466">
+   <s id="d1e471">
+    Mere association effect theory rests on the evaluative conditioning paradigm of classical conditioning, the associative transfer of valence to a stimulus that results from merely associating that stimulus with other positive or negative stimulus (see De Houwer et al.
+   </s>
+   <s id="d1e476">
+    (2001) for a review of evaluative conditioning; Ruszpel &amp; Gast, 2020).
+   </s>
+   <s id="d1e481">
+    Early research had already shown that attitudes could be formed by simply pairing unrelated stimuli (e.g., Staats &amp; Staats, 1958).
+   </s>
+  </p>
+  <p id="d1e486">
+   <s id="d1e491">
+    Fig.
+   </s>
+   <s id="d1e496">
+    1.
+   </s>
+   <s id="d1e501">
+    Mere association effect.
+   </s>
+  </p>
+  <p id="d1e506">
+   <s id="d1e511">
+    object with a valenced object, such that the former object acquires the latter’s valence.
+   </s>
+   <s id="d1e516">
+    This rationale has led to Mexican authorities strongly contesting to change the name of the 2009 “Mexican flu” because associating the flu with Mexico could damage the country’s reputation for tourism and trade (Vigsø, 2010).
+   </s>
+   <s id="d1e521">
+    Likewise, China objected to “Wuhan flu” in the recent Covid-19 pandemic because the name could stigmatise the country and deter foreign visitors (Tan, 2020).
+   </s>
+   <s id="d1e526">
+    In both of these cases, the country name (“Mexico” or “China”, in these instances) is the shared conceptual node between the disease and the country’s reputation.
+   </s>
+   <s id="d1e531">
+    Indeed, several studies have demonstrated that such evaluative conditioning could even occur under complete absence of awareness of the contingency between stimuli (Baeyens et al., 1993; Hammerl, 2000), or due to people’s inability to ignore unintended automatic associations (Dimofte &amp; Yalch, 2011).
+   </s>
+   <s id="d1e536">
+    Fig.
+   </s>
+   <s id="d1e541">
+    1 illustrates this process.
+   </s>
+  </p>
+  <p id="d1e546">
+   <s id="d1e551">
+    We contend that mere association effect, through evaluative conditioning, can explain how product image influences destination- attitude.
+   </s>
+   <s id="d1e556">
+    First, as consumers evaluate a product (in a product ad), they form a valenced image of the product.
+   </s>
+   <s id="d1e561">
+    Next, an affect transfer occurs from the product image to the image of the product’s origin country; this is equivalent to the reverse country-of-origin effect purported by Lee and Lockshin (2012).
+   </s>
+   <s id="d1e566">
+    Finally, this origin-country image serves as the mediating node to evaluatively condition destination-attitude.
+   </s>
+   <s id="d1e571">
+    In this sequence (see Fig.
+   </s>
+  </p>
+  <p id="d1e576">
+   <s id="d1e581">
+    Implicit processing of mere association effect
+   </s>
+  </p>
+  <p id="d1e586">
+   <s id="d1e591">
+    Dual process theories of cognitive functioning (Gawronski &amp; Bodenhausen, 2006; Konopka et al., 2019) generally hold that two separate systems, implicit and explicit, drive different consumer attitudes.
+   </s>
+   <s id="d1e596">
+    Evaluative conditioning is often regarded as an automatic process that occurs implicitly without conscious awareness of the pairings between stimuli (Ohme &amp; Boshoff, 2019; Walther, 2002; Walther et al., 2011).
+   </s>
+   <s id="d1e601">
+    For example, Gibson (2008) showed experimentally that participants with neutral brand attitudes had few or no connections regarding the brand memory, and hence evaluative conditioning built the memory association and shifted the implicit attitudes for the originally neutral brands.
+   </s>
+   <s id="d1e606">
+    Similarly, evidence from advertising research supports that consumers may respond un- consciously to stimuli even if they are conscious of the stimuli’s presence, as demonstrated by studies in supraliminal primes (Fukawa &amp; Niedrich, 2015; Ohme &amp; Boshoff, 2019).
+   </s>
+   <s id="d1e611">
+    Kim and Chen (2010) also suggest that consumers can hold implicit attitudes toward a destination when they have little direct experience about the destination to form an explicit attitude.
+   </s>
+   <s id="d1e616">
+    Although mere associations would engender a strong implicit attitude, they may also engender explicit attitudes (Dimofte &amp; Yalch, 2011).
+   </s>
+  </p>
+  <p id="d1e621">
+   <s id="d1e626">
+    H1a.
+   </s>
+   <s id="d1e631">
+    The effect of product image is stronger on implicit destination-attitude than on explicit destination-attitude.
+   </s>
+  </p>
+  <p id="d1e636">
+   <s id="d1e641">
+    Tourism literature suggests that both implicit and explicit destination-attitude may influence visit intentions (Kim &amp; Chen, 2010).
+   </s>
+  </p>
+  <p id="d1e646">
+   <s id="d1e651">
+    H1b.
+   </s>
+   <s id="d1e656">
+    Implicit destination-attitude has a greater mediating effect than explicit destination-attitude on the relationship between product image and visit intention.
+   </s>
+  </p>
+  <p id="d1e661">
+   <s id="d1e666">
+    Mere association is malleable and can be disrupted
+   </s>
+  </p>
+  <p id="d1e671">
+   <s id="d1e676">
+    Some early studies into cognitive learning advocated that implicit attitudes are highly stable mental representations (Greenwald &amp; Banaji, 1995).
+   </s>
+   <s id="d1e681">
+    A supporting notion is that, unlike explicit attitudes that develop from exposure to recent information, implicit attitudes are due to early socialisation that forms robust mental association (Gawronski &amp; Bodenhausen, 2006).
+   </s>
+   <s id="d1e686">
+    However, more recent studies have demonstrated that both explicit and implicit attitudes are vulnerable to change, especially when exposed to contextual influences (Mann &amp; Ferguson, 2015; Trendel et al., 2018).
+   </s>
+   <s id="d1e691">
+    For example, Trendel et al.
+   </s>
+   <s id="d1e696">
+    (2018) showed that exposing participants to counter- attitudinal (visual) information could reverse formed implicit attitudes toward a fictitious brand for which the participants would have no previously stored associations.
+   </s>
+  </p>
+  <p id="d1e701">
+   <s id="d1e706">
+    The above findings are consistent with key tenets of mere association effect, which posit that merely-associated implicit attitudes generated through evaluative conditioning are sensitive to counterconditioning procedures (Baeyens et al., 1989; De Houwer et al., 2001).
+   </s>
+   <s id="d1e711">
+    They are also consistent with the constructionist view of attitudes, which holds that implicit attitudes are contextually formed evaluations based on momentarily constructed associations (Gawronski &amp; Bodenhausen, 2006; Hughes et al., 2011).
+   </s>
+   <s id="d1e716">
+    Drawing on these studies, we expected that new counter-attitudinal information can weaken the implicit destination-attitude.
+   </s>
+  </p>
+  <p id="d1e721">
+   <s id="d1e726">
+    H2a.
+   </s>
+   <s id="d1e731">
+    Visual counter-attitudinal information will weaken the implicit destination-attitude, so that it no longer mediates the rela- tionship between product image and visit intention.
+   </s>
+  </p>
+  <p id="d1e736">
+   <s id="d1e741">
+    Also, research shows that subjecting people to a visual load task would prevent them from engaging in visualising other objects because they compare for the same processing resources (Ko¨rner &amp; Volk, 2014).
+   </s>
+   <s id="d1e746">
+    Similar to Trendel et al.
+   </s>
+   <s id="d1e751">
+    (2018, Experiment 3), we expect that a visual load manipulation would block the processing of the counterattitudinal information and consequently prevent implicit attitude reversal.
+   </s>
+   <s id="d1e756">
+    Together, these manipulations would provide conclusive evidence that it is implicit destination-attitude, rather than explicit destination-attitude, that has the stronger mediating effect between product image and country image.
+   </s>
+  </p>
+  <p id="d1e761">
+   <s id="d1e766">
+    H2b.
+   </s>
+   <s id="d1e771">
+    A visual load manipulation will block the weakening effect visual counter-attitudinal information.
+   </s>
+  </p>
+  <p id="d1e776">
+   <s id="d1e781">
+    Likewise, a cognitive load manipulation can hinder cognitive processing because the load would reduce processing resources for other cognitive tasks (Mierop et al., 2020).
+   </s>
+   <s id="d1e786">
+    A cognitive load task that blocks the formation of product image will subsequently prevent the formation of the implicit destination-attitude because an affect transfer (Step 1 in Fig.
+   </s>
+   <s id="d1e791">
+    1) could not take place.
+   </s>
+   <s id="d1e796">
+    Consequently, implicit destination-attitude would be weak if there is little or no affect transfer from product image to the shared country-node.
+   </s>
+  </p>
+  <p id="d1e801">
+   <s id="d1e806">
+    H3.
+   </s>
+   <s id="d1e811">
+    A cognitive load manipulation will prevent the formation of implicit destination-attitude, so that implicit destination-attitude does not mediate the relationship between product image and visit intention.
+   </s>
+  </p>
+  <p id="d1e816">
+   <s id="d1e821">
+    Furthermore, the affect transfer process (Step 1 in Fig.
+   </s>
+   <s id="d1e826">
+    1) is predicated on the product and country nodes being conceptually congruent in order to enhance processing fluency (Anderson, 1983; Usunier &amp; Cestre, 2007).
+   </s>
+   <s id="d1e831">
+    Raufeisen et al.
+   </s>
+   <s id="d1e836">
+    (2019) suggest that a necessary condition for image transfer between two independent objects is that they are cognitively associated by sharing common semantic, lexical or even phonetic attributes, such that the closer the association, the stronger the transfer effect.
+   </s>
+   <s id="d1e841">
+    Traditional country- of-origin studies also hold that congruence between a product and origin country would favourably bias consumer product evaluation, and vice versa (Usunier &amp; Cestre, 2007).
+   </s>
+   <s id="d1e846">
+    If a product is deemed as not congruent with a country, then the affect transfer in Step 1 (in Fig.
+   </s>
+   <s id="d1e851">
+    1) would be weak or non-existent, and subsequently prevent Step 2 from occurring.
+   </s>
+  </p>
+  <p id="d1e856">
+   <s id="d1e861">
+    H4.
+   </s>
+   <s id="d1e866">
+    Implicit destination-attitude mediates the relationship between product image and visit intention only when the product is congruent with the country.
+   </s>
+  </p>
+  <p id="d1e871">
+   <s id="d1e876">
+    Fig.
+   </s>
+   <s id="d1e881">
+    2 illustrates this study’s conceptual model.
+   </s>
+  </p>
+  <l1>
+   Method
+  </l1>
+  <p id="d1e886">
+   <s id="d1e891">
+    To test the hypotheses, we conducted four experiments.
+   </s>
+   <s id="d1e896">
+    Experiment 1 used a within participants repeated measures design to show that product image engendered a stronger implicit than explicit destination-attitude, and only implicit destination-attitude mediated the influence of product image on visit intention.
+   </s>
+   <s id="d1e901">
+    Subsequently, when the same participants were shown counter-attitudinal infor- mation, this weakened their implicit destination-attitudes.
+   </s>
+   <s id="d1e906">
+    Experiment 2 also used a within participants design to offer further causal evidence by showing that the implicit destination-attitude was not weakened when a visual load blocked processing of visual counter- attitudinal information.
+   </s>
+   <s id="d1e911">
+    Experiment 3 used a single-group design to reveal that blocking the cognitive evaluation of product image, by subjecting the participants to a cognitive load, also led to the implicit destination-attitude being blocked.
+   </s>
+   <s id="d1e916">
+    Finally, Experiment 4 used a single-group design to show that the formation and mediating effect of the implicit destination-attitude would occur only when product country congruence existed.
+   </s>
+   <s id="d1e921">
+    Table 1 summarises the design and demographics of these experiments.
+   </s>
+  </p>
+  <p id="d1e926">
+   <s id="d1e931">
+    All the pretests and experiments used different students from the same cohort of undergraduate Business students in a Pakistani university, who volunteered their participation in exchange for course credits.
+   </s>
+   <s id="d1e936">
+    Experimental consumer behaviour studies that use students as participants are common because students represent a relatively homogenous cohort compared to the general population; this enhances the internal validity that causal relationships being tested are less influenced by factors that would otherwise be present across a wider population (Stayman &amp; Deshpand´e, 1989).
+   </s>
+   <s id="d1e941">
+    The students were randomly allocated to one of the four experiments at the time that they signed up for the research.
+   </s>
+   <s id="d1e946">
+    The students were told that the purpose of the experiments was to understand consumers’ perceptions of advertised products available in Pakistan.
+   </s>
+   <s id="d1e951">
+    Debriefing took place at the end of experiments.
+   </s>
+   <s id="d1e956">
+    Prior to executing the four experiments, we carried out three pretests to identify suitable experiment stimuli.
+   </s>
+  </p>
+  <p id="d1e961">
+   <s id="d1e966">
+    <span class="anchor" id="_bookmark4">
+    </span>
+    Fig.
+   </s>
+   <s id="d1e971">
+    2.
+   </s>
+   <s id="d1e976">
+    Conceptual model of this study.
+   </s>
+  </p>
+  <p id="d1e981">
+   <s id="d1e986">
+    <span class="anchor" id="_bookmark5">
+    </span>
+    Table 1
+   </s>
+  </p>
+  <p id="d1e991">
+   <s id="d1e996">
+    Design of experiments.
+   </s>
+  </p>
+  <p id="d1e1001">
+   <s id="d1e1006">
+    Note: Implicit DA means Implicit destination-attitude; Explicit DA means Explicit destination-attitude.
+   </s>
+  </p>
+  <p id="d1e1011">
+   <s id="d1e1016">
+    Pretest 1
+   </s>
+  </p>
+  <p id="d1e1021">
+   <s id="d1e1026">
+    The purpose of Pretest 1 was to identify a suitable country and products for the main experiments.
+   </s>
+   <s id="d1e1031">
+    The country had to be one that the participants had little knowledge about and not have visited in order to response bias.
+   </s>
+   <s id="d1e1036">
+    The product had to be one the participants would use and was gender neutral.
+   </s>
+   <s id="d1e1041">
+    The authors, in consultation with an academic in the Pakistani university, speculated that tea and Kenya would be suitable choices; tea is commonly drunk among Pakistanis and readily available in Pakistani shops and supermarkets, and students are unlikely to have visited or be knowledgeable about Kenya.
+   </s>
+   <s id="d1e1046">
+    A list of possible congruent products (major Kenyan exports: nuts, coffee, gemstones, tea) and incongruent products (leather goods, watches, electrical appliances, telephones) was first developed.
+   </s>
+  </p>
+  <p id="d1e1051">
+   <s id="d1e1056">
+    Forty-nine students (Mage = 21.32 years, SD = 1.62, 61% male) responded to an online survey, where they checked the product most associated and the product least associated with Kenya.
+   </s>
+   <s id="d1e1061">
+    Then they rated their familiarity with Kenya (1 = very unfamiliar to 7 = very familiar) and knowledge about Kenya (1 = not knowledgeable at all to 7 = very knowledgeable).
+   </s>
+   <s id="d1e1066">
+    The results confirmed that most participants (32 out of 49 [65%]) associated tea with Kenya, although participants were unfamiliar with Kenya (M = 2.06; SD = 1.31) and had little knowledge of that country (M = 1.92; SD = 1.10).
+   </s>
+   <s id="d1e1071">
+    Also, electrical appliances were found to be the least congruent product (22 out of 49 [45%]); this product was later used for Experiment 4.
+   </s>
+  </p>
+  <p id="d1e1076">
+   <s id="d1e1081">
+    Pretest 2
+   </s>
+  </p>
+  <p id="d1e1086">
+   <s id="d1e1091">
+    This pretest aimed to select suitable product adverts.
+   </s>
+   <s id="d1e1096">
+    First, three static print adverts were developed for a fictitious tea brand (Ladha) and three for a fictitious electric kettle brand (Dasara).
+   </s>
+   <s id="d1e1101">
+    In an online survey, 62 participants (Mage = 20.29, SD = 1.46, 72% male) were randomly assigned to one of three groups.
+   </s>
+   <s id="d1e1106">
+    Each group saw one tea and one kettle advert (randomly selected and coun- terbalanced).
+   </s>
+   <s id="d1e1111">
+    They rated each advert advert on four single-item measures (all 7-points except the 5-point advert liking scale): liking, attitude (Bergkvist &amp; Rossiter, 2007), professionalism and realism (Yang &amp; Oliver, 2004).
+   </s>
+  </p>
+  <p id="d1e1116">
+   <s id="d1e1121">
+    The first tea advert scored the highest mean values for three of the four items, and it had the highest aggregate mean-score for the four items (3.92).
+   </s>
+   <s id="d1e1126">
+    This was selected for the first three experiments.
+   </s>
+   <s id="d1e1131">
+    Similarly, the second kettle advert was selected for the fourth study, as it scored the highest mean values for three of the four items, and had the highest aggregate mean-score (4.76).
+   </s>
+   <s id="d1e1136">
+    Appendix 1 shows the adverts for tea and kettles selected for this study.
+   </s>
+  </p>
+  <p id="d1e1141">
+   <s id="d1e1146">
+    Pretest 3
+   </s>
+  </p>
+  <p id="d1e1151">
+   <s id="d1e1156">
+    Finally, Pretest 3 identified a suitable image to serve as visual counter-attitudinal information about the country.
+   </s>
+   <s id="d1e1161">
+    Five copyright free photographs of real scenes in Kenya were first selected through Internet search.
+   </s>
+   <s id="d1e1166">
+    Three showed negative images of the country, such as traffic jams and urban rubbish, while two showed typical tour scenes of wildlife and mountains (see Appendix 2 for examples of adverts).
+   </s>
+  </p>
+  <p id="d1e1171">
+   <s id="d1e1176">
+    5.81 (1 = unattractive to 7 = attractive), whereas the means for the three negative images were 1.75, 1.68 and 2.64.
+   </s>
+   <s id="d1e1181">
+    We picked the picture with the lowest mean score to represent the negative image of Kenya.
+   </s>
+  </p>
+  <l1>
+   Experiment 1
+  </l1>
+  <p id="d1e1186">
+   <s id="d1e1191">
+    Procedure
+   </s>
+  </p>
+  <p id="d1e1196">
+   <s id="d1e1201">
+    The participants (N = 86) performed the experiment in a university computer lab, in two steps.
+   </s>
+   <s id="d1e1206">
+    The first step exposed participants to an advert for a fictitious Kenyan tea brand (Ladha) with the text: “Now, take a look at this advertisement about a brand of tea.
+   </s>
+   <s id="d1e1211">
+    Then answer the following questions.” They then rated it forliking and product image.
+   </s>
+   <s id="d1e1216">
+    Next, under the heading: “Now, consider Kenya as a tourist destination, and answer the following questions,” participants answered a series of questions about Kenya: explicit destination- attitude, visit intention, and familiarity and knowledge regarding Kenya.
+   </s>
+   <s id="d1e1221">
+    Appendix 3 contains the questionnaire items for all experiments.
+   </s>
+  </p>
+  <p id="d1e1226">
+   <s id="d1e1231">
+    Finally, following the procedure developed by Karpinski and Steinman (2006), step1 measured participants’ implicit destination- attitude by completing a single category implicit association test (SC-IAT).
+   </s>
+   <s id="d1e1236">
+    The single category was “Kenya” with two attributes (good/ bad).
+   </s>
+   <s id="d1e1241">
+    Twenty-one positive words (e.g., beautiful, fascinating), 21 negative words (e.g., dreadful, unattractive) and eight pictures of Kenya (e.g., wildlife safari park, congested streets; see Appendix 2) served as stimuli.
+   </s>
+   <s id="d1e1246">
+    In order to prevent response bias, the three types of stimuli were presented in a 7:7:10 ratio, with a pause of 250 ms between stimuli.
+   </s>
+   <s id="d1e1251">
+    Following the improved scoring algorithm described in Greenwald et al.
+   </s>
+   <s id="d1e1256">
+    (2003), error trials were handled by requiring participants to correct their responses, and recorded with a response of mean latency plus a penalty of 400 ms.
+   </s>
+   <s id="d1e1261">
+    No trials had latencies greater than 10,000 ms and no participants had more than 10% of trials with latency less than 300 ms.
+   </s>
+   <s id="d1e1266">
+    D-scores were based only on the trials from the two test blocks.
+   </s>
+   <s id="d1e1271">
+    The range of d-scores are —2 to 2, where a negative (positive) value indicates a negative (positive) implicit attitude toward the target category.
+   </s>
+  </p>
+  <p id="d1e1276">
+   <s id="d1e1281">
+    In step2, participants were shown a negative image of Kenya, before reporting their explicit attitude, implicit attitude and visit intention again.
+   </s>
+  </p>
+  <p id="d1e1286">
+   <s id="d1e1291">
+    previously visited Kenya or were familiar with Kenya (score &gt; 3.5, mid-point of scale for familiarity with the country).
+   </s>
+  </p>
+  <p id="d1e1296">
+   <s id="d1e1301">
+    these 20 cases, the final sample size was 66.1
+   </s>
+  </p>
+  <p id="d1e1306">
+   <s id="d1e1311">
+    Table 2 contains the descriptive statistics and the correlations between the key variables in this study.
+   </s>
+   <s id="d1e1316">
+    Confirmatory factor analyses supported convergent and discriminant validity (χ2(27, N = 66) = 78.1, p &lt; .001; CFI = 0.97; TLI = 0.96; RMSEA = 0.08) (Hair et al., 2010).
+   </s>
+   <s id="d1e1321">
+    The reliability for all factors (Cronbach’s α &gt; 0.8) were adequate (Peter, 1979).
+   </s>
+  </p>
+  <p id="d1e1326">
+   <s id="d1e1331">
+    0.28) (Fornell &amp; Larcker, 1981).
+   </s>
+  </p>
+  <p id="d1e1336">
+   <s id="d1e1341">
+    Next, we tested for potential common method bias following Podsakoff et al.
+   </s>
+   <s id="d1e1346">
+    (2003), where every variable in the measurement model was loaded onto a common latent factor (CLF), in addition to loading onto its respective factor.
+   </s>
+  </p>
+  <p id="d1e1351">
+   <s id="d1e1356">
+    = 66) = 83.97, p &lt; .001) did not result in a significantly better fit (Δχ2 = 5.87, Δdf = 2; p = .053), thus suggesting that there was no evidence of common method bias.
+   </s>
+  </p>
+  <p id="d1e1361">
+   <s id="d1e1366">
+    Manipulation checks and controls
+   </s>
+  </p>
+  <p id="d1e1371">
+   <s id="d1e1376">
+    The first manipulation check confirmed that the test country was unfamiliar to the participants (M = 1.71, SD = 0.66; vs.
+   </s>
+   <s id="d1e1381">
+    mid-point [4], t(65) = —28.01, p &lt; .001).
+   </s>
+   <s id="d1e1386">
+    Country familiarity was not correlated with all other variables (all ps &gt; 0.17).
+   </s>
+  </p>
+  <p id="d1e1391">
+   <s id="d1e1396">
+    knowledge about the country to form implicit or explicit destination-attitudes.
+   </s>
+   <s id="d1e1401">
+    The second manipulation check confirmed the nega- tivity of the visual counter-attitudinal picture (M = 2.95, SD = 1.52; vs.
+   </s>
+   <s id="d1e1406">
+    mid-point [4], t(65) = 5.58, p &lt; .001).
+   </s>
+  </p>
+  <p id="d1e1411">
+   <s id="d1e1416">
+    = 1.36) was significantly correlated with product image (r = 0.68, p &lt; .001), so we included it as a control variable in this experiment
+   </s>
+  </p>
+  <p id="d1e1421">
+   <s id="d1e1426">
+    as well as in all the subsequent experiments.
+   </s>
+   <s id="d1e1431">
+    Finally, a power analysis indicated that Experiment 1 (N = 66), as well as the next three experiments (sample sizes ranged from 66 to 72), had at least 98% power of detecting a medium-sized effect (Cohen’s d = 0.5; two- tailed pairwise t-test difference at p &lt; .05), implying that the obtained results were statistically unlikely to be due to random chance (Cohen, 1988).
+   </s>
+  </p>
+  <p id="d1e1436">
+   <s id="d1e1441">
+    Results
+   </s>
+  </p>
+  <p id="d1e1446">
+   <s id="d1e1451">
+    Table 3 shows the results of running Model 4 of the PROCESS macro (Hayes, 2013) with product image as the independent variable, visit intention as the dependent variable, implicit destination-attitude and explicit destination-attitude as the two mediators, and ad liking as a covariate.
+   </s>
+   <s id="d1e1456">
+    As H1a predicted, the regression paths showed that product image generated a stronger implicit destination- attitude than explicit destination-attitude.
+   </s>
+   <s id="d1e1461">
+    Following (Byrne, 2010), comparing a model with unconstrained regression paths, versus another model with these paths constrained to be equal between product image and implicit destination-attitude, and between product image and explicit destination-attitude, found that the two models differed significantly (Δχ2 = 3.89, Δdf = 1; p = .026).
+   </s>
+   <s id="d1e1466">
+    These results supported H1a.
+   </s>
+  </p>
+  <p id="d1e1471">
+   <s id="d1e1476">
+    As H1b hypothesised, the mediating effect of implicit destination-attitude was significant (see Table 3).
+   </s>
+  </p>
+  <p id="d1e1481">
+   <s id="d1e1486">
+    1 Across all four experiments, we re-ran the model after including the omitted cases (except those with missing values).
+   </s>
+   <s id="d1e1491">
+    The results were similar to the ones in Table 3.
+   </s>
+  </p>
+  <p id="d1e1496">
+   <s id="d1e1501">
+    <span class="anchor" id="_bookmark7">
+    </span>
+    Table 2
+   </s>
+  </p>
+  <p id="d1e1506">
+   <s id="d1e1511">
+    Descriptive statistics and correlations of key variables in experiment 1 (N = 66).
+   </s>
+  </p>
+  <p id="d1e1516">
+   <s id="d1e1521">
+    <span class="anchor" id="_bookmark8">
+    </span>
+    Note: AVE = average variance extracted; VIF = variance inflation factor.
+   </s>
+  </p>
+  <p id="d1e1526">
+   <s id="d1e1531">
+    **
+    <span class="anchor" id="_bookmark9">
+    </span>
+    p &lt; .001.
+   </s>
+  </p>
+  <p id="d1e1536">
+   <s id="d1e1541">
+    * p &lt; .05.
+   </s>
+  </p>
+  <p id="d1e1546">
+   <s id="d1e1551">
+    <span class="anchor" id="_bookmark10">
+    </span>
+    Table 3
+   </s>
+  </p>
+  <p id="d1e1556">
+   <s id="d1e1561">
+    Direct and indirect effects of product image on visit intention.
+   </s>
+  </p>
+  <p id="d1e1566">
+   <s id="d1e1571">
+    Note: The table contains the standardised coefficients of the direct and indirect paths (with boot SE in parenthesis); BCBCI = 95% bias-corrected confidence interval (2000 bootstrap); significant results are in bold for the indirect effects; coefficients a and b correspond with the model path in
+    <span class="anchor" id="_bookmark11">
+    </span>
+    Fig.
+   </s>
+   <s id="d1e1576">
+    2; mediation path-coefficients are standardised values.
+   </s>
+  </p>
+  <p id="d1e1581">
+   <s id="d1e1586">
+    **
+    <span class="anchor" id="_bookmark12">
+    </span>
+    p &lt; .001.
+   </s>
+  </p>
+  <p id="d1e1591">
+   <s id="d1e1596">
+    * p &lt; .05.
+   </s>
+  </p>
+  <p id="d1e1601">
+   <s id="d1e1606">
+    (a2 and b2) were also not significant.
+   </s>
+   <s id="d1e1611">
+    Full mediation was indicated by the insignificant direct effect of product image on visit intention, after controlling for the two mediators.
+   </s>
+   <s id="d1e1616">
+    Table 2 shows that co-linearity did not affect these results, as the highest VIF was 2.05.
+   </s>
+  </p>
+  <p id="d1e1621">
+   <s id="d1e1626">
+    In step2 of Experiment 1, implicit and explicit destination-attitude were both measured again after exposing the participants to visual counter-attitudinal information.
+   </s>
+  </p>
+  <p id="d1e1631">
+   <s id="d1e1636">
+    (means reported in Table 2).
+   </s>
+   <s id="d1e1641">
+    Expectedly, explicit destination-attitude was also significantly lower after exposure to the counter- attitudinal image (t(65) = 6.15, p &lt; .001 [paired t-test]); this was consistent with Trendel et al.
+   </s>
+   <s id="d1e1646">
+    (2018), which showed that visual counter-attitudinal information could also weaken explicit attitude.
+   </s>
+  </p>
+  <p id="d1e1651">
+   <s id="d1e1656">
+    Discussion
+   </s>
+  </p>
+  <p id="d1e1661">
+   <s id="d1e1666">
+    Experiment 1’s results supported our theorising that the transfer could be explained by mere association effect.
+   </s>
+   <s id="d1e1671">
+    Causal evidence for this mediation effect was provided by the results in step2, where visual counter-attitudinal information weakened the implicit destination-attitude formed in step1, and it no longer mediated the influence of product image on visit intention.
+   </s>
+  </p>
+  <p id="d1e1676">
+   <s id="d1e1681">
+    Because mediation tests used regression, their evidence is only correlational, rather than causal (Armstrong, 2012).
+   </s>
+   <s id="d1e1686">
+    Also, Trendel et al.
+   </s>
+   <s id="d1e1691">
+    (2018, Experiment 3) showed that a visual load task could hinder people from processing visual counter-attitudinal information.
+   </s>
+   <s id="d1e1696">
+    Accordingly, in the next experiment, we used visual load manipulation to block the processing of the counter-attitudinal information, and consequently prevented implicit destination-attitude from weakening.
+   </s>
+   <s id="d1e1701">
+    This manipulation provided conclusive evidence that the formation of destination-attitude occurred via an implicit process, as theorised by mere association effect.
+   </s>
+  </p>
+  <l1>
+   Experiment 2
+  </l1>
+  <p id="d1e1706">
+   <s id="d1e1711">
+    Procedure
+   </s>
+  </p>
+  <p id="d1e1716">
+   <s id="d1e1721">
+    Experiment 2 used the same two-step procedure as Experiment 1, with one exception.
+   </s>
+   <s id="d1e1726">
+    At the start of step2, participants were asked to hold a visual load (remember a pattern with seven dots) before being shown the visual counterattitudinal image.
+   </s>
+   <s id="d1e1731">
+    Of the 81 par- ticipants, 12 did not complete the entire procedure, and three participants had either previously visited Kenya or were familiar with Kenya (score &gt; 3.5).
+   </s>
+   <s id="d1e1736">
+    Deleting these 15 cases left a final sample size of 66.
+   </s>
+  </p>
+  <p id="d1e1741">
+   <s id="d1e1746">
+    Manipulation checks and controls
+   </s>
+  </p>
+  <p id="d1e1751">
+   <s id="d1e1756">
+    A manipulation check confirmed that most participants remembered the visual pattern, and rated the visual load task as difficult (M = 4.71, SD = 1.87, vs.
+   </s>
+   <s id="d1e1761">
+    mid-point [3], t(66) = 5.43, p &lt; .001).
+   </s>
+   <s id="d1e1766">
+    Another check confirmed the negativity of the counter-attitudinal image (M = 3.27, SD = 1.49), which was not significantly different from Experiment 1 (t(130) = —1.21, p = .23).
+   </s>
+  </p>
+  <p id="d1e1771">
+   <s id="d1e1776">
+    iarity was again low (M = 2.07, SD = 0.71, vs.
+   </s>
+   <s id="d1e1781">
+    mid-point [4], t(65) = —22.05, p &lt; .001), and did not correlate with any other variables (all ps &gt; 0.34).
+   </s>
+   <s id="d1e1786">
+    Table 4 contains the descriptive statistics and the correlations of the key variables in this study.
+   </s>
+   <s id="d1e1791">
+    Similar to the previous studies, CFA confirmed the measures’ convergent and discriminant validity and the absence of common-method bias.
+   </s>
+  </p>
+  <p id="d1e1796">
+   <s id="d1e1801">
+    Results
+   </s>
+  </p>
+  <p id="d1e1806">
+   <s id="d1e1811">
+    Comparing step1 and step2 (see Table 4), implicit destination-attitude did not weaken when participants were exposed to the visual counter-attitudinal image while holding a visual load in mind (t(65) = —1.64, p = .105 [paired t-test]).
+   </s>
+   <s id="d1e1816">
+    This result differed from Experiment 1 (cf.
+   </s>
+   <s id="d1e1821">
+    Table 2), where the implicit attitude was weakened after exposure to the visual counter-attitudinal image without the visual load manipulation.
+   </s>
+  </p>
+  <p id="d1e1826">
+   <s id="d1e1831">
+    (130) = —2.26, p = .026).
+   </s>
+   <s id="d1e1836">
+    Thus, H2b was supported.
+   </s>
+  </p>
+  <p id="d1e1841">
+   <s id="d1e1846">
+    Discussion
+   </s>
+  </p>
+  <p id="d1e1851">
+   <s id="d1e1856">
+    Collectively, the findings for Experiment 1 and 2 showed that product image had generated an implicit destination-attitude, as we were able to weaken this attitude using visual counterattitudinal information, as well as blocking its reversal by applying a visual load.
+   </s>
+   <s id="d1e1861">
+    To provide further support for the causality between product image and implicit destination-attitude, Experiment 3 used a cognitive load manipulation to block the evaluation of the product (i.e., Step 1 in Fig.
+   </s>
+   <s id="d1e1866">
+    1), which should directly hinder the affect transfer, and subsequently turn off implicit destination-attitude’s mediating effect between product image and visit intention.
+   </s>
+  </p>
+  <l1>
+   Experiment 3
+  </l1>
+  <p id="d1e1871">
+   <s id="d1e1876">
+    Procedure
+   </s>
+  </p>
+  <p id="d1e1881">
+   <s id="d1e1886">
+    Experiment 3 used the same procedure as step1 of Experiment 1, with one difference.
+   </s>
+   <s id="d1e1891">
+    Participants were asked to hold a cognitive load (remember an 8-digit number) before being shown the ad.
+   </s>
+   <s id="d1e1896">
+    Six of the 83 participants did not complete the entire procedure, while five participants had previously visited or were familiar with Kenya (score &gt; 3.5).
+   </s>
+  </p>
+  <p id="d1e1901">
+   <s id="d1e1906">
+    72.
+   </s>
+  </p>
+  <p id="d1e1911">
+   <s id="d1e1916">
+    Manipulation Checks and Controls
+   </s>
+  </p>
+  <p id="d1e1921">
+   <s id="d1e1926">
+    A manipulation check confirmed that most participants remembered the number and rated the cognitive-load task as difficult (M =
+   </s>
+  </p>
+  <p id="d1e1931">
+   <s id="d1e1936">
+    3.67 on a scale of 1 = easy to 5 = difficult, SD = 1.74, vs.
+   </s>
+   <s id="d1e1941">
+    mid-point [3], t(72) = 5.68, p &lt; .001).
+   </s>
+   <s id="d1e1946">
+    Country familiarity was again low (M = 1.61, SD = 0.606) and not significantly different from Experiment 1 (t(136) = 0.94, p = .35 [independent t-test]).
+   </s>
+   <s id="d1e1951">
+    It also did not correlate with any other variables (all ps &gt; 0.14).
+   </s>
+  </p>
+  <p id="d1e1956">
+   <s id="d1e1961">
+    this study.
+   </s>
+   <s id="d1e1966">
+    Similar tests as Experiment 1 showed that CFA confirmed the measures’ convergent and discriminant validity and the absence of common-method bias.
+   </s>
+  </p>
+  <p id="d1e1971">
+   <s id="d1e1976">
+    <span class="anchor" id="_bookmark13">
+    </span>
+    Table 4
+   </s>
+  </p>
+  <p id="d1e1981">
+   <s id="d1e1986">
+    Descriptive statistics and correlations of key variables in experiment 2 (N = 66).
+   </s>
+  </p>
+  <p id="d1e1991">
+   <s id="d1e1996">
+    <span class="anchor" id="_bookmark14">
+    </span>
+    Note: AVE = average variance extracted; VIF = variance inflation factor.
+   </s>
+  </p>
+  <p id="d1e2001">
+   <s id="d1e2006">
+    **
+    <span class="anchor" id="_bookmark15">
+    </span>
+    p &lt; .001.
+   </s>
+  </p>
+  <p id="d1e2011">
+   <s id="d1e2016">
+    <span class="anchor" id="_bookmark16">
+    </span>
+    Table 5
+   </s>
+  </p>
+  <p id="d1e2021">
+   <s id="d1e2026">
+    Descriptive statistics and correlations of key variables in experiment 3 (N = 72).
+   </s>
+  </p>
+  <p id="d1e2031">
+   <s id="d1e2036">
+    <span class="anchor" id="_bookmark17">
+    </span>
+    Note: AVE = average variance extracted; VIF = variance inflation factor.
+   </s>
+  </p>
+  <p id="d1e2041">
+   <s id="d1e2046">
+    * p &lt; .05.
+   </s>
+  </p>
+  <p id="d1e2051">
+   <s id="d1e2056">
+    Results
+   </s>
+  </p>
+  <p id="d1e2061">
+   <s id="d1e2066">
+    Table 3 (row 3) contains the results of running the same PROCESS Model 4 (Hayes, 2013) used in Experiment 1.
+   </s>
+   <s id="d1e2071">
+    Consistent with H3, implicit destination-attitude no longer mediated between product image and visit intention.
+   </s>
+   <s id="d1e2076">
+    Compared to Experiment 1, product image in Experiment 3 was significantly lower (t(136) = 2.98, p = .003), and so was implicit destination-attitude (t(136) = 2.98, p = .003).
+   </s>
+   <s id="d1e2081">
+    Importantly, implicit destination-attitude was no longer significantly correlated with product image (cf.
+   </s>
+   <s id="d1e2086">
+    Tables 2 and 5).
+   </s>
+   <s id="d1e2091">
+    Collectively, these findings suggested that the cognitive load manipulation hindered the formation of a favourable product image and in turn, a favourable implicit destination-attitude.
+   </s>
+  </p>
+  <p id="d1e2096">
+   <s id="d1e2101">
+    Additionally, although explicit destination-attitude was significantly lowered in Experiment 3 than in Experiment 1 (t(136) =
+   </s>
+  </p>
+  <p id="d1e2106">
+   <s id="d1e2111">
+    —5.30, p &lt; .001), it remained significantly correlated with product image in Experiment 3; this was unlike implicit attitude which had turned insignificant.
+   </s>
+  </p>
+  <p id="d1e2116">
+   <s id="d1e2121">
+    (Table 3).
+   </s>
+   <s id="d1e2126">
+    This further confirmed Experiment 1’s findings (for H1a) that product image had a stronger influence on implicit destination-attitude than on explicit destination-attitude.
+   </s>
+  </p>
+  <p id="d1e2131">
+   <s id="d1e2136">
+    Discussion
+   </s>
+  </p>
+  <p id="d1e2141">
+   <s id="d1e2146">
+    Thus far, the results of the three experiments provide strong support for our premise that the formation of destination-attitude is due to an implicit attitude process.
+   </s>
+   <s id="d1e2151">
+    They also supported our theorisation that mere association effect theory could explain this phe- nomenon.
+   </s>
+   <s id="d1e2156">
+    However, we had only used a product (tea) that was congruent with the origin country.
+   </s>
+   <s id="d1e2161">
+    The next study tested whether the same effects can be found with a product that is deemed incongruent with the country.
+   </s>
+  </p>
+  <l1>
+   Experiment 4
+  </l1>
+  <p id="d1e2166">
+   <s id="d1e2171">
+    Procedure
+   </s>
+  </p>
+  <p id="d1e2176">
+   <s id="d1e2181">
+    Experiment 4 used the same procedure as step1 of Experiment 1, except that the ad was for a fictitious brand of electric kettle (Dasara) manufactured in Kenya.
+   </s>
+   <s id="d1e2186">
+    This product was determined in Pretest 1 to be incongruent with Kenya, according to our sample population.
+   </s>
+   <s id="d1e2191">
+    Thirteen of the 85 participants did not complete the entire procedure, and three participants had previously visited or were familiar with Kenya (score &gt; 3.5).
+   </s>
+   <s id="d1e2196">
+    After deleting these 16 cases, the final sample size was 69.
+   </s>
+  </p>
+  <p id="d1e2201">
+   <s id="d1e2206">
+    Manipulation checks and controls
+   </s>
+  </p>
+  <p id="d1e2211">
+   <s id="d1e2216">
+    Participants rated the electric kettle as significantly incongruent with Kenya (M = 3.49, SD = 1.89 vs.
+   </s>
+   <s id="d1e2221">
+    mid-point [4], t(68) = —2.23, p = .029).
+   </s>
+  </p>
+  <p id="d1e2226">
+   <s id="d1e2231">
+    lower (t(133) = 5.55, p &lt; .001).
+   </s>
+  </p>
+  <p id="d1e2236">
+   <s id="d1e2241">
+    (133) = —1.43, p = .15).
+   </s>
+   <s id="d1e2246">
+    It also did not correlate with any other variables (all ps &gt; 0.16).
+   </s>
+  </p>
+  <p id="d1e2251">
+   <s id="d1e2256">
+    the correlations of the key variables in this study.
+   </s>
+   <s id="d1e2261">
+    Again, a CFA confirmed convergent and discriminant validity.
+   </s>
+   <s id="d1e2266">
+    However, the common latent-factor model resulted in a better fit (Δχ2 = 4.79, Δdf = 1; p = .03), but inspections of the factor loadings found that no loading had turned insignificant.
+   </s>
+   <s id="d1e2271">
+    Consistent with other researchers (Lee et al., 2017; Mazodier &amp; Merunka, 2012), this implied the existence of some common method bias, but it was insufficient to account for the observed relationships among the factors in the model.
+   </s>
+  </p>
+  <p id="d1e2276">
+   <s id="d1e2281">
+    <span class="anchor" id="_bookmark18">
+    </span>
+    Table 6
+   </s>
+  </p>
+  <p id="d1e2286">
+   <s id="d1e2291">
+    Descriptive Statistics and Correlations of Key Variables in Experiment 4 (N = 69).
+   </s>
+  </p>
+  <p id="d1e2296">
+   <s id="d1e2301">
+    <span class="anchor" id="_bookmark19">
+    </span>
+    Note: AVE = average variance extracted; VIF = variance inflation factor.
+   </s>
+  </p>
+  <p id="d1e2306">
+   <s id="d1e2311">
+    Results
+   </s>
+  </p>
+  <p id="d1e2316">
+   <s id="d1e2321">
+    Unlike Experiment 1, Experiment 4’s implicit destination-attitude did not correlate with product image (cf.
+   </s>
+   <s id="d1e2326">
+    Tables 2 and 6).
+   </s>
+   <s id="d1e2331">
+    Table 3 (row 4) shows that when the product was incongruent, product image had no effects on implicit destination-attitude, and the attitude did not mediate the relationship between product image and visit intention.
+   </s>
+   <s id="d1e2336">
+    These results supported H4, which predicted that mediation of implicit destination-attitude was predicated on a condition of congruence between product and country.
+   </s>
+  </p>
+  <l1>
+   Overall discussion
+  </l1>
+  <p id="d1e2341">
+   <s id="d1e2346">
+    Theoretical implications
+   </s>
+  </p>
+  <p id="d1e2351">
+   <s id="d1e2356">
+    A key theoretical contribution of this study is the application of mere association theory to explain how a product can influence perceptions of a travel destination.
+   </s>
+   <s id="d1e2361">
+    Over the four experiments, we obtained convergent evidence that the affect transfer between two seemingly unrelated concepts (product and product’s origin-country as a travel destination) is plausible and explainable by mere association effect.
+   </s>
+   <s id="d1e2366">
+    In doing so, we also demonstrated the psychological underpinning of how product image affects tourism outcomes by implicit attitude in ways unaccounted for by explicit attitude.
+   </s>
+   <s id="d1e2371">
+    In the absence of any other information, consumers would form their image of a product via imagery-based materials (print advertising and photography).
+   </s>
+   <s id="d1e2376">
+    In turn, a favourable product image would simultaneously and separately generate a favourable implicit destination-attitude (i.e., attitude toward the product’s origin country as a travel destination).
+   </s>
+   <s id="d1e2381">
+    The results further supported that the effects of product image on visit intention are mediated by implicit destination-attitude, but not by explicit destination-attitude.
+   </s>
+   <s id="d1e2386">
+    Collectively, these findings are consistent with past studies, which purported that mere association effects are not based on deliberative cognitive processing and the effects may be more pervasive than many realise (Gawronski &amp; Bodenhausen, 2006; Rydell et al., 2006).
+   </s>
+   <s id="d1e2391">
+    Similarly, Kotler and Gertner (2002) suggest that as a heuristic shortcut for decisions, a mental halo has wide reaching influence across broad areas including exports and tourism, although they did not test this assertion.
+   </s>
+  </p>
+  <p id="d1e2396">
+   <s id="d1e2401">
+    This key finding is consistent with prior research showing that implicit attitudes predict the majority of consumer behaviour associated with low motivation and opportunity to process information (Perugini et al., 2010; Trendel et al., 2018).
+   </s>
+   <s id="d1e2406">
+    However, tourism might be considered an exception to such behaviour, as trips are often infrequent and costly purchases that involve considerable planning.
+   </s>
+   <s id="d1e2411">
+    Yet, our findings still allude to the efficacy of implicit attitude in shaping tourism behaviour.
+   </s>
+   <s id="d1e2416">
+    Indeed, the demonstration of turning-on and turning-off of implicit attitude, via visual imagery, offers highly conclusive evidence for an implicit processing of destination-attitude, and very likely on destination visitation as well.
+   </s>
+   <s id="d1e2421">
+    Similarly, the cognitive load manipulation suggests that implicit destination image can be formed from exposure to a vicarious information source (i.e., product).
+   </s>
+  </p>
+  <p id="d1e2426">
+   <s id="d1e2431">
+    We did identify a boundary condition for creating a favourable implicit destination-attitude: the need for product-country con- gruency.
+   </s>
+   <s id="d1e2436">
+    However, this finding is not inconsistent with the theoretical tenets of mere association effects.
+   </s>
+   <s id="d1e2441">
+    The theory purports that the third object that mediates between two seemingly unrelated objects must share common characteristics with the two objects.
+   </s>
+   <s id="d1e2446">
+    Applying the theory to this study, the product-country congruence represents the shared characteristic between the product and the country.
+   </s>
+  </p>
+  <p id="d1e2451">
+   <s id="d1e2456">
+    Managerial implications
+   </s>
+  </p>
+  <p id="d1e2461">
+   <s id="d1e2466">
+    A key managerial implication of our findings is that exporters, tourism policy makers and businesses should realise that not only are the products from different foreign countries competing with each other for domestic customers, the foreign countries are also potentially competing through these products for a share of the outbound tourism market.
+   </s>
+   <s id="d1e2471">
+    Besides mainstream destination advertising and publicity, a country’s export products can be effective marketing communication devices for a travel destination.
+   </s>
+   <s id="d1e2476">
+    This point is particularly pertinent because consumers are likely to be exposed to product ads, or even physically seeing or using the products, frequently.
+   </s>
+   <s id="d1e2481">
+    Repeated mere association would then strengthen the associative transfer of valence from the product to the country (De Houwer et al., 2001; Ruszpel &amp; Gast, 2020).
+   </s>
+  </p>
+  <p id="d1e2486">
+   <s id="d1e2491">
+    Exporters should therefore collaborate with tourism business and policy makers for mutual gain.
+   </s>
+   <s id="d1e2496">
+    For example, emphasising a product’s country-of-origin on its packaging would serve two purposes: one is to infer the product’s quality as in traditional country-of- origin effects, and the second is to favourably bias the perceived image of the country as a travel destination.
+   </s>
+   <s id="d1e2501">
+    Moreover, the country-of- origin information would serve to influence visit intention via an implicit (i.e., unconscious) route, which may be particularly influential in choice decisions (Fitzsimons et al., 2002; Lee et al., 2016; Lee &amp; Lockshin, 2012).
+   </s>
+   <s id="d1e2506">
+    While some products are already capitalising on the traditional country-of-origin effect (e.g., “Made in Japan” tag or slogan), what they fail to realise and capitalise on is the influence of these logos on tourism marketing.
+   </s>
+   <s id="d1e2511">
+    For example, the kangaroo image in “Australian Made” logo has clear links to tourism.
+   </s>
+   <s id="d1e2516">
+    As consumers are constantly exposed to foreign products, and their advertisements, products are a cost effective (or even free) source of marketing communications for tourism promotions.
+   </s>
+   <s id="d1e2521">
+    This is particularly so as packaging (as in the case of wine, or tea as in this study) may be an effective channel of marketing communication (Khan &amp; Lee, 2019).
+   </s>
+   <s id="d1e2526">
+    However, Experiment 4 suggests that it is important to consider country congruence so that the communications are not counter-productive.
+   </s>
+  </p>
+  <p id="d1e2531">
+   <s id="d1e2536">
+    Another way for product exporters to collaborate with tourism organisations is for destination advertisements to feature products.
+   </s>
+   <s id="d1e2541">
+    An example would be wine tourism, which includes all activities influenced by the social, physical and cultural dimensions of the winescape and its components (Cambourne et al., 2000).
+   </s>
+   <s id="d1e2546">
+    Destination adverts featuring wine products can nudge favourable attitudes toward visiting the country where the wine originates.
+   </s>
+  </p>
+  <p id="d1e2551">
+   <s id="d1e2556">
+    tourism destination (Atout France, 2018).
+   </s>
+   <s id="d1e2561">
+    In other countries, wine exporters sit on tourism commission boards, a recognition of the importance of wine for encouraging tourism.
+   </s>
+   <s id="d1e2566">
+    For example, South Australia’s tourism commission board includes a wine maker (South Australian Tourism Commission, 2020), and California’s tourism commission has two wine-industry representatives (California Office of Tourism, 2020).
+   </s>
+  </p>
+  <p id="d1e2571">
+   <s id="d1e2576">
+    The use of products to attract tourists is not restricted to wine.
+   </s>
+   <s id="d1e2581">
+    Our own results show that tea attracts tourists to Kenya.
+   </s>
+   <s id="d1e2586">
+    The effect applies even to non-agricultural products: K-pop, an entertainment product, is the main export attracting tourism to South Korea, attracting government support for a new K-pop arena opening in 2024 (CNN, 2019).
+   </s>
+   <s id="d1e2591">
+    In summary, if a country’s exports attract tourists, collaboration between exporters and governments can be mutually beneficial for the export and tourism industries.
+   </s>
+  </p>
+  <p id="d1e2596">
+   <s id="d1e2601">
+    Our finding that the influence operates below conscious awareness does not detract from the use of products and product advertising for the purpose of shaping travel destination image.
+   </s>
+   <s id="d1e2606">
+    As Ohme and Boshoff (2019), among others (Pozharliev et al., 2017), suggest, advertising can be effective at a low level of consciousness because people can still learn implicitly even at this low level.
+   </s>
+   <s id="d1e2611">
+    Similarly, mere association effects are underpinned by implicit attitude especially when conditions hinder people’s memory for the exposures (Greenwald &amp; Banaji, 1995).
+   </s>
+   <s id="d1e2616">
+    This means that even mere exposures to products on supermarket shelves may also induce the formation of implicit attitude toward the product’s origin country as a tour destination.
+   </s>
+   <s id="d1e2621">
+    Also, an interesting characteristic of evaluative conditioning is that the strength of acquired affect between paired stimuli diminishes little over time (Aust et al., 2019; De Houwer et al., 2001).
+   </s>
+   <s id="d1e2626">
+    While this implies that limited exposures to product advertising could have long lasting effects on destination-attitudes stored in memory, repeated product exposures would nudge the automatic recall and activation of destination-attitude from memory (Hughes et al., 2011).
+   </s>
+  </p>
+  <p id="d1e2631">
+   <s id="d1e2636">
+    Future directions
+   </s>
+  </p>
+  <p id="d1e2641">
+   <s id="d1e2646">
+    Several areas are ripe for extending this study’s findings.
+   </s>
+   <s id="d1e2651">
+    Firstly, future research should test consequential choices (i.e., actual tour behaviour) rather than mere visit intentions, as well as replicate this study using samples with a wider demographic range, in different countries, and with different types of products (e.g., entertainment) and marketing communications (e.g., social media and pack- aging).
+   </s>
+   <s id="d1e2656">
+    We deliberately chose a favourable product from an unfamiliar country (tea from Kenya, for potential travellers from Pakistan), so that in the absence of any other cues on which to base their visit intention, our participants would draw on their favourable product image to generate a favourable implicit destination-attitude.
+   </s>
+   <s id="d1e2661">
+    A question for future work, then, is whether the processes documented here would differ for consumers with considerable knowledge or first-hand familiarity with the country (e.g., India or the U.S.
+   </s>
+  </p>
+  <p id="d1e2666">
+   <s id="d1e2671">
+    Also, we contrasted a congruent product (tea) with an incongruent product (kettle).
+   </s>
+   <s id="d1e2676">
+    Since tourism is primarily a hedonic activity, it would be worthwhile to test whether our postulations would differ for hedonic versus utilitarian products that are both congruent to the country.
+   </s>
+   <s id="d1e2681">
+    While tourism marketers continue to overtly advertise travel destinations, consumers are concurrently exposed to product advertisements, or even physically seeing or using the products.
+   </s>
+   <s id="d1e2686">
+    Hence, another interesting future avenue would be to compare the differential effects of exposures to only mainstream tourism adverts versus exposures to both mainstream and product adverts.
+   </s>
+  </p>
+  <p id="d1e2691">
+   <s id="d1e2696">
+    Potentially, country knowledge forms a spectrum, and somewhere along the spectrum the extent of country knowledge overrides the ability of product image to exert evaluative conditioning via mere association.
+   </s>
+   <s id="d1e2701">
+    Alternatively, there may be inverse-U effects of product and country knowledge, such that the middle of either spectrum best amplifies the effect (e.g., Moorthy et al., 1997).
+   </s>
+   <s id="d1e2706">
+    For example, the tourists most likely to visit France for wine tourism may be those with a moderate amount of knowledge about French wine, rather than novices with little interest in wine, or experts who may have visited French vineyards in the past.
+   </s>
+   <s id="d1e2711">
+    Competing hy- potheses based on variations in product and country familiarity could be a rich basis for future investigations.
+   </s>
+  </p>
+  <p id="d1e2716">
+   <s id="d1e2721">
+    Finally, while we used visual images to target and weaken implicit attitude, visual imagery can be created by concrete words, for example, in radio advertising (Bolls &amp; Lang, 2003).
+   </s>
+   <s id="d1e2726">
+    Future research could assess whether our findings can be replicated using abstract or concrete words, and whether the effects of non-visual radio advertising can also be blocked, or not, by manipulations of cognitive and visual load.
+   </s>
+   <s id="d1e2731">
+    While we applied the mere association effect theory within a general tourism context by looking at the overall destination image, other specific tourism contexts (e.g., astro-tourism or green tourism destination) are further areas that future research can extend and generalise our study.
+   </s>
+  </p>
+  <p id="d1e2736">
+   <s id="d1e2741">
+    <span class="anchor" id="_bookmark20">
+    </span>
+    Appendix 1.
+   </s>
+  </p>
+  <p id="d1e2746">
+   <s id="d1e2751">
+    <span class="anchor" id="_bookmark21">
+    </span>
+    Appendix 2.
+   </s>
+  </p>
+  <p id="d1e2756">
+   <s id="d1e2761">
+    <span class="anchor" id="_bookmark22">
+    </span>
+    Appendix 3.
+   </s>
+  </p>
+  <p id="d1e2766">
+   <s id="d1e2771">
+    Variable Item description
+   </s>
+  </p>
+  <p id="d1e2776">
+   <s id="d1e2781">
+    Ad liking (5-point) (Bergkvist &amp; Rossiter, 2007)
+   </s>
+  </p>
+  <p id="d1e2786">
+   <s id="d1e2791">
+    Product Image (7-point) (Taylor &amp; Bearden, 2002)
+   </s>
+  </p>
+  <p id="d1e2796">
+   <s id="d1e2801">
+    Explicit destination-attitude (7-point) (Lee &amp; Lockshin, 2012)
+   </s>
+  </p>
+  <p id="d1e2806">
+   <s id="d1e2811">
+    Which of the following statements best describes your feelings about the ad? (I dislike it very much…I like it very much)
+   </s>
+  </p>
+  <p id="d1e2816">
+   <s id="d1e2821">
+    I believe the quality of this tea/kettle is (low…high)
+   </s>
+  </p>
+  <p id="d1e2826">
+   <s id="d1e2831">
+    I believe the quality of this tea/kettle is (worse than most brands…better than most brands) I believe this tea/kettle has (inferior quality…superior quality)
+   </s>
+  </p>
+  <p id="d1e2836">
+   <s id="d1e2841">
+    Overall, I believe the quality of this tea/kettle is (bad…good)
+   </s>
+  </p>
+  <p id="d1e2846">
+   <s id="d1e2851">
+    Kenya offers exciting and interesting places to visit (strongly disagree…strongly agree) Kenya has beautiful scenery and natural attractions (strongly disagree…strongly agree) Kenya has exciting nightlife and activities (strongly disagree…strongly agree)
+   </s>
+  </p>
+  <p id="d1e2856">
+   <s id="d1e2861">
+    As a tour destination, Kenya offers good value-for-money (strongly disagree…strongly agree) Overall, the image of Kenya as a tourist destination is good (strongly disagree…strongly agree)
+   </s>
+  </p>
+  <p id="d1e2866">
+   <s id="d1e2871">
+    Country familiarity (7-point) (Baloglu, 2001) How familiar are you with the country Kenya (very unfamiliar…very familiar)
+   </s>
+  </p>
+  <p id="d1e2876">
+   <s id="d1e2881">
+    How knowledge are you about the country Kenya (not knowledgeable…very knowledgeable)
+   </s>
+  </p>
+  <p id="d1e2886">
+   <s id="d1e2891">
+    Visit intention (7-point) (Lee &amp; Lockshin, 2012)
+   </s>
+  </p>
+  <p id="d1e2896">
+   <s id="d1e2901">
+    Rate your intentions to tour Kenya (very unlikely…very likely)
+   </s>
+  </p>
+ </body>
+</html>
