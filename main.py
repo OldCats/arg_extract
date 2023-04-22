@@ -32,19 +32,13 @@ def convert_xml_to_list(xml):
             row['Section'] = section
             row['p'] = p.attrs['id']
 
-            ss = []
-            ss.extend(p.findChildren('s'))
-
-            for s in ss:
+            for s in p.findChildren('s'):
                 try:
                     row['s'] = s.attrs['id']
                 except:
                     row['s'] = ''
             
-                args = []
-                args.extend(s.findChildren('arg'))
-
-                for arg in args:
+                for arg in s.findChildren('arg'):
                     row['text'] = arg.text
                     new_row = row.copy()
                     new_row.update(arg.attrs)
