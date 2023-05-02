@@ -3,7 +3,7 @@ from glob import glob
 import pandas as pd
 
 def list_xmls():
-    dirs = glob('*_batch_*')
+    dirs = glob('*input_xml*')
 
     xmls = []
     for dir in dirs:
