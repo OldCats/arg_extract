@@ -1,0 +1,11 @@
+name: arg_extract
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - bs4
+    - charset-normalizer
+    - exceptiongroup
+    - openpyxl
+    - pandas
